@@ -1,16 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Frontend blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Women Who Code Frontend`,
+      summary: `Inspiring women to excel in technology careers`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Frontend blog of the community, for the community and by the community`,
+    siteUrl: `https://frontendstudygroup.github.io/blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `WWCodeFrontEnd`,
     },
   },
+  pathPrefix: '/blog',
   plugins: [
     `gatsby-plugin-image`,
     {

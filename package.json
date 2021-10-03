@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "Women Who Code Frontend Blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Frontend blog of the community, for the community and by the community",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Women Who Code Frontend <frontend@womenwhocode.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -32,11 +32,14 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "prettier": "2.4.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://frontendstudygroup.github.io/blog",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "frontend",
+    "womenwhocode"
   ],
   "license": "0BSD",
   "main": "n/a",
@@ -51,6 +54,7 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }
