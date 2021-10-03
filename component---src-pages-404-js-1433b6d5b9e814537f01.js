@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkWomenWhoCodeFrontendBlog=self.webpackChunkWomenWhoCodeFrontendBlog||[]).push([[883],{9616:function(e,t,n){n.r(t);var o=n(7294),a=n(7198),l=n(3751);t.default=function(e){var t=e.data,n=e.location,u=t.site.siteMetadata.title;return o.createElement(a.Z,{location:n,title:u},o.createElement(l.Z,{title:"404: Not Found"}),o.createElement("h1",null,"404: Not Found"),o.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-1433b6d5b9e814537f01.js.map
