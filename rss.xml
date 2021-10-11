@@ -1,4 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Oct 2021 08:59:14 GMT</lastBuildDate><item><title><![CDATA[4 tips to ace Hacktoberfest 2021]]></title><description><![CDATA[This article was originally written by Princiya Sequeira in her blog where she wrote about Dear opensource - you are not easy. The…]]></description><link>https://frontendstudygroup.github.io/blog/how-to-ace-hacktoberfest/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/how-to-ace-hacktoberfest/</guid><pubDate>Sun, 03 Oct 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This article was originally written by &lt;a href=&quot;https://princiya.com&quot;&gt;Princiya Sequeira&lt;/a&gt; in her blog where she wrote about &lt;a href=&quot;https://princiya.com/blog/reality-of-opensource-contributions/&quot;&gt;Dear opensource - you are not easy&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Oct 2021 17:51:17 GMT</lastBuildDate><item><title><![CDATA[Weekly wrap up - October 11, 2021]]></title><description><![CDATA[Past meeting notes can be found here. Going forward, I (Princiya Sequeira, Women Who Code Leadership Fellow for Frontend) will publish our…]]></description><link>https://frontendstudygroup.github.io/blog/weekly-wrap-october-11/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/weekly-wrap-october-11/</guid><pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Past meeting notes can be found &lt;a href=&quot;https://docs.google.com/document/d/1-NoaHmWaCOKel9tpbWLbALOitKLJV8RtwKaX5maMT4g/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Going forward, I (&lt;a href=&quot;https://princiya.com&quot;&gt;Princiya Sequeira&lt;/a&gt;, Women Who Code Leadership Fellow for Frontend) will publish our weekly updates here in this blog. Before we get started with the updates for the first week of October, here is a quick recap:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I joined WWCode team as a Leadership Fellow for Frontend on August 23, 2021. Today is Week 8 since I joined the team in part-time capacity.&lt;/li&gt;
+&lt;li&gt;My personal goal for this fellowship is to increase the community activity and engagement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Week 1: October 1 - 10, 2021&lt;/h1&gt;
+&lt;h2&gt;Opensource study group&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We kicked off the opensource study group for &lt;a href=&quot;https://womenwhocode.com/frontend&quot;&gt;WWCode Frontend&lt;/a&gt; on October 1, 2021.&lt;/li&gt;
+&lt;li&gt;Since then we have had 15 pull requests merged and the community engagement has been great.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/frontendstudygroup&quot;&gt;Here&lt;/a&gt; are the repositories for contributions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/838623a22d7ecc0e6de58ac1bc7b0982/page.gif&quot; alt=&quot;Week 1 updates to the study group website&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Study group expectations&lt;/h3&gt;
+&lt;p&gt;Re-iterating the study group expectations which we have also outlined in the &lt;a href=&quot;https://github.com/frontendstudygroup/frontendstudygroup.github.io#expectations&quot;&gt;project’s readme&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Participation and maintenance of this project is completely voluntary and &lt;strong&gt;we are not committing to teach anything&lt;/strong&gt; as part of this effort.
+&lt;ul&gt;
+&lt;li&gt;If you want to practice together with us, this is a good place!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;We highly encourage you not to use third party UI frameworks. For example, if you want to design a carousel or a tooltip, do it from scratch.
+&lt;ul&gt;
+&lt;li&gt;However we do understand that sometimes we need to use some third party libraries like redux or react-dom-router. When in doubt discuss it on the issue you are working on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Find your own motivation to contribute to this repository and make sure you have the time.
+&lt;ul&gt;
+&lt;li&gt;Life happens, we get it. Just let us know if you cannot do something you’re assigned to and do NOT feel guilty about it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Things work best for all of us when contribution goals are driven by you&lt;/strong&gt;. We as maintainers will only guide you and validate your thought process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Be open and honest in your communication.&lt;/li&gt;
+&lt;li&gt;Be selfish! Aim to do what you intend to learn and do not feel forced to work on something against your will.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Study group observations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Using &lt;code class=&quot;language-text&quot;&gt;position: absolute&lt;/code&gt; seems to be everyone’s favorite.&lt;/li&gt;
+&lt;li&gt;The problem with CSS is that you can achieve the desired layout without even attempting to learn how CSS works.&lt;/li&gt;
+&lt;li&gt;I saw lot of folks resorting to use &lt;code class=&quot;language-text&quot;&gt;position: absolute&lt;/code&gt; and I had to explicitly tell many times why &lt;code class=&quot;language-text&quot;&gt;position: absolute&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;float&lt;/code&gt; css property is not an ideal choice.&lt;/li&gt;
+&lt;li&gt;We follow a &lt;strong&gt;“mentee driven approach”&lt;/strong&gt; which we have also highlighted in the above &lt;code class=&quot;language-text&quot;&gt;expectations&lt;/code&gt; section.&lt;/li&gt;
+&lt;li&gt;So if you are reading this post and curious to learn why &lt;code class=&quot;language-text&quot;&gt;position: absolute&lt;/code&gt; is not an ideal choice, I strongly suggest to read up on this and then share your learnings as a new blog post to this study group.&lt;/li&gt;
+&lt;li&gt;I bet you will be very happy to know that you would have enhanced your CSS skills :).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Study group testimonials&lt;/h3&gt;
+&lt;p&gt;I have had tears of joy last week when I received a lot of positive words. This definitely makes me bring in more ideas to the study group.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/cbff230c21b3b67e2832b9d91f1b913a/ea64c/testimonial1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 150.63291139240508%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAACXBIWXMAABYlAAAWJQFJUiTwAAADzklEQVRIx5VW2a7jRBD1d/FV/AD/gTSDNMxIIPHAD/A8g5BGwE1ys9pJvC+xE8fxvuSgU4nNJSSztFSqtt19+pzqqkqUsizw64/fQ/34G3TDgLpaYb1eizmOgzRN0TQNzuczuq57aFVVgVhKV8f44dtv8P6X7xDuI2iahjg+yIK6rvE1o6lrKHVV4hC60G0TwW4H13VxOBwQRRGSJBEfBAHCMMR+v0ccx/Jut9uJ5zt+z/McXddCydITZvMlRk8jjMdj2LYtm7noeDwKAI3gWZZJCLj5dDrJdz6TABV1bQslz1PZ7Ps+PM+Tk3kqnwnyVZKbGgoDSeo8pZdF4zONh/WSaVxLI7teLtkOgJT8PJ1itVphOp2Kqaom8ufzuXi+45x+NpthNBrh+flZvj09PWG5XIoyZoOSpie52e12C13XoamqGCX3QSdTeoaA8exV9MzJ9nzGBTDLUsznCywWc0zXDv5Wffy1dLB0Uli7BJ7rwnFc2cgMoBGon/PgPr1EcpFnCIKd3K4fBNjHCTx/B9N2Ydk2bNuCaZrCnsZ1BKKioiiEFRP7AthAKYt8kMA4+L53zT1/CPbnBquINgDyZAZWVVVMpzMpOwafsWUqkRXLkKwYw8dp00CpykIk8RYJ2AMtFovhlnmjvFnODcOQeFINL4sx7C+mbZtLDDebjQCQCW+SUmmsgizPr4Vfom1bqRJ5n2Uv5ikKfm+ugMy7yWQijCj3kkJbYcNwcGO/uWnaT0tmpaRpJsz66oiPx2slRIgPe+yjEFEYIAx8lEX2n4vobQBkYtv2JeBkZFsmzCDGzEowMjNMrBx/6ik+blJswgpJ0aJsugH0pRdANgcptckE2notF0P5W92EGZVQvVxs4WZYupnMk6J5DMgYFtkJpyRGnp6QDm2JOdjdWHv1n5KcZdC9I1Tdw2rrIAz32AWB5J3reVJFbLw023HEd1eA2yFpEx8iLLc2Fu4Rqp8gzgoUVYW27dB23b/+Ou+6M+q6QVXXKKtKvFhVSSkqnm3A2S6QVwWOeYqIsstykHFv9JuZSvS9sVyVRz9EBGRyv2xfrHEm9L21HIHvX0rvNsgcrAw23dFogvH4GZq2hmHoUqY9ids9wrCqyrsfKadvvJZlDW2LgJT8RYAvPQFZ44ZhwrLswZj8Xwz4f4b8B7ERlpvNFqZpwTQ+y7B4CLiWytEEVNcNYchmwfje28NWJv8c7g2mgaZq0LSNxI/9j8aGe5sZPWAUhVCS5CgnEqD3lMTOzHh9+P0PvHr1Bu/e/Yy3b3/C69dvBJRldruH6fUPEsLr2Djl9dMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Testimonial 1&quot;
+        title=&quot;Testimonial 1&quot;
+        src=&quot;/blog/static/cbff230c21b3b67e2832b9d91f1b913a/f058b/testimonial1.png&quot;
+        srcset=&quot;/blog/static/cbff230c21b3b67e2832b9d91f1b913a/c26ae/testimonial1.png 158w,
+/blog/static/cbff230c21b3b67e2832b9d91f1b913a/6bdcf/testimonial1.png 315w,
+/blog/static/cbff230c21b3b67e2832b9d91f1b913a/f058b/testimonial1.png 630w,
+/blog/static/cbff230c21b3b67e2832b9d91f1b913a/40601/testimonial1.png 945w,
+/blog/static/cbff230c21b3b67e2832b9d91f1b913a/ea64c/testimonial1.png 1116w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/58680f1430addc0a23d35af726682475/84ee5/testimonial2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC4UlEQVQ4y52STW8bVRSGR6pqEtwkrdIkdqhUit0ugLZIhEahEqxY8AP4DyxAokAkGjeK2kSCSl2zYMOGPT+BDSgSEpVb1+OZOx+e8dge2/HMeMZ2ZTt2H+QLSCBYcaRH517do/d8XSUI6/zw/bdUyiqmaUo0TceybSqahuO6dLtdBoMBk8mE0WjEaDxm/DdOT0/l2xyl0SzzyUcfcvzzT9QbTVzXIQq6kqB7QhQGJEkiGQ6H9JOY4SBhOOjT7//BPMlsNpMoo9EYp+pw0j3hpNOhHcT4yQv8eEojnhEOJlIgCEOiMKSTTPCiKZ14TBLHBEFAFEX8ZUqv10MXOrou0HUNtaJRFlWeCZcnuotu1ylXBOWyiqqqqMJCNWvopoPQdUqlZ2iahu/7TKdTlDiOZaBt2ziOg2EITEPHcjyeWG1Kdhu12sG2q1imgdBUHNug5tgIoWNZFo1GQ85PVhhGkcxumhZ2tSq947gIw5DB8wRzIcupoTodikaTouFTqQVoVg1D6HKRrVZLLkeZz6VSLtHwaliGjlu1sAwN2xQIISiVnqKZVR5bAb+aEcdGxLEI8cPnxP0hcdyTC5t3KlsOk+c8Vm2KmstT4VHUPX4pWvymOniNJq2WT71ex/ebtFs+nXaLRt3Dq7m0Wy05O8/zZMz8Cyn9EajtGVpnxmAK/VPojZHn/2NK4bsf+fizfT794j4HB0fcK9znm68fcXT0kELhkL3CIXf3H3D33gMKB0fs7R/y5Vf73Nnd485u4R98vltAOZe9jHLmAumVy1y6cZ1Xbt4kv73Nlbe3uLazQ/7WNvk3t1i/dI3NV1/n6hvvcGZpFUVJoSgL/+aD92+zuLxO6kKG9FaO9O086Z0c6Vs50u/meXnrCgvnMywuZ1lYzvDS0gbp85ssrmT/EyXz1nukVjZZWMpwMZtndeM11rJ51rJXJasbOS5u5mWFq9mcZH6fC59Nr5E6t04qvcbZP/3vX18YMCnu+70AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Testimonial 1&quot;
+        title=&quot;Testimonial 1&quot;
+        src=&quot;/blog/static/58680f1430addc0a23d35af726682475/f058b/testimonial2.png&quot;
+        srcset=&quot;/blog/static/58680f1430addc0a23d35af726682475/c26ae/testimonial2.png 158w,
+/blog/static/58680f1430addc0a23d35af726682475/6bdcf/testimonial2.png 315w,
+/blog/static/58680f1430addc0a23d35af726682475/f058b/testimonial2.png 630w,
+/blog/static/58680f1430addc0a23d35af726682475/40601/testimonial2.png 945w,
+/blog/static/58680f1430addc0a23d35af726682475/84ee5/testimonial2.png 1076w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;The opensource chat show - Episode 2&lt;/h2&gt;
+&lt;p&gt;In the &lt;a href=&quot;./how-to-ace-hacktoberfest&quot;&gt;first episode&lt;/a&gt; we discussed tips on how to make the most out of the hacktoberfest month or through your opensource contributions.&lt;/p&gt;
+&lt;p&gt;In the 2nd episode we discussed tips about how to pick an opensource project itself, not to be overwhelmed and also learn about opensource licenses.&lt;/p&gt;
+&lt;p&gt;We had Kavya Jaiswal and Pragati Verma join us and tell us about their opensource adventures.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/7fae93644d23dac87a696caa8321a9c3/c1b63/october8.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACl0lEQVQoz1WRW0iTYRjHv4ugsqhIMkO6SSzIyCACyTYdM03sIqkL6c4uuijIUrF02pzOeT7MpRMpr3TOY5ZGNY0QTA2JCDqIZJQYTl0eN0/f5i/2ug4+8P++93t5/r/3/7yfdFRzk3BNEkHauxwsKGaPLpe9ujyhnVodgXo9sVXFhJcXsUurwz8v/29PoKGAfbl6dufkImVokNLSkcyD/fhn3xMfwSVlhJSWc6LSyFlzLSeNVYQZTYSUGwkpq+RYWYXYO22qJrTCSFiVSXi8cCk9g1tPnyCBm5HpSUr6XhNbX09QYRHSnVSklDRxakB+AcElpRwyFHKkpIzt2drNJLdTBSiyrg7Ny+cMj38DZCS37ALWgQ3Aw7xzju7Rz0Q8fMSO7BwxYoChiMOFxRzQG/DT6jheYaRm4A1Tiw4B2fTKeORlJDwrYiHLLtZWF/GWrbMdU3kBlW8H2Z+nxy8zXaTapskipbcH2zMrvY1m0euWncLrDbbhXkbyPv7IIztF09WEi2iSroj19MIUmTfiyap7wMSqE3naTsqlKBKVYYyNfBFTeXwwb7gtQFhjcWGW5OT7GPJr+DU/C/IcpdcU1GRdFwf86BtAfyYCoyKar8PDYlzPukvABBAf2b3uFNClhRnsk+P8nBjD4ZjCZf9AlyaUtMRTrLhmWXTY+TQ8xOj7d8zP2tnweb0pvZIGhvqxvbJ5b4N/5fFdNCzMfOdjfxt9tnaWxE/A17vO1nILj1Rda8ZkrqG9rYXHHa20tVqxNjXSbG3cfDc30WBpwmKxYG1qwGppoNlqocVqoa21mY72FqHenhd0d3UixcZcIC4uHrU6hujoGFQqNQpFJApF1H9SojgXiVL5/14kKlU0avV5oYSEy4LzG4oVhLoPgH0IAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;October 8 speakers&quot;
+        title=&quot;October 8 speakers&quot;
+        src=&quot;/blog/static/7fae93644d23dac87a696caa8321a9c3/f058b/october8.png&quot;
+        srcset=&quot;/blog/static/7fae93644d23dac87a696caa8321a9c3/c26ae/october8.png 158w,
+/blog/static/7fae93644d23dac87a696caa8321a9c3/6bdcf/october8.png 315w,
+/blog/static/7fae93644d23dac87a696caa8321a9c3/f058b/october8.png 630w,
+/blog/static/7fae93644d23dac87a696caa8321a9c3/40601/october8.png 945w,
+/blog/static/7fae93644d23dac87a696caa8321a9c3/c1b63/october8.png 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Key highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It is important to have a personal goal so that you can narrow down your searches and find a good first project for contribution.&lt;/li&gt;
+&lt;li&gt;Opensource is for everyone,don’t restrict yourself.&lt;/li&gt;
+&lt;li&gt;Patience is the key, sky is the limit!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1W2KU0SqYUW34xAnBC5scKckK-J2Bz5Bv/view?usp=sharing&quot;&gt;Episode 2 - video recording&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pragati Verma wrote more about opensource licenses in &lt;a href=&quot;https://dev.to/pragativerma18/how-to-pick-an-open-source-project-to-contribute-to-4kak&quot;&gt;this blog post&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://outreachy.org&quot;&gt;Outreachy internship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fellowship.mlh.io/&quot;&gt;MLH Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://princiya.com/blog/ace-your-outreachy-application/&quot;&gt;How to ace your outreachy application&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[4 tips to ace Hacktoberfest 2021]]></title><description><![CDATA[This article was originally written by Princiya Sequeira in her blog where she wrote about Dear opensource - you are not easy. The…]]></description><link>https://frontendstudygroup.github.io/blog/how-to-ace-hacktoberfest/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/how-to-ace-hacktoberfest/</guid><pubDate>Sun, 03 Oct 2021 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This article was originally written by &lt;a href=&quot;https://princiya.com&quot;&gt;Princiya Sequeira&lt;/a&gt; in her blog where she wrote about &lt;a href=&quot;https://princiya.com/blog/reality-of-opensource-contributions/&quot;&gt;Dear opensource - you are not easy&lt;/a&gt;.&lt;/p&gt;
 &lt;h1&gt;The Opensource dilemma&lt;/h1&gt;
 &lt;p&gt;Are you a first-time opensource contributor and find opensource overwhelming? Does it happen that everyone’s been talking only about good things, and you are struggling to find the time or motivation to contribute? In this article, &lt;a href=&quot;https://princiya.com/blog/reality-of-opensource-contributions/&quot;&gt;Princiya Sequiera&lt;/a&gt; shares tips on how to make the most of hacktoberfest.&lt;/p&gt;
 &lt;p&gt;&lt;span
