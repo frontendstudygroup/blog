@@ -43,6 +43,13 @@ Re-iterating the study group expectations which we have also outlined in the [pr
 - So if you are reading this post and curious to learn why `position: absolute` is not an ideal choice, I strongly suggest to read up on this and then share your learnings as a new blog post to this study group.
 - I bet you will be very happy to know that you would have enhanced your CSS skills :).
 
+### Study group #applaud-her ✨
+
+- Women Who Code has an active culture of showing appreciations and applauding folks.
+- This study group has been successful in its first week due to all active contributors and keeping the contributions flowing.
+- Also, I would like to #applaud-her to [Sunitha Patel](https://twitter.com/sunithapateldev) who has been so active in the slack group and in the Github repository. She has been also collaborating with the Women Who Code Cloud track in bringing in the cloud related issues and extending the scope of our study group web application.
+- Thank you 😍 Sunitha Patel 😍 for your awesome spirit and helping our community learn and grow. She is also starting a new job at Shopify today and we wish her nothing but the best. WomenWhoCode and Shopify are both lucky to have you. Rise and shine ✨.
+
 ### Study group testimonials
 
 I have had tears of joy last week when I received a lot of positive words. This definitely makes me bring in more ideas to the study group.
