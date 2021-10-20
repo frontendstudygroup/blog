@@ -1,4 +1,251 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Oct 2021 18:30:10 GMT</lastBuildDate><item><title><![CDATA[Weekly wrap up - October 11, 2021]]></title><description><![CDATA[Past meeting notes can be found here. Going forward, I (Princiya Sequeira, Women Who Code Leadership Fellow for Frontend) will publish our…]]></description><link>https://frontendstudygroup.github.io/blog/weekly-wrap-october-11/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/weekly-wrap-october-11/</guid><pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Past meeting notes can be found &lt;a href=&quot;https://docs.google.com/document/d/1-NoaHmWaCOKel9tpbWLbALOitKLJV8RtwKaX5maMT4g/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Oct 2021 19:54:46 GMT</lastBuildDate><item><title><![CDATA[A Beginner's Guide to Open Source]]></title><description><![CDATA[This article was originally written by Tolu Adegboyega on her blog. Contributing to open source can be daunting for a lot of people, at…]]></description><link>https://frontendstudygroup.github.io/blog/a-beginners-guide-to-open-source/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/a-beginners-guide-to-open-source/</guid><pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This article was originally written by &lt;a href=&quot;https://twitter.com/ToluAdegboyega_&quot;&gt;Tolu Adegboyega&lt;/a&gt; on her &lt;a href=&quot;https://blog.toluadegboyega.dev/a-beginners-guide-to-open-source&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Contributing to open source can be daunting for a lot of people, at least I know it was for me. Although I wanted to contribute to open source, I was not sure how to go about it. I finally took the plunge during Hacktoberfest 2021 and made my first open source contribution, and you can too.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;What even is Open Source? 🤔&lt;/h2&gt;
+&lt;p&gt;Open Source Software(OSS) is software with source code that anyone can inspect, modify, enhance and distribute under a &lt;a href=&quot;https://opensource.org/licenses/alphabetical&quot;&gt;license&lt;/a&gt;. A lot of the technologies that we use today, such as Android, Firefox, Git, Linux, TypeScript and VLC media player are built on OSS.&lt;/p&gt;
+&lt;p&gt;Open source code is usually developed and maintained collaboratively by a community of its users. Although the primary goal of open source projects is to create valuable and accessible open source software, it is also beneficial to its contributors. Benefits of contributing to open source include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Honing one’s technical skills by getting the opportunity to work on real-world projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improving soft skills such as communication and giving/receiving feedback.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meeting new people and expanding your network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;…and Hacktoberfest? 🧐&lt;/h2&gt;
+&lt;p&gt;Chances are that you’ve seen the word ‘Hacktoberfest’ come up a lot especially in the month of October. While contributions to open source can be made any time, Hacktoberfest is a month-long celebration of open source hosted by &lt;a href=&quot;https://hacktoberfest.digitalocean.com&quot;&gt;DigitalOcean&lt;/a&gt;. Hacktoberfest aims to promote, celebrate and encourage people to contribute to open source. It is a great time to get started with open source contributions.&lt;/p&gt;
+&lt;p&gt;To participate, sign up on the official &lt;a href=&quot;https://hacktoberfest.digitalocean.com/register&quot;&gt;Hacktoberfest&lt;/a&gt;  website between October 1st and October 31st. This ensures that your contributions count. A participant has to make four(4) valid pull requests in participating GitHub or GitLab repositories. Participating repositories are labelled &lt;code class=&quot;language-text&quot;&gt;hacktoberfest&lt;/code&gt;, alternatively, merged pull requests can also be labelled &lt;code class=&quot;language-text&quot;&gt;hacktoberfest-accepted&lt;/code&gt; to participate. Once these 4 pull requests are merged into the repositories and pass the fourteen(14) day review period, a participant is eligible to win swags which include, a T-shirt and limited edition stickers or could choose to plant a tree!&lt;/p&gt;
+&lt;h2&gt;Finding Projects to Contribute To&lt;/h2&gt;
+&lt;p&gt;This is where it might get a little intimidating at first as a lot of projects can seem complex. Do not fret, there are a number of ways to find projects that are of interest to you and are on your skill level to ease you in.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Developer Communities&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Developer communities provide a platform for developers to learn, interact, share ideas, support each other, stay up-to-date and grow. These communities can be very beneficial to starting your open source journey.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.womenwhocode.com/frontend&quot;&gt;Women Who Code Frontend&lt;/a&gt; started a dedicated study group &lt;a href=&quot;https://github.com/frontendstudygroup/frontendstudygroup.github.io&quot;&gt;project&lt;/a&gt; to learn about front end technologies as well as how to collaborate on an open source project.&lt;/p&gt;
+&lt;p&gt;This was my first open source contribution.&lt;/p&gt;
+&lt;p&gt;There was an existing issue, issue #2 &lt;code class=&quot;language-text&quot;&gt;Design the header&lt;/code&gt;. It was just the right one as implementing an header is something I have experience working on. Per the rules of the project, I commented on the issue of my proposed plans, asked for feedback and politely requested to be assigned the issue. I soon got to work.&lt;/p&gt;
+&lt;p&gt;Working on issue #2, not only did I learn something technically—a new css hover effect, it further reinforced to me how important communication and collaboration are, especially working with people for the first-time.&lt;/p&gt;
+&lt;p&gt;The community has been super open(pun fully intended 😏), helpful and supportive. In addition to creating the study group project, a blog has also been created and webinars organized weekly through out the month of October to discuss open source! I honestly couldn’t have asked for a better first contribution as it helped boost my confidence to further participate.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Social Media and Online Resources&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For my second contribution, while browsing through the hacktoberfest hashtag on Twitter, I saw several tweets calling for contributors to open source repositories. I soon found one that aligned with my interest.&lt;/p&gt;
+&lt;p&gt;Subsequent contributions have come from &lt;a href=&quot;https://goodfirstissues.com/&quot;&gt;goodfirstissues.com&lt;/a&gt;, this is a website that aggregates beginner-friendly, open source repositories looking for help.  You can filter according to language, label and repository, making it even easier to find issues to work on.&lt;/p&gt;
+&lt;p&gt;Other websites to find repositories to contribute to include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://codetriage.com&quot;&gt;codetriage.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://goodfirstissue.dev&quot;&gt;goodfirstissue.dev&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://up-for-grabs.net&quot;&gt;up-for-grabs.net&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;GitHub&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;GitHub is a great way to find open source projects to work on. You can take advantage of GitHub’s advanced search feature and prefixes to improve your search.&lt;/p&gt;
+&lt;p&gt;Search can be filtered based on many factors such as issue label, language, number of forks and so on. Labels to search for as a beginner include &lt;code class=&quot;language-text&quot;&gt;help-wanted&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;first-timers-only&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;good-first-bug&lt;/code&gt;.&lt;/p&gt;
+&lt;h2&gt;Contributing to Your First Project&lt;/h2&gt;
+&lt;p&gt;Contributing to open source is not limited to writing code. You can contribute by improving the documentation, opening issues, or labeling pull requests.&lt;/p&gt;
+&lt;p&gt;Most projects will have guidelines specific to the project. These can usually be found in the &lt;code class=&quot;language-text&quot;&gt;README.md&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;CONTRIBUTING.md&lt;/code&gt; file. Make sure to read the whole document thoroughly and be sure that you’re following guidelines that project maintainers have specified.&lt;/p&gt;
+&lt;p&gt;After choosing an open source project to work on, there are a few ways you can decide on what you would like to contribute to the project. You can work on pre-existing issues which can be found under the &lt;code class=&quot;language-text&quot;&gt;Issues&lt;/code&gt; tab on GitHub.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/c093f5f73061ede6657774e9b8dca4c9/302a4/issues.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 22.78481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAAsTAAALEwEAmpwYAAABBElEQVQY022PS07DQBBEfW0uwS0QbCIhIbHLBrgDKBISwWAn8Wc+nq9n7IcyQaxYlKq7S11dXTWjp+4cnx89dSOpB8/ucMFb49i1vqCTDm0co5oYhCLEhNAGNRl8iPSjRBtLdVSOr9sN7/eP1HcbTu3A/qSpj5Lv3rA/SJrB0HYCoSZOgyyGo5zoRllm3SBRk8W6SBVSZtpuEU/PhaPWuBBwzjHPM857YowY63A+lDRxTljn/+qixYiNgUoqXUR97BD9iHGBmDJhTuWtOF/q82JeFrSeUFqTUkIIiZSyHL55feDq5ZqqadqSQhlbkq3r+i+WX845k3Iu/dn0jGVZsLNHR8MPa9l8ngbqrgIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;GitHub Issues&quot;
+        title=&quot;GitHub Issues&quot;
+        src=&quot;/blog/static/c093f5f73061ede6657774e9b8dca4c9/f058b/issues.png&quot;
+        srcset=&quot;/blog/static/c093f5f73061ede6657774e9b8dca4c9/c26ae/issues.png 158w,
+/blog/static/c093f5f73061ede6657774e9b8dca4c9/6bdcf/issues.png 315w,
+/blog/static/c093f5f73061ede6657774e9b8dca4c9/f058b/issues.png 630w,
+/blog/static/c093f5f73061ede6657774e9b8dca4c9/40601/issues.png 945w,
+/blog/static/c093f5f73061ede6657774e9b8dca4c9/302a4/issues.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;If you find an issue that you’re interested in, it is best to comment on the issue outlining how you’d go about implementing a solution. In some cases, you can ask to be assigned the issue. It is important to be polite in your communication.&lt;/p&gt;
+&lt;p&gt;You can also create a new issue based on a bug you’ve noticed or a feature you think needs to be
+implemented or improved upon. Keep in mind that the decision to approve your new issue is ultimately at the discretion of the project maintainer.&lt;/p&gt;
+&lt;p&gt;Now that you’ve decided on an issue to work one, you can start the process of contributing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Fork the Repository&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This will make a copy of the original repository. That means you can make any changes you want to the forked repository, without affecting the original one.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6a382716275122fc2e1066c89de2250e/302a4/fork-repo.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 20.253164556962027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA6ElEQVQY0z2Ou07DQBQF/f9/wR9AgahooEEBWhQRHhImiZ3Neh+++/Cu40EBiWI00xzpNHaMtDrR6szXMbPVkY8+sekS613ktUu89YmDiYwSORqHHYWYMtoLoVeox2esG/GrJxovkX0/oIywO1i0C+yUpe0GukH47g3KBPZqwHpBaUuUCW8DRiJqu0dd32Dv7nEPK5qSJ4Jz5JwptTLPM7VWSin/nVImxPT76uz18ZN33ZJzodSZWYRqDDVPNFOpaOOQkFiA02lhWf44/RqM9XgJOD9ivOfi5ZKrzS19dyDGSJom6nkM/ACjbzAzjZYHWwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Fork Repository&quot;
+        title=&quot;Fork Repository&quot;
+        src=&quot;/blog/static/6a382716275122fc2e1066c89de2250e/f058b/fork-repo.png&quot;
+        srcset=&quot;/blog/static/6a382716275122fc2e1066c89de2250e/c26ae/fork-repo.png 158w,
+/blog/static/6a382716275122fc2e1066c89de2250e/6bdcf/fork-repo.png 315w,
+/blog/static/6a382716275122fc2e1066c89de2250e/f058b/fork-repo.png 630w,
+/blog/static/6a382716275122fc2e1066c89de2250e/40601/fork-repo.png 945w,
+/blog/static/6a382716275122fc2e1066c89de2250e/302a4/fork-repo.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Once you click the &lt;code class=&quot;language-text&quot;&gt;Fork&lt;/code&gt; button, GitHub will redirect you to your copy of the original repo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Clone your Forked Repository&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Click the &lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt; button and copy the URL that’s provided.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/fb3deb8410a458462a29efa0230f60bf/302a4/clone-repo.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43.0379746835443%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAABmUlEQVQoz3VS26oUMRCc/3/xF/wJP0GEAyKKHBTXh72e2dmZJNOX3GZmS9KL65OBgqaTVFVX0u2vjB+XiF99wq6P+H5UfD0ovh0UP98SXs8Rg1eQRGgquN7co44Zo5sRU8HkCTOJ1d25H3EeBceBcRwIp1GxvxJ6r7h5hqMIP4uRBBIEVjjif3VgSMyGJtixc0iqEFEQM1LKYGlqGWEmxJTA+nBErEi5Ys0bombr+0DIZUGuD3SBGCSK/61aF0zOg1VBQbAbD3j35T0+Hj6jaH6e27YNuRR03s9QIggLZhY0gabKomBmLMuCZV2xbhu2dUOsCa+33zhNPS7nNwzDDd4HELERd30QvPSK3STWdIEsl3bocjpjnJxF0NRTzuYYK5BTsT2N0Yju9/uD8OUS8KFf8WmoGF0w9CFj1mw5ttxals7PmFyAaITEhFKqoY3auLbtbqTdRAVFCEJkozUnMzGYBc55Q7u4trHX9ZlZe8T98WQCf90Z4dAIS3k2WmbmQqMRN+RcUOqCUiuyOSv25xxnjHNCXdYn4R8Se7RixaAb8AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Clone Repository&quot;
+        title=&quot;Clone Repository&quot;
+        src=&quot;/blog/static/fb3deb8410a458462a29efa0230f60bf/f058b/clone-repo.png&quot;
+        srcset=&quot;/blog/static/fb3deb8410a458462a29efa0230f60bf/c26ae/clone-repo.png 158w,
+/blog/static/fb3deb8410a458462a29efa0230f60bf/6bdcf/clone-repo.png 315w,
+/blog/static/fb3deb8410a458462a29efa0230f60bf/f058b/clone-repo.png 630w,
+/blog/static/fb3deb8410a458462a29efa0230f60bf/40601/clone-repo.png 945w,
+/blog/static/fb3deb8410a458462a29efa0230f60bf/302a4/clone-repo.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;On your local machine, run the following Git command:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git clone https://github.com/&amp;lt;your_profile_name&gt;/&amp;lt;repo_name&gt;.git&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This clones the repository on your machine so you can work on it. You can then open the repository in your code editor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Create a Branch&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Before you start working, create a separate branch that will hold all the code that you add or edit.&lt;/p&gt;
+&lt;p&gt;You can create a branch by running the following Git command:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git checkout -b &amp;lt;branch_name&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Make Changes&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now you can make code changes, update the documentation, organize the files, or anything else!
+All contributions are important and valuable.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Commit and Push your Changes&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Once you are satisfied with your code, you can commit and push your changes to GitHub.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git add .
+git commit -m &apos;commit message&apos;
+git push -u origin &amp;lt;your_branch_name&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Create a Pull Request&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Click on the &lt;code class=&quot;language-text&quot;&gt;New pull request&lt;/code&gt; button under the &lt;code class=&quot;language-text&quot;&gt;Pull requests&lt;/code&gt; tab in your forked repository on the GitHub. GitHub will automatically compare your changes to the original repository. You will also be shown a text editor. Fill this in with the relevant information needed to understand the work you’ve just done. Click the &lt;code class=&quot;language-text&quot;&gt;Create pull request&lt;/code&gt; button.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b0e09c294f549e747bebee504158c183/302a4/create-pr.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB90lEQVQ4y5WUy47UMBBF+9tZ8QWIDXt+gxVidkhILFi0ZqYn6c7Ldvys+HGRK51WZhoksHRUcUl1XfGt5OCcg5QK2hhIKWGsxf+sUirlxsEYi2EYIYREP4yQSiEEQghhB8F7D+8Do32CDhmOMovs14GWCG0dZm2hZoNRSIyT5Gich1Az531YECjCBYINC+NC5FxY1hhTWgVHOaO5dHg5X/D43ODp1OLUnCGUxqUf0Zw7tN2AYZKwnuBYjPh5w3hC1TqkXCCtxWnq0YoJwzRjEDO6UaKfFMe6V9pBGceFxq2iVaB252k9gJaEg/j1E+PxiF4T2l6gHRSaTmJ2C0zIMCFxtJRve11zPkHOBkpbLCkjb6ZEZ+Gtg9AOYraM9QtCLKAEUI2x8P41mQ+taJ8R02rOga0H2MUYI4gIKcWbwz4EzuWceUb2I3I/QmUVrO5UA4Qy0NbD1Yt2gTE1Xo3wV/j+YrqbwVuHMWUu3Be/Ze+ovTq6dbXvlgVTyrtiuit+K2j+RfB18Z4170PEQhlEGQsVxJjX27++9p3gNgJb3FPvTViNF9WhnUccxwadmv7eYcwFz4PDpev5ex7Glb4f0HYdEhU8tD/w/tsnfPz+Ge++fsCXpwcWSCX/QTBGzMZBGwuzo/6BdM37BEeFBzvn8mpMsM3dVfA3lu6NreKFjaAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Create PR&quot;
+        title=&quot;Create PR&quot;
+        src=&quot;/blog/static/b0e09c294f549e747bebee504158c183/f058b/create-pr.png&quot;
+        srcset=&quot;/blog/static/b0e09c294f549e747bebee504158c183/c26ae/create-pr.png 158w,
+/blog/static/b0e09c294f549e747bebee504158c183/6bdcf/create-pr.png 315w,
+/blog/static/b0e09c294f549e747bebee504158c183/f058b/create-pr.png 630w,
+/blog/static/b0e09c294f549e747bebee504158c183/40601/create-pr.png 945w,
+/blog/static/b0e09c294f549e747bebee504158c183/302a4/create-pr.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Voila! You have made changes and just created a pull request. 👏🏾&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;What Next?&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wait for the project maintainer(s) to review your changes. Upon review, you may be requested to make changes to the work you’ve done. If all goes well, your pull request will be approved and the project maintainer(s) will merge your contributions into the codebase. You’ll officially become an open source contributor! 🎉&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Open source contribution for me has been an amazing and rewarding learning experience. I hope this post helps to give a better understanding of open source and inspires you to get involved. It might take a few tries to fully put your skills to use, but there is a place for everyone willing to contribute to open source.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Weekly wrap up - October 11, 2021]]></title><description><![CDATA[Past meeting notes can be found here. Going forward, I (Princiya Sequeira, Women Who Code Leadership Fellow for Frontend) will publish our…]]></description><link>https://frontendstudygroup.github.io/blog/weekly-wrap-october-11/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/weekly-wrap-october-11/</guid><pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Past meeting notes can be found &lt;a href=&quot;https://docs.google.com/document/d/1-NoaHmWaCOKel9tpbWLbALOitKLJV8RtwKaX5maMT4g/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Going forward, I (&lt;a href=&quot;https://princiya.com&quot;&gt;Princiya Sequeira&lt;/a&gt;, Women Who Code Leadership Fellow for Frontend) will publish our weekly updates here in this blog. Before we get started with the updates for the first week of October, here is a quick recap:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I joined WWCode team as a Leadership Fellow for Frontend on August 23, 2021. Today is Week 8 since I joined the team in part-time capacity.&lt;/li&gt;
