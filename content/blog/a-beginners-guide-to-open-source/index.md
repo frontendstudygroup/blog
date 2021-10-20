@@ -1,6 +1,6 @@
 ---
 title: A Beginner's Guide to Open Source
-date: "2021-10-19"
+date: "2021-10-20"
 description: "This article is a guide to contributing to open source and participating in Hacktoberfest for the first time."
 ---
 
