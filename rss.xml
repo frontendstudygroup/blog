@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 20 Oct 2021 19:54:46 GMT</lastBuildDate><item><title><![CDATA[A Beginner's Guide to Open Source]]></title><description><![CDATA[This article was originally written by Tolu Adegboyega on her blog. Contributing to open source can be daunting for a lot of people, at…]]></description><link>https://frontendstudygroup.github.io/blog/a-beginners-guide-to-open-source/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/a-beginners-guide-to-open-source/</guid><pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This article was originally written by &lt;a href=&quot;https://twitter.com/ToluAdegboyega_&quot;&gt;Tolu Adegboyega&lt;/a&gt; on her &lt;a href=&quot;https://blog.toluadegboyega.dev/a-beginners-guide-to-open-source&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 25 Oct 2021 19:40:36 GMT</lastBuildDate><item><title><![CDATA[Weekly wrap up - October 24, 2021]]></title><description><![CDATA[Opensource study group We kicked off the opensource study group for WWCode Frontend on October 1, 2021. Since then we have had 25 pull…]]></description><link>https://frontendstudygroup.github.io/blog/weekly-wrap-october-24/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/weekly-wrap-october-24/</guid><pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Opensource study group&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We kicked off the opensource study group for &lt;a href=&quot;https://womenwhocode.com/frontend&quot;&gt;WWCode Frontend&lt;/a&gt; on October 1, 2021.&lt;/li&gt;
+&lt;li&gt;Since then we have had 25 pull requests merged and the community engagement has been great. ~10 pull requests merged during the second week. 🎉&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/frontendstudygroup&quot;&gt;Here&lt;/a&gt; are the repositories for contributions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Study group observations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I am overall happy with the outcome of the study group itself. Week 1 was busy, since this was a new thing, folks were excited and the “getting into” phase was relatively easy.&lt;/li&gt;
+&lt;li&gt;Over the weeks lot of pull requests got merged and this was a good collaboration for folks learning opensource for the first time, understand how things work and also how to take up different things and work in parallel together with others.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Study group #applaud-her ✨&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;To everyone who contributed to the studygroup repositories - both code and blog.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The opensource chat show - Episode 2 and Episode 3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLVcEZG2JPVhdikCnEeGTOcRNzE28-k-_E&quot;&gt;Youtube Hacktoberfest 2021 playlist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In the first episode we discussed tips on how to make the most out of your opensource contributions, why it is important to have a motivation which will in turn help you better decide what you want to do and also how to be a little selfish in choosing what you want to do with opensource.&lt;/p&gt;
+&lt;p&gt;In the 2nd episode we discussed tips about how to pick an opensource project itself, not to be overwhelmed and also learned about opensource licenses. The key message from our speakers was that opensource is for everyone, and not to restrict yourself. Patience is the key, sky is the limit!&lt;/p&gt;
+&lt;p&gt;In the 3rd episode of the opensource chat show we spoke in particular about the different types of opensource contributions you can make, which are not just limited to writing code. Both our speakers had lot of useful insights to share about their opensource journeys and how they contributed to opensource in various ways.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/8f342f779195b793390018398dfdfb6d/c1b63/october15.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACjklEQVQoz02RXUiTURzGX4guwqhISsurCvNCUqSLDJwfrDSRLqTrLropTAxE03SJbs6p06nb0JkX3phTZ5qZVGofOkcGXhgUUgiCUn4lNJ37cB/+4j067Q/Pe87/Pc/znOecI11W5ZOsukdMZSlRtXpOqDWcVFcLHKtUE63VkmXSk9xUT0SlmsjqmgNOtK6WUxotx6s0SGUqpOISJMu0g8iKJ6K51GAgtrGJ+OYWrrdZSDCaSTSaiW0yEmtoIc7QTILRxFVzK/HNRhJNZqGRzaWSMh4Nv0KCID/WV2iY/ERWZyfna+vEolRaLnY9p6vjor5RpLmgbxQppeJSpMJiYZTW0YFq9C0zSwtAACkYcAN+YBfZ3OVz0Wn/SFxNDRFqLZHVWqJ09cTU6Tmj1RFRpSGu0YBpapK1rQ1hsqcNEAp4kAh5xSQQcLPj3USuia52npXnU+ewc1qr42hZCVLJY46oKigaH8XSamHOMSW4/h2X0MrBdoMeJPkTBvjwuJ1cS0oiJfYKC7OzbBKkWZdPQXkBix6XOEV+XhWm1m5hGPRvH+pD3kNDOaUce3V5kQf38yh4WITDPilEww15PL2bjs+5jG/Hi84wRP+QXfD/NxOG7Dfhnba3NlhbWeTX0jzOv2v4vU5mLLcpzDnLz2/TeNybzH3/KrCx/vtAGwq4BaTPXxyMfRgTRwmXbBy+z+2tP8zPjDDxxsr66tIeIeSBXd/+Y4YrKB5Ham23YLa0MfDCxsvBfvptvfT1dmPr66G3p1ug67kVa08Pfb1W0ctrtj6r0AzKGLDxfvwdI6+HkLIyb5GdnYNSmYnyRiYZGUpSFGkoFOkCqanymIYiJfXgn+gVaYKrVN4UyM29I3z+AY08hgvCDuVxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;October 15 speakers&quot;
+        title=&quot;October 15 speakers&quot;
+        src=&quot;/blog/static/8f342f779195b793390018398dfdfb6d/f058b/october15.png&quot;
+        srcset=&quot;/blog/static/8f342f779195b793390018398dfdfb6d/c26ae/october15.png 158w,
+/blog/static/8f342f779195b793390018398dfdfb6d/6bdcf/october15.png 315w,
+/blog/static/8f342f779195b793390018398dfdfb6d/f058b/october15.png 630w,
+/blog/static/8f342f779195b793390018398dfdfb6d/40601/october15.png 945w,
+/blog/static/8f342f779195b793390018398dfdfb6d/c1b63/october15.png 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We wrapped up another great 4th episode of the chat show on October 22, 2021. We heard more insightful and exciting stories and speakers had great advice for first time contributors and how to work better in a remote setup and with remote timezones. The video recording will be uploaded into Youtube shortly. Stay tuned or follow our blog updates…&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6bf21a91cccb29b44f20e11e5277a044/c1b63/october22.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAClElEQVQoz1WRWUjUURTG/w/1kEUGEooVRGERbQ8+WNC4MKZJ9SBB0UNgjyZJWE7ZJOMsjjrjNppOCPngMuNeLm3YCrYhItZDGwqKprjnLI6z+Iv/nZQ88F3u+e79zvnOvdIBdQYn1FfZpblNeIGJ7VodoVq9QIhGS4TBQFKFiZjSIrZqtITp89fvRBgL2KEzsC1Ph5SjRrqlQrJ+7CMs945I9ptLiCou5XBZOSerqjlmqeC4pZKoUgtRJeUcLCkTXHRlFYfKLOJM1sjFJVUOmV2dSODn+/Qk5ndvSK6tJbKgEEl1F0mdK7ruLixin8lMpLGQvabioJub2Ug3sgjV6YmrqUH94hn9YyOAD8nvcwFeYFUQDr+Huo5Goi9dJESbT5jeQLixiF2FJnYajGzJ03HUZKb8YQ3jCzPIhta0AZ8bicCy2Ph8LrwrS8gx0t3A/bTL6F69JizfyOYcFZIqm033NGR2dzIyMcbUr2Hwugn4g1rZ2KrfjSQv/0PulJ6WQcyeI3x5/wEHAcqM18hUX2fEKTcM4Jif5fOnQbweJ7KhdW1geWNB4dbrxFZvx6Q383VoUDjuKk4n90o8rrkJMeLk1G+sdU9YkQuuLq9rRUHkxO/G73WK0T3uRSbGhxkb/YljaQ6v5w/91vNknQvn29B74fDHtyEGBj7j9TgIyOMKrUtA+vCpj97Xvf8eNxjywbJrQeydSzP86u/h7VMb05Ojglucn2J2epyNEfwcqeqBlUprNe1tLTzqaKW1pYnmpkZamu002RsF6hts2Ox2wdltDeKOjLbWZjraWwRe9j6np+sxUnLSGVJSzqJUJpGYmERCghKFIg6FIl4gNjY+mJ+KDXJruSKOhIRElMrTAqmpF0Sdvz0JitgRCHbGAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;October 22 speakers&quot;
+        title=&quot;October 22 speakers&quot;
+        src=&quot;/blog/static/6bf21a91cccb29b44f20e11e5277a044/f058b/october22.png&quot;
+        srcset=&quot;/blog/static/6bf21a91cccb29b44f20e11e5277a044/c26ae/october22.png 158w,
+/blog/static/6bf21a91cccb29b44f20e11e5277a044/6bdcf/october22.png 315w,
+/blog/static/6bf21a91cccb29b44f20e11e5277a044/f058b/october22.png 630w,
+/blog/static/6bf21a91cccb29b44f20e11e5277a044/40601/october22.png 945w,
+/blog/static/6bf21a91cccb29b44f20e11e5277a044/c1b63/october22.png 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;What’s next?&lt;/h2&gt;
+&lt;p&gt;October 29, 2021 will be the wrap up episode for the opensource chat show. We will also feature a special guest who works at the OSPO (open source program office) team at Microsoft!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_0i4q_-RxRnGyr3t_uD_XXw&quot;&gt;Registration link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out all our upcoming events &lt;a href=&quot;https://www.womenwhocode.com/frontend/events&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Beginner's Guide to Open Source]]></title><description><![CDATA[This article was originally written by Tolu Adegboyega on her blog. Contributing to open source can be daunting for a lot of people, at…]]></description><link>https://frontendstudygroup.github.io/blog/a-beginners-guide-to-open-source/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/a-beginners-guide-to-open-source/</guid><pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This article was originally written by &lt;a href=&quot;https://twitter.com/ToluAdegboyega_&quot;&gt;Tolu Adegboyega&lt;/a&gt; on her &lt;a href=&quot;https://blog.toluadegboyega.dev/a-beginners-guide-to-open-source&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Contributing to open source can be daunting for a lot of people, at least I know it was for me. Although I wanted to contribute to open source, I was not sure how to go about it. I finally took the plunge during Hacktoberfest 2021 and made my first open source contribution, and you can too.&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;What even is Open Source? 🤔&lt;/h2&gt;
