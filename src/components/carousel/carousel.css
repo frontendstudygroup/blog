@@ -1,0 +1,54 @@
+.container {
+  position: relative;
+}
+
+.wrapper {
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.childrenWrapper {
+  display: flex;
+}
+
+.childrenWrapper > div {
+    /* flex-basis: 100%; */
+}
+
+.control {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  z-index: 2;
+}
+
+.control-prev {
+    content: '<--';
+    left: -17px;
+    color: red;
+    background-color: red;
+}
+
+.control-prev-disabled {
+    content: '<--';
+    left: rem(-17);
+    color: grey;
+}
+
+.control-next {
+    content: '-->';
+    right: -17px;
+    color: red;
+    background-color: red;
+}
+
+.control-next-disabled {
+    content: '-->';
+    right: rem(-17);
+    color: grey;
+}

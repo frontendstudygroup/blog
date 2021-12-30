@@ -8,6 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "classnames": "^2.3.1",
     "gatsby": "^3.13.1",
     "gatsby-plugin-feed": "^3.13.0",
     "gatsby-plugin-google-analytics": "^3.13.0",
@@ -28,6 +29,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
+    "react-swipeable": "^6.2.0",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75"
   },

@@ -24,7 +24,7 @@ We have 2 volunteers, Kaleigh Scruggs and Faith Pueneh looking after wednesday m
 
 Event line up for December 2021.
 
-![December events](https://www.canva.com/design/DAExw6XAQ-o/YYFSdiaFi-ju6QAYJAF3XQ/view)
+![December events](./december.png)
 
 ## Conclusion
 

@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Slide from "../components/slide"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -30,6 +31,10 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
         <hr />
+        {
+          post.frontmatter.contentType === 'slides' &&
+            <Slide />
+        }
         <footer>
           <Bio />
         </footer>
@@ -85,6 +90,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        contentType
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
