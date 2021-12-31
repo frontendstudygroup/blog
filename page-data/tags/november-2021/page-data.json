@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/november-2021/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"We had a blast in October 2021 with the Hacktoberfest chat show series and the study group. For a first timer, this event was a success. I…","fields":{"slug":"/monthly-wrap-november/"},"frontmatter":{"date":"November 30, 2021","title":"November 2021 updates","description":"November wrap up - volunteer assemble and planning for December events!","tags":["2021","november-2021","update"]}}]}},"pageContext":{"tag":"november-2021"}},
+    "staticQueryHashes": ["2841359383"]}

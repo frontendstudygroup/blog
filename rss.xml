@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 11 Dec 2021 12:22:04 GMT</lastBuildDate><item><title><![CDATA[November 2021 updates]]></title><description><![CDATA[We had a blast in October 2021 with the Hacktoberfest chat show series and the study group. For a first timer, this event was a success. I…]]></description><link>https://frontendstudygroup.github.io/blog/monthly-wrap-november/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/monthly-wrap-november/</guid><pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We had a blast in October 2021 with the Hacktoberfest chat show series and the study group. For a first timer, this event was a success.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Dec 2021 20:11:57 GMT</lastBuildDate><item><title><![CDATA[Happy 2022]]></title><description><![CDATA[We are never too old to set another goal or to dream a new dream! WWCode Frontend wishes you all a great 2022 ahead.
+Stay happy and healthy…]]></description><link>https://frontendstudygroup.github.io/blog/happy-2022/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/happy-2022/</guid><pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We are never too old to set another goal or to dream a new dream! WWCode Frontend wishes you all a great 2022 ahead.
+Stay happy and healthy! 🎉 ✨&lt;/p&gt;
+&lt;p&gt;We have been planning on events and content for 2022, and we cannot wait to share with you all.&lt;/p&gt;
+&lt;h2&gt;2021 Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;WWCode Frontend technical track has neared 3000 members! We are growing in numbers and engagement on social media too.&lt;/li&gt;
+&lt;li&gt;We had a great &lt;a href=&quot;/blog/tags/hacktoberfest&quot;&gt;Hacktoberfest studygroup event&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=yfL0Q83beNI&amp;#x26;list=PLVcEZG2JPVhdJVopX9jAM8PUCaC7qKOgp&amp;#x26;index=54&quot;&gt;chat show series&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/feb858ba0f047182879997daa4a4f9af/302a4/Feedback.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAE1ElEQVQ4y12Ua0yTZxTHXzOXLM44JTgdMG6llF7e3qGl3BQEFGG6bDoCOjczl2g0cyIUELyg2Rdn5gioE/gy5wWnHyZZ9mWJ0em2b+qUi1nBlkJLucitUpXAb3vf6pbtSX45JyfP88/5Pyc5wtIjDUQ0HOXVuoMINQcQauvCsboWYX8VQkUVwn4nQqUToaIyHKuc/70rxZdENhxj8aEjvHKgPlxw1hLRcIwtFy5Q2Noqs+vqFXZeuUre2Vbyzrbx3rffyQ1Ib/6PsOjgYRbW1bOgtk4uSHHJ4QbEr05ia2rG3tRM5qnTFLedYdO5M+SePk5Ry9fhLvdWIOzbj/B5RRgpl61V1yBUVYetvbwg2a2uZUnDMXSNzRS3nWLz6S/Y0d7CtgstlF+6SFn795RLXA7H0ouXEBYePMLrh4+iPH6CNd+c5ZP2y5y8dZuOzk66/D4eT00hnafT49y/fpWAz8/0xBQ8n4X5+X+Rzvw8won2c/z8yw36+gcYDowyNzPDXHCKmekQY+NBvB43IyMjPHv2jD63B+/AAMMjw0xMTjI1PU3wyROmg0EZ6Y7w0++3cfd0M+AL0O0Z4W5vgIe9bu7ef8CDhy7+dPXy6JGbyclJvF4v/R4PgwNehoaGCASGGR4elvOhQIBQKITQfOMmAa+Xru4uHvZ009nVw50HPdzrHaHT8xh/YIxQaIaZmSe4XC66XR5cHj+DPh+Dg4Mybo9HdjE7+xyh8loHw/399Hr66RsIMD4xxezsLMGZEOPjE4yOjnHz1q/cvfcHo6Mj9HsH8XgHGRsbk5E6lzqTztzcHML759vp6Z/ktzsufvjxOucvXuHLk03s3FPBqoJilkcnIQgC1dX1TE1N0t3dxaO+PtxuNx6PRxaV/i4YDPL0aQghorKWFGM2MVodcRkmlmgSEZZFsPC1SBYti2JpVBJCtIJDjacYDQzh6u3F5/Ph9/tlseCLYUhIzoT8Tz/CkWpFoTeQKIoodXpUWgPxihSS1HoUVjsrLTYseQWUlGyksKhEZu0Lit95l/y169m1+7PwlFWZWZgNJoyWdDLsFjJseuIVGpQqDfGKZBISk0lMUBIbp+CttxOIjk2UiXqRx8QpWBa5klW5BWHBN0QT8QlKVKKJZI2OFK0OhUqHUi3KnSal6FBq9Kg0ejSiCbXOSIrWgFY0oRGNaPVmFEo164o3yAMSItUiOoWK9NR0zHozVrONVHMaZqOFNMmqKRWb1Y7eYJYfS2KSqM5gQTRaZRKSUsgvXC8PTVi8roSVeYXElmwkel0xcfkFxOSs4c2M1azIzCUqazWRjizSizewffsOtnz4MWVbtrHpgzI2l5ZTWr6V0rKtVDpr8Pn9CEL9If6huhZ1bjY5OXaKijIoKHQQp9UTrRZJ0hnQG6WuLOj0Ztm+ZFvq2mixEZugxCktGsFZE16czhoWOGtYoTGgUaoxGoyYDAZEnQFRNKLRGmS7KrVIcooOlUaU/1WqSeJRMQns3LsPwdDYxJ5rHeS0tMkrbIXeRI7dzJocGxkOG6ItGzEtC0uag1R7BuZUu5xb0xxY0tLD9fQszKKR5YXrEbQnG9l9rYPsltawoGgiM9VEXo4Nhz0VrcWBzuqQbVltDlnAZLVjstjC4tIwbQ6MGj0Rfwv+BdFPu94TnL9tAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Feedback from community about the hacktoberfest 2021&quot;
+        title=&quot;Feedback from community about the hacktoberfest 2021&quot;
+        src=&quot;/blog/static/feb858ba0f047182879997daa4a4f9af/f058b/Feedback.png&quot;
+        srcset=&quot;/blog/static/feb858ba0f047182879997daa4a4f9af/c26ae/Feedback.png 158w,
+/blog/static/feb858ba0f047182879997daa4a4f9af/6bdcf/Feedback.png 315w,
+/blog/static/feb858ba0f047182879997daa4a4f9af/f058b/Feedback.png 630w,
+/blog/static/feb858ba0f047182879997daa4a4f9af/40601/Feedback.png 945w,
+/blog/static/feb858ba0f047182879997daa4a4f9af/302a4/Feedback.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/frontend&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/frontendstudygroup&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.facebook.com/WomenWhoCodeFrontEnd&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.instagram.com/wwcodefrontend1/&quot;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/showcase/women-who-code-front-end/&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/WWCodeFrontEnd&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLVcEZG2JPVhdJVopX9jAM8PUCaC7qKOgp&quot;&gt;Youtube playlist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wwcode.typeform.com/applytospeak&quot;&gt;CFP Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/8965be15772b751c18c7baacbb8a4491/2022.gif&quot; alt=&quot;Happy 2022&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dec 16 2021, Neha Sharma]]></title><link>https://frontendstudygroup.github.io/blog/dec-16-neha-sharma/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/dec-16-neha-sharma/</guid><pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/1589036bda5171881534d97e318a7e11/302a4/Neha.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEkUlEQVQ4y4WUa1CUZRTHX66CIVk4ZqJpKlo6WSoVJCpUIHiZBi+jOE1aXho1Ml1w2X333Ru77C7SAq4LsshFbsIiKk03S3TUpI9NZc34Qc1pEo0sjQWMFX7N+3LT6UPPzJnnMmf+5/yfc/5HELQ6/tc0orIHyGe1hmi7g3v37+Pv7eX8hYu0tbXR3v4t//T1ISjOOdpHbfhNrR0BU3aNSKAoIezLYnVtPTdu3uTzTz+jpPQw3iYv8hJk53EmM2MNJsL0RsL1RkJ0eiJNZsabLY9kOHxWQLOymfWxE93przjx0880/3gZU9tZhCBR4q2aWjY1NhFXcpi0qmqWlZWzrq6Bd5uPMz2/YJSuRiRAKxKoHQqQLSKo9itsAuSge1UIcrTkikrW1tWTWlnNxoZGdp9qJb22jiVlHra3nGD10ZoRMEEjIagNhOglInSZREoigSaZiYFgOXM5kkxTpivTjjCaB6kbjATr9IyRDIRKBgSN/J96IiQN79s24K3YzJX2bbQ44lm1JZXpH2xG0BkGAYc/fKQYD++KaRG0eiaLKo5YkmlVx7AlaTYNxWoa9YvJWReN6715rNmfgfCfCueIjwYYLki2mvSt6/HsWoAncxopz03EkrWPt9/JYMP6FHL27GT7mgSExy15ROZaGWe2EGHOZazJTLhM22BijN7IGEmPYLQwadsmPty5kfT0BNLiopg5fSpLExJ5eUkiKSlvsihxFS/NnYGwvMnLsrp6Xq2qZuGRCuaXeYhxuXm26CCTC5xMsDkYa7GRYZdwu8xIZhWTp04iasIE5r+4kGWvJxG/OJ7wqGkkxs1DSPM2k3GqlU0nT7HyWBNLq2tYUd/AksoqXis/QmxpGVMLnGwwG7DkW7G7CklITCAoUCBm9hxWrUxGl7ObXXsyyVLtQEj1NpPa5CW54RgJR2uILa9gkaecue4SYopdzHAWMd7mYG2uAWehFXdlEabsrcyaGElIWBixr8SS57RhsFspKrYipDQ2KZTjqo+ySKZ82MOcQ25mFB0kusDJRHs+YRYb8RYTJcW5HG8pwW37iNQFMwkIDWXdiiSKD+ZjP2DhkNuBIBcgVJab3kiwZCBI0hOk0yvyCtTplV4MUfpQJPOAkS9bPYjqHSTGPEVISDBbt2TgbanjkxPV1Fa5B4fDeHMukaZcRbsPm9zgStvsy1IGRZqnlMvftXHuzEmWJ7/BM9OikYwaSksKOeQ6QKojb7Cxh5URPqSWx4YUoygkaz/rG47xQ0cHDwYYWQ8GBrh1+xZnz51hlyOP541GVF+cRpBFPynPzhR7Pk/b7EPZ5fKE2aIAFl1qVwDu9PTwZ08P569d48K16zy8bvp83Pi7a2h8aUSetFqJsuaNUpSVsVeF7uszitNfPb1839HBlc5O2q5e5eL1X5T3Pr+fgYHRtB/098vSE5nidDDTVUiAKA2OqWw1LxS76B9ylgF/u3eP330+/uju5k53D7/evcutri7u+/30+v34+/tHB+yIjrU65Pko7M3C+c0lxUF27Onro9PXrYB1+nwKsAzaqdy7ud3lU0BlwH8BY6fGOxz0L44AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;How to write accessible CSS - Neha Sharma&quot;
+        title=&quot;How to write accessible CSS - Neha Sharma&quot;
+        src=&quot;/blog/static/1589036bda5171881534d97e318a7e11/f058b/Neha.png&quot;
+        srcset=&quot;/blog/static/1589036bda5171881534d97e318a7e11/c26ae/Neha.png 158w,
+/blog/static/1589036bda5171881534d97e318a7e11/6bdcf/Neha.png 315w,
+/blog/static/1589036bda5171881534d97e318a7e11/f058b/Neha.png 630w,
+/blog/static/1589036bda5171881534d97e318a7e11/40601/Neha.png 945w,
+/blog/static/1589036bda5171881534d97e318a7e11/302a4/Neha.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[November 2021 updates]]></title><description><![CDATA[We had a blast in October 2021 with the Hacktoberfest chat show series and the study group. For a first timer, this event was a success. I…]]></description><link>https://frontendstudygroup.github.io/blog/monthly-wrap-november/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/monthly-wrap-november/</guid><pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We had a blast in October 2021 with the Hacktoberfest chat show series and the study group. For a first timer, this event was a success.&lt;/p&gt;
 &lt;p&gt;I, &lt;a href=&quot;https://princiya.com/blog/thankful/#time-management&quot;&gt;Princiya Sequeira&lt;/a&gt;, also realised that I could not continue at this pace alone and decided to pause events for the WWCode Frontend track for November 2021 and focus on onboarding volunteers.&lt;/p&gt;
 &lt;h2&gt;Volunteer management&lt;/h2&gt;
 &lt;p&gt;While most of November went talking to new and old volunteers, understanding their motivations, it also became clear that onboarding volunteers takes much longer time than anticipated. As leadership fellows we work around ~10 hours/week and within this time it is extremely difficult to do everything. Volunteer management and event management are two full time job roles and hence I decided to onboard volunteers passively, give them time to figure out what they are interested in. Volunteers also need to be nurtured, mentored and groomed so that they can do their volunteering activities. Timezone differences is another challenge. Also given the upcoming December holiday season I also noticed that volunteers could not commit yet and hence it made sense to give them time and space to let them explore and get back to me about what they want to do. Currently, we have few volunteers who are working in the background and we will announce and promote them in January 2022!&lt;/p&gt;
@@ -8,7 +92,38 @@
 &lt;p&gt;We have 2 volunteers, Kaleigh Scruggs and Faith Pueneh looking after wednesday motivation and friday feelings posts. We will announce them in January 2022.&lt;/p&gt;
 &lt;h2&gt;Event management&lt;/h2&gt;
 &lt;p&gt;Event line up for December 2021.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.canva.com/design/DAExw6XAQ-o/YYFSdiaFi-ju6QAYJAF3XQ/view&quot; alt=&quot;December events&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b4b8779f147105cf11114b8dc5ad304e/302a4/december.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAExUlEQVQ4y2WUe1BUdRTHb/3hP800hqWp2Yx/qTOmNmPq5Ew29hifIWpT2sPKaKpR3ijIQx4GSMojMR4JmCiC+AqJRyCIjwbB3WRBXHeBlWVhYRdWHvu8e3c/zS4EWWfmzL3zved87znn9z0/QQgNRwgJRwgORQg7wIyYWFbHfc3K9B/ZfbWKsNw4gtOD2JsRybaUQHxSTzAzKpSlMV/izQ0MRggKQQgJQ4g4hOB7+gyfny8hpuYPiuRyWgcMyLsU5Ffmcvb6OWob8mgpDkJ2bh+XriSTWVFIctlxLrQ0cqKpmYTr9URWVpFS38Bv7Q8QbjQ08EtOLrfq6vi3jdstaAZ7cLrBoFfR36vA5rAxYNLjEG1PxTZUV5OfncP9lhYE7aAB2SMVyp4eHE4RpyQhedxuBdGB3TyCwzqOaLMg2q24PC45kVwu7KKIzeFAqdVyt0OJdmAQASRA5L820NVKn+oeOmUz/WoFhsdKnui7eay4ifmJgf+bE3AjOGxDOOwG7BYbD1tbaH4oZ2TYNBXmlhxYjXcwqmuxmMcmsMlvjY03aVO0ed9tlkEkp9VTIbjdEhXFWYSdiCelIZ/YnBg06oeMPzFSFr+etMB3SQ18i5TQnZgMOi9B1bVKPnl7BRtWLUNxv33iR273BKFR9Se5pxIIzMxk6E4tEUeDaan9lYsXCti6djarli1l0wc7WLR4Mcmxod7ko4lJxO/ayM7lr/LD4QQv5pm9l1DTfJGDkfuICIplpLqMXZ/6U14UT+nlInw/2sELPrPYsOl9tvj5kpmWgG3Myvf+35K8ZyfhG9dQfa0Ktwgul2uCsE99lz2phfh9GEB5UiJz3ttPaUkWJaX5/JQWzZL5s9jmt4XsvAxqqi/Srerk9ZVr2fzGCqK3vkl7UyOS6Jpu+XaHnjmbknhnVxTrdoXjsy2Fts5+KsqLOHUymvk+z+H/zRfk5qZTX11KcXYcL85+mXWL5lIQuJKypIU01x3ztu0lrJB3s/m7NIovN5JcXId/0nlUWgMqpQzZ3RoCgwM4X3KW8oqrKBUt1Fdf4eCBEMrzwuhuSkZWuZ/2pjMThC6XNKkPJ2rFfQZ7uv8RzPTWmEx0yGSYR0enMEkU6df2oO54hMXswMMjieMIbrfnuMHucNDT1cVgv54JzO11z6D1Oh0atRqT0Tglj36tFnXHAzQqFdquTqzm8QlhexK8wrTZ0Pb2MmwyTSV53GMjo6P06/XTYp/EDUYjur6+KdzlmjwUb1ujI/wll6NSqZ4is1gs9PX1odPpGBoa8u66x0ZHRhg2GBgyGDAajUiT8UK3so2xMTOeOm0Op7dSyekAtwu3Z74uF5JTwmGz4RLtU9XYRSeD5nH0I6apmeuGhhGKkvbRWhwPj2txjQ1Mlz/5fDQwwNkb9QxZrHg2OaCyhtU/Z7Mm6ySJ6Ue4VHCckvLLBP5ewd6CbITOI69hSFiAPfklrBlLsJd9hlN+GlFzCwZk1Ny+xva8Qu41XaG8IosZAV8hhEd5b+k4/+0URuxh/W5fhAOHmHEoCmEwYR6a2FfojFlAV/RcNBEzUYc/T2/cfMTUeXRnrKLylD+a48uxJs3Gfmwh4Yl+PBsZS+KRIHJORvNxVBBC1GGeiYzib+SaDHOacnCFAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;December events&quot;
+        title=&quot;December events&quot;
+        src=&quot;/blog/static/b4b8779f147105cf11114b8dc5ad304e/f058b/december.png&quot;
+        srcset=&quot;/blog/static/b4b8779f147105cf11114b8dc5ad304e/c26ae/december.png 158w,
+/blog/static/b4b8779f147105cf11114b8dc5ad304e/6bdcf/december.png 315w,
+/blog/static/b4b8779f147105cf11114b8dc5ad304e/f058b/december.png 630w,
+/blog/static/b4b8779f147105cf11114b8dc5ad304e/40601/december.png 945w,
+/blog/static/b4b8779f147105cf11114b8dc5ad304e/302a4/december.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;I completed 3 months as a leadership fellow and I wrote my reflections in this &lt;a href=&quot;https://princiya.com/blog/thankful/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Overall I am happy and I am looking forward to 2022 as we have been chalking out several new ideas and initiatives.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Weekly wrap up - October 24, 2021]]></title><description><![CDATA[Opensource study group We kicked off the opensource study group for WWCode Frontend on October 1, 2021. Since then we have had 25 pull…]]></description><link>https://frontendstudygroup.github.io/blog/weekly-wrap-october-24/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/weekly-wrap-october-24/</guid><pubDate>Sun, 24 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Opensource study group&lt;/h2&gt;

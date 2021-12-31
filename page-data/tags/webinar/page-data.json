@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/webinar/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":2,"nodes":[{"excerpt":"","fields":{"slug":"/dec-16-neha-sharma/"},"frontmatter":{"date":"December 16, 2021","title":"Dec 16 2021, Neha Sharma","description":"How to write accessible CSS!","tags":["2021","december-2021","webinar"]}},{"excerpt":"WomenWhoCode Frontend presents - “The Opensource Chat Show”. This is a Hacktoberfest special limited edition. Every Friday, October 2021 we…","fields":{"slug":"/the-oss-chat-show/"},"frontmatter":{"date":"September 24, 2021","title":"The Opensource Chat Show 2021","description":"Hactoberfest 2021 special - showcasing voices from the opensource community","tags":["2021","october-2021","hacktoberfest","opensource","webinar"]}}]}},"pageContext":{"tag":"webinar"}},
+    "staticQueryHashes": ["2841359383"]}
