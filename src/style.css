@@ -60,6 +60,8 @@
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-accent: #d1dce5;
+  --tag-background: rgb(54, 60, 72);
+  --tag-text: rgba(255, 255, 255, 0.88);
 }
 
 /* HTML elements */
@@ -317,6 +319,22 @@ a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+.dateTime {
+  display: flex;
+  justify-content: space-between;
+}
+
+.label {
+  display: inline-block;
+  border-radius: 8px;
+  padding: 5px 15px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  background-color: var(--tag-background);
+  color: var(--tag-text);
+  font-size: 0.8rem;
 }
 
 /* Media queries */

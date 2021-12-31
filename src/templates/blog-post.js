@@ -4,6 +4,8 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Slide from "../components/slide"
+import Label from "../components/label"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -24,12 +26,19 @@ const BlogPostTemplate = ({ data, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
+          {
+            post.frontmatter.tags?.map(tag => <Label text={tag} />)
+          }
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
         <hr />
+        {
+          post.frontmatter.contentType === 'slides' &&
+            <Slide date={post.frontmatter.date} time={post.frontmatter.time} title={post.frontmatter.description} author={post.frontmatter.author} />
+        }
         <footer>
           <Bio />
         </footer>
@@ -84,7 +93,11 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        time(formatString: "HH:mm")
         description
+        contentType
+        author
+        tags
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

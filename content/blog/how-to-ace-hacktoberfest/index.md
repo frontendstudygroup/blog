@@ -2,6 +2,7 @@
 title: 4 tips to ace Hacktoberfest 2021
 date: "2021-10-03T22:12:03.284Z"
 description: "In this article we will share 4 tips to help you make the most out of the Hacktoberfest month"
+tags: ["2021", "october-2021", "hacktoberfest", "opensource"]
 ---
 
 This article was originally written by [Princiya Sequeira](https://princiya.com) in her blog where she wrote about [Dear opensource - you are not easy](https://princiya.com/blog/reality-of-opensource-contributions/).

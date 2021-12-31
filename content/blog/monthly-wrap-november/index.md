@@ -2,6 +2,7 @@
 title: November 2021 updates
 date: "2021-11-30"
 description: "November wrap up - volunteer assemble and planning for December events!"
+tags: ["2021", "november-2021", "update"]
 ---
 
 We had a blast in October 2021 with the Hacktoberfest chat show series and the study group. For a first timer, this event was a success.
@@ -24,7 +25,7 @@ We have 2 volunteers, Kaleigh Scruggs and Faith Pueneh looking after wednesday m
 
 Event line up for December 2021.
 
-![December events](https://www.canva.com/design/DAExw6XAQ-o/YYFSdiaFi-ju6QAYJAF3XQ/view)
+![December events](./december.png)
 
 ## Conclusion
 
