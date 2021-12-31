@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "classnames": "^2.3.1",
+    "date-fns-tz": "^1.2.2",
     "gatsby": "^3.13.1",
     "gatsby-plugin-feed": "^3.13.0",
     "gatsby-plugin-google-analytics": "^3.13.0",

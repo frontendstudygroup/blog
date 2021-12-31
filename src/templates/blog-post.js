@@ -33,7 +33,7 @@ const BlogPostTemplate = ({ data, location }) => {
         <hr />
         {
           post.frontmatter.contentType === 'slides' &&
-            <Slide />
+            <Slide date={post.frontmatter.date} time={post.frontmatter.time} />
         }
         <footer>
           <Bio />
@@ -89,6 +89,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        time(formatString: "HH:mm")
         description
         contentType
       }
