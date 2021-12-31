@@ -2,6 +2,7 @@
 title: Weekly wrap up - October 11, 2021
 date: "2021-10-11"
 description: "First week of Hacktoberfest, 15 pull requests merged and 2nd episode of the opensource chat show!"
+tags: ["2021", "october-2021", "hacktoberfest", "opensource"]
 ---
 
 Past meeting notes can be found [here](https://docs.google.com/document/d/1-NoaHmWaCOKel9tpbWLbALOitKLJV8RtwKaX5maMT4g/edit?usp=sharing).

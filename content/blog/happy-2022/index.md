@@ -13,7 +13,7 @@ We have been planning on events and content for 2022, and we cannot wait to shar
 ## 2021 Highlights
 
 - WWCode Frontend technical track has neared 3000 members! We are growing in numbers and engagement on social media too.
-- We had a great [Hacktoberfest studygroup event](/weekly-wrap-october-24/) and [chat show series](https://www.youtube.com/watch?v=yfL0Q83beNI&list=PLVcEZG2JPVhdJVopX9jAM8PUCaC7qKOgp&index=54).
+- We had a great [Hacktoberfest studygroup event](/tags/hacktoberfest) and [chat show series](https://www.youtube.com/watch?v=yfL0Q83beNI&list=PLVcEZG2JPVhdJVopX9jAM8PUCaC7qKOgp&index=54).
 
 ![Feedback from community about the hacktoberfest 2021](./Feedback.png)
 
@@ -22,6 +22,7 @@ We have been planning on events and content for 2022, and we cannot wait to shar
 
 - [Website](https://www.womenwhocode.com/frontend)
 - [Slack](https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A)
+- [Github](https://github.com/frontendstudygroup)
 - [Facebook](https://www.facebook.com/WomenWhoCodeFrontEnd)
 - [Instagram](https://www.instagram.com/wwcodefrontend1/)
 - [Linkedin](https://www.linkedin.com/showcase/women-who-code-front-end/)

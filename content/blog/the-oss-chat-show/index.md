@@ -2,6 +2,7 @@
 title: The Opensource Chat Show 2021
 date: "2021-09-24T22:12:03.284Z"
 description: "Hactoberfest 2021 special - showcasing voices from the opensource community"
+tags: ["2021", "october-2021", "hacktoberfest", "opensource", "webinar"]
 ---
 
 ![Hactoberfest announcement](./announcement.png)

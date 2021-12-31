@@ -2,6 +2,7 @@
 title: A Beginner's Guide to Open Source
 date: "2021-10-20"
 description: "This article is a guide to contributing to open source and participating in Hacktoberfest for the first time."
+tags: ["2021", "october-2021", "hacktoberfest", "opensource"]
 ---
 
 This article was originally written by [Tolu Adegboyega](https://twitter.com/ToluAdegboyega_) on her [blog](https://blog.toluadegboyega.dev/a-beginners-guide-to-open-source).

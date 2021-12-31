@@ -2,6 +2,7 @@
 title: Weekly wrap up - October 24, 2021
 date: "2021-10-24"
 description: "Second and third week of Hacktoberfest, 10 pull requests merged and 2nd, 3rd episode of the opensource chat show!"
+tags: ["2021", "october-2021", "hacktoberfest", "opensource"]
 ---
 
 ## Opensource study group

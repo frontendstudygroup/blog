@@ -2,7 +2,7 @@
 title: November 2021 updates
 date: "2021-11-30"
 description: "November wrap up - volunteer assemble and planning for December events!"
-tags: ["2021"]
+tags: ["2021", "november-2021", "update"]
 ---
 
 We had a blast in October 2021 with the Hacktoberfest chat show series and the study group. For a first timer, this event was a success.
