@@ -108,6 +108,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       date: Date @dateformat
       time: Date @dateformat
       contentType: String
+      author: String
     }
 
     type Fields {

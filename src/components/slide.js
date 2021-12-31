@@ -14,8 +14,9 @@
         }
     </div>;
 
-const Slide = ({ date, time }) =>
+const Slide = ({ date, time, title, author }) =>
   <>
+    <p>{`WWCode Frontend presents - ${title} by ${author}. Join us on the following date and time:`}</p>
     <DateTime date={date} time={time} />
     <Carousel>
       <Item 

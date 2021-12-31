@@ -4,6 +4,7 @@ date: "2021-12-16"
 time: "2021-12-16 18:00"
 description: "How to write accessible CSS!"
 contentType: "slides"
+author: "Neha Sharma"
 ---
 
 ![How to write accessible CSS - Neha Sharma](./Neha.png)

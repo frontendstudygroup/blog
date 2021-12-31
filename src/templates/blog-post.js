@@ -33,7 +33,7 @@ const BlogPostTemplate = ({ data, location }) => {
         <hr />
         {
           post.frontmatter.contentType === 'slides' &&
-            <Slide date={post.frontmatter.date} time={post.frontmatter.time} />
+            <Slide date={post.frontmatter.date} time={post.frontmatter.time} title={post.frontmatter.description} author={post.frontmatter.author} />
         }
         <footer>
           <Bio />
@@ -92,6 +92,7 @@ export const pageQuery = graphql`
         time(formatString: "HH:mm")
         description
         contentType
+        author
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
