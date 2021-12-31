@@ -8,28 +8,13 @@ const DateTime = ({date, time}) => {
  const utcDate = zonedTimeToUtc(`${stdDate} ${time}`, 'Europe/Berlin');
  const timeZones = ['America/Los_Angeles', 'America/New_York', 'Europe/Berlin', 'Asia/Kolkata', 'Asia/Jakarta', 'Asia/Singapore', 'Australia/Melbourne'];
  
-//  return <div style={{display: 'flex'}}>
-//      <div>
-//         {
-//             timeZones.map(tz => 
-//                 <div key={tz}>{formatInTimeZone(utcDate, tz, 'dd MMMM HH:mm zzzz', { locale: enGB })}</div>
-//             )
-//         }
-//      </div>
-//      <div>
-//         {
-//             timeZones.map(tz => 
-//                 <div key={tz}>{formatInTimeZone(utcDate, tz, 'dd MMMM HH:mm zzz', { locale: enGB })}</div>
-//             )
-//         }
-//      </div>
-//  </div>
-return timeZones.map(tz => 
+ return timeZones.map(tz => 
     <div className="dateTime" key={tz}>
         <span>{formatInTimeZone(utcDate, tz, 'dd MMMM HH:mm', { locale: enGB })}</span>
         <span>{formatInTimeZone(utcDate, tz, 'zzzz', { locale: enGB })}</span>
         <span>{formatInTimeZone(utcDate, tz, 'zzz', { locale: enGB })}</span>
-    </div>)
+    </div>
+ )
 }
 
 export default DateTime

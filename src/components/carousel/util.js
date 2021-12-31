@@ -3,10 +3,10 @@ export const PREV = 'PREV';
 export const RESET = 'RESET';
 export const STOP = 'STOP';
 export const INIT = 'INIT';
-export const transitionThreshold = 5;
-export const transformThreshold = 30;
+export const transitionThreshold = 0;
+export const transformThreshold = 0.01;
 export const timeoutDuration = 50;
-export const threeQuarter = 0.75;
+export const threeQuarter = 1;
 
 export function getTransform(state) {
   if (state) {
