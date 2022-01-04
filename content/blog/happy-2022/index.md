@@ -17,6 +17,16 @@ We have been planning on events and content for 2022, and we cannot wait to shar
 
 ![Feedback from community about the hacktoberfest 2021](./Feedback.png)
 
+## Improvements
+
+During the holiday break I was looking into what tasks can be automated. While organising events we do lot of manual and repetitive tasks. I took the first step in avoiding redundancy. I have created a template to upload events going forward once we have confirmation from the speaker. The blog post will include the following:
+
+- Event graphics
+- Event date and time in various timezones! I have used `date-fns` to generate time in various timezones. Please create a [pull request against this repository](https://github.com/frontendstudygroup/blog/blob/master/src/components/dateTime.js#L9) if your preferred timezone is missing!
+- Includes code of conduct and any other relevant information which otherwise we would have to create separate slides during the event. The carousel component for the slides is a custom component written from scratch. The source code can be found [here](https://github.com/frontendstudygroup/blog/tree/master/src/components/carousel).
+- I also added tags to the content. All tags are [here](/tags).
+
+![Event summary in one blog post](./event.gif)
 
 ## Links
 
