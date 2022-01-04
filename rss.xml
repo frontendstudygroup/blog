@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Dec 2021 20:11:57 GMT</lastBuildDate><item><title><![CDATA[Happy 2022]]></title><description><![CDATA[We are never too old to set another goal or to dream a new dream! WWCode Frontend wishes you all a great 2022 ahead.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 Jan 2022 19:48:59 GMT</lastBuildDate><item><title><![CDATA[Happy 2022]]></title><description><![CDATA[We are never too old to set another goal or to dream a new dream! WWCode Frontend wishes you all a great 2022 ahead.
 Stay happy and healthy…]]></description><link>https://frontendstudygroup.github.io/blog/happy-2022/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/happy-2022/</guid><pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We are never too old to set another goal or to dream a new dream! WWCode Frontend wishes you all a great 2022 ahead.
 Stay happy and healthy! 🎉 ✨&lt;/p&gt;
 &lt;p&gt;We have been planning on events and content for 2022, and we cannot wait to share with you all.&lt;/p&gt;
@@ -39,6 +39,15 @@ Stay happy and healthy! 🎉 ✨&lt;/p&gt;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Improvements&lt;/h2&gt;
+&lt;p&gt;During the holiday break I was looking into what tasks can be automated. While organising events we do lot of manual and repetitive tasks. I took the first step in avoiding redundancy. I have created a template to upload events going forward once we have confirmation from the speaker. The blog post will include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Event graphics&lt;/li&gt;
+&lt;li&gt;Event date and time in various timezones! I have used &lt;code class=&quot;language-text&quot;&gt;date-fns&lt;/code&gt; to generate time in various timezones. Please create a &lt;a href=&quot;https://github.com/frontendstudygroup/blog/blob/master/src/components/dateTime.js#L9&quot;&gt;pull request against this repository&lt;/a&gt; if your preferred timezone is missing!&lt;/li&gt;
+&lt;li&gt;Includes code of conduct and any other relevant information which otherwise we would have to create separate slides during the event. The carousel component for the slides is a custom component written from scratch. The source code can be found &lt;a href=&quot;https://github.com/frontendstudygroup/blog/tree/master/src/components/carousel&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I also added tags to the content. All tags are &lt;a href=&quot;/blog/tags&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/9a166a30bea35396e8f704afe1b4b7aa/event.gif&quot; alt=&quot;Event summary in one blog post&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.womenwhocode.com/frontend&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
