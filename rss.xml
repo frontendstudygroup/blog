@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 18:13:06 GMT</lastBuildDate><item><title><![CDATA[What to learn - Issue 1]]></title><description><![CDATA[Welcome to the first issue of the WWCode Frontend’s Newsletter! I, Princiya Sequeira, WWCode Frontend Leadership Fellow will send out…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-1/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-1/</guid><pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the first issue of the WWCode Frontend’s Newsletter! I, &lt;a href=&quot;https://princiya.com/blog&quot;&gt;Princiya Sequeira&lt;/a&gt;, WWCode Frontend Leadership Fellow will send out curated summaries on the various topics I come across that might help you to learn new things. At the time of writing this, it is a new year and I am very excited to realise a long dream of mine to get into a consistent habit of writing. I am not yet sure about my commitment to this, so I don’t want to make any false promises which I would repent later. In the best case, I want to send out this newsletter biweekly for a year, so lets hope how this turns out.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 19:21:48 GMT</lastBuildDate><item><title><![CDATA[Jan 14 2022, Nayeon Shin]]></title><description><![CDATA[Building a Productivity App in Vanilla JS Join us on January 14, 2022 at 11:00 CET | 15:30 IST | 19:00 KST for a session from Nayeon Shin on…]]></description><link>https://frontendstudygroup.github.io/blog/jan-14-nayeon-shin/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-14-nayeon-shin/</guid><pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/827f00b7e5439bae37c327f677aa8eb9/302a4/nayeon-shin.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD20lEQVQ4y4WUW1NaVxTHNzGiqcZwuINcBQRRU7TtBMVKQFAISMSM1ikIVDMdadRULRrB3MbiGC8BZ1LLV/AT6IMzjg8+6LO++GX+7d4HiHGa6cN/1tl79vnttdZeaxEikYJIZOBtRbfXUhCx5P8llYHUyOTQWG0w2jugtdlh6ngITm8E4cT8AQqTyiBUqVGvbkadSo06dTPqmzVM9LuuvM/O0w9rVzcczh44HvXA9dgDudkCIuIgoAc4MTi9AZlMBh8LBbx+8wYbm5vIrb3G1vY2CsUitra28Pb9ewYm1IO7JjNqbW0QWlohtNlRo9UxkEAqZ6GIDUbkslmUSiWsr69jfn4e4+NjeD49je3tbfz16RM2P3xgHhPq5h2FEkQmr4bH9mRyHsiJGXB5eRmFQgGzc3NYXlnB/v4+g6+urmJnZwf5jQ0e2KjTo6X7OzTq9ZCYLRCbLZBbbVDa278ImQLpz0NDQygWizg9PcXBwQFyuRwWFxbwZz7PAxt0elidTjTqDdA7umDo6obc1gZVewc0nQ9xV6VGk1aLpcVFpFIphEIh5t3JyQkDvn33DrFYjFkGFMjk7IXuNWsYkKpBq0ONQslelqahSaNFOp3G5OQk/i6VcH19jaurK6bj42PMvniB3Npa+VFo/dASuWkrojkVcVC1WvFLMolkIsFe9vLykoV8cXGBo6MjFvbKq1d86RCdHsTlBun9kZerH6S3//Pa2QehxwfF6Bgs4QgG/X4W6vn5OQ4PD1leaX7/yGTKQEMLHkzEoU49hyIxBe7nBJSJKaiS01Clptm+KjmFhok4RIEQepxOzMzM4OzsDPl8Hq6+PmSz2TJQRT00QBFLomtuAc7FDByzL2Ga/hXin2JVSSfiaKLfQ0/g9XjQ73Zjb28Pu7u7eOzxIBqNYiadZp1EiNEEEh7BnfAIaiOjqBmOMpHg8Jd6EoE0GGZAn98P/+AggsEgfD4f3G43PAMDqKX1TEO+92wc8ngK3EQcslgS9dExkNBTCMIjTPQyeqk8NIzA4CD8Ph/LpdfrYTYYCMDr9YLOBRYyhTleLqHttzk4fl9iUOpVBSgIPQWJjKLe44PKYoGSysxLYTJD3WpFs9XGVwULORAG8QdBfAGQgUAVRr2sSBAZ5V/9gYgvLyoRx4vuUdFSEyiUqDW3QmixosHejvsdnSB0fBlaeFsRXWt01V6vjjaJFIKy+Lo1tuCRz4/OXhfGUikk02kQYR1/M/Pklr09dG8PYtpmVmcPGxCm73+A7lsH7huMoD1+04v/VAV4E0zHFO3jbzRaZmk/0glEL/qqF1+D/at/ALp7h4wyd54lAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Building Productivity App in Vanilla JS - Nayeon Shin&quot;
+        title=&quot;Building Productivity App in Vanilla JS - Nayeon Shin&quot;
+        src=&quot;/blog/static/827f00b7e5439bae37c327f677aa8eb9/f058b/nayeon-shin.png&quot;
+        srcset=&quot;/blog/static/827f00b7e5439bae37c327f677aa8eb9/c26ae/nayeon-shin.png 158w,
+/blog/static/827f00b7e5439bae37c327f677aa8eb9/6bdcf/nayeon-shin.png 315w,
+/blog/static/827f00b7e5439bae37c327f677aa8eb9/f058b/nayeon-shin.png 630w,
+/blog/static/827f00b7e5439bae37c327f677aa8eb9/40601/nayeon-shin.png 945w,
+/blog/static/827f00b7e5439bae37c327f677aa8eb9/302a4/nayeon-shin.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Building a Productivity App in Vanilla JS&lt;/h2&gt;
+&lt;p&gt;Join us on January 14, 2022 at 11:00 CET | 15:30 IST | 19:00 KST for a session from Nayeon Shin on “Building Productivity App in Vanilla JS”.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_zab28bHiRCqahjZxNgs3PA&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://bit.ly/3FLaUlZ&quot;&gt;Momentum&lt;/a&gt; is a Chrome extension that’s a productivity tool.
+Its main features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Greeting users by their name&lt;/li&gt;
+&lt;li&gt;Displaying the current clock and weather&lt;/li&gt;
+&lt;li&gt;Letting users make a to-do list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But it comes with many limited features if you’re not paying $3.33/month to use the premium version. So I decided to make my own to take full advantage of such a productivity tool freely. (&lt;a href=&quot;https://your-haru.netlify.app/&quot;&gt;https://your-haru.netlify.app/&lt;/a&gt;)
+In this workshop, I will introduce how I created and deployed from scratch a static single page application (SPA) in HTML/CSS/Vanilla JS only. We will look into the bits and pieces of this project and learn topics such as: implementing fade in/out animations, leveraging local storage not to lose data on refresh,and hiding an API key using Netlify.&lt;/p&gt;
+&lt;p&gt;This is not an interactive session where attendees will code with the speaker. The prerequisites are the basic understanding of HTML, CSS, and JavaScript&lt;/p&gt;
+&lt;h2&gt;Nayeon Shin&lt;/h2&gt;
+&lt;p&gt;Nayeon (nah-yeon, she/they) is a sophomore in college studying Computer Science and Film Studies, lead on the Women Who Code Python track. Nayeon’s favorite language is Python, and you can easily annoy Nayeon if you say HTML is a programming language. Nayeon is interested in both front-end and back-end development but is now leaning towards becoming a back-end developer.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/0267d653dae9819c4a13b3d9cbec6697/302a4/intro.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD8klEQVQ4y41U609adxg+YN2cFwQBL2gtraDIxaJQEbWoC+uyxG1Ns3Zf2MfNLMt6QWjFc7h4QayioMDhpuncVrVz66cm+zfWLP3on2DWpJ+WaZ/l9wK265plJ3nyvu857+857+U5hzs+OQG7buztg/P6UMUHwc0K4AL8/wfLr5xB+br6/Y/g7kxDyggDPCR8kMhZfEYIkS+ZFQiVuKqcy83MlsBIj46O8PPBAW4vxTAcmEV1OcmykYIzm4c5uUm+MbmBgXQG+rUEhrI52DIirKk02mL3UROKoDY8VyIXBAEejwe/PnmCxMI83He8kIQidMiRzaE/lYF5Y5PsWHELo/kiEY/mC7iUyWJQzMGZy0O7Ei8RTk1NYWdnB78/e4ZfHj/Gba8XLaEIHLk8xotbcIg5OmzPiFSxe/sBEQyKWbgKW2hfvg/F/CK4e4FSy5OTkygUCvjt6VM83N3FTCAAJR9E7dwCZHMLqI/Mo6Hsy+cXqTV2771QBMrFpVJVd2deLcjtdsPlcuFgfx9fezy4cvMmpMEwehNJGBJJnFuJo2c9SdDF16l9W1qkuCu+joubaWhX4+hNbNCyuMPDQ4TDYXxx6xYsX34FzncXUiGEkVyeZlaZ3XCugJF8AWOFLXz44DtcLhRpHGwxjJR18IZsfgA3XSKT8gLOr67RRttiy+hcWaUts4pYlbq1dXSvJWBNZaBibb/e8l/Hx2VhPzoVNtNey1IMTQtRNM4vklVHYwR5OVYuRtEcjdEcW5aWIeHLwj55+ZIIr+/uEaG0LFi2UbZleyZLbbONThS3cTlfJJ/Jij1jEmKapPn9FyGTxSUxi6FsnpbASFmLA2mRJMTEzmBKbtKCKl/YWwkZ2LDZQSZedXQJ7wTDp3g3GEb1a/FpdQyVn8P1h3uvfg7sgf9eadgMzGeofLNvQ4WwsuUbj34iyUjYG0MRWFIZmDbTuJgW0Z3cgDUjojoUAcdeyCri30SwhOfP/8CfL17g2tY2uG++xRmfH1U+P+R8EHJegIIPQjbLQyEE6b7E64Nk+t+QTvsh9fnBOS50YNjQBev5DhjPtsJ8ToNejQr65kbom+UEnboRXWoZjBoVzB1qmDuayRo1yn/4hlYFuH5tO5xmI0YsJozbbXBZ+2BtU8Ikr4G5qQ4mRS36VA34wNKDq8N2fDI0gGujDnzqtOHziVF8PGjFZ2NOfGSzwCivAWfTaeGw98MxYMWwcwhDg3b0tathVNTCpKyHUVkPs6oB1rYm9LXIYVbLyE6Yu3Gl34T3LT0YN+nhMlygXM7Q3Ahd11notRroO1vRpeuEUS2DqamOEoi0qQ69ilqyFZiUDSWraqCcSt7fgudOhMr6WKUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Nayeon Shin introduction&quot;
+        title=&quot;Nayeon Shin introduction&quot;
+        src=&quot;/blog/static/0267d653dae9819c4a13b3d9cbec6697/f058b/intro.png&quot;
+        srcset=&quot;/blog/static/0267d653dae9819c4a13b3d9cbec6697/c26ae/intro.png 158w,
+/blog/static/0267d653dae9819c4a13b3d9cbec6697/6bdcf/intro.png 315w,
+/blog/static/0267d653dae9819c4a13b3d9cbec6697/f058b/intro.png 630w,
+/blog/static/0267d653dae9819c4a13b3d9cbec6697/40601/intro.png 945w,
+/blog/static/0267d653dae9819c4a13b3d9cbec6697/302a4/intro.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 1]]></title><description><![CDATA[Welcome to the first issue of the WWCode Frontend’s Newsletter! I, Princiya Sequeira, WWCode Frontend Leadership Fellow will send out…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-1/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-1/</guid><pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the first issue of the WWCode Frontend’s Newsletter! I, &lt;a href=&quot;https://princiya.com/blog&quot;&gt;Princiya Sequeira&lt;/a&gt;, WWCode Frontend Leadership Fellow will send out curated summaries on the various topics I come across that might help you to learn new things. At the time of writing this, it is a new year and I am very excited to realise a long dream of mine to get into a consistent habit of writing. I am not yet sure about my commitment to this, so I don’t want to make any false promises which I would repent later. In the best case, I want to send out this newsletter biweekly for a year, so lets hope how this turns out.&lt;/p&gt;
 &lt;h2&gt;Motivation&lt;/h2&gt;
 &lt;p&gt;While any developer is welcome to follow this newsletter, this is best suited for frontend folks who are at the middle-level of their careers. In my opinion, middle-level is like the teenage years, or atleast I felt it that way. I was not sure how to get to the senior level, offcourse I needed experience. But I was not sure how to approach the topics or learn new things. There is so much happening and it can be overwhelming.&lt;/p&gt;
 &lt;p&gt;In every newsletter, I will share one new thing to learn. If you are already aware of the topic, then think about what can be the advanced level for the same or take the time to practice the same topic. If you have not heard about the topic, then take some time to understand what are we going to learn and why is it important to learn that topic. I will offcourse share WHAT topic and WHY to learn that topic, but it is upto you to decide HOW you want to learn so that it is effective for you.&lt;/p&gt;
@@ -148,7 +226,7 @@ Stay happy and healthy! 🎉 ✨&lt;/p&gt;
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dec 09 2021, Neha Sharma]]></title><link>https://frontendstudygroup.github.io/blog/dec-9-devon-jones/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/dec-9-devon-jones/</guid><pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dec 09 2021, Devon Jones]]></title><link>https://frontendstudygroup.github.io/blog/dec-9-devon-jones/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/dec-9-devon-jones/</guid><pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
