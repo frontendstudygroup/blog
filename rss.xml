@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 10:12:28 GMT</lastBuildDate><item><title><![CDATA[What to learn - Issue 1]]></title><description><![CDATA[Welcome to the first issue of the WWCode Frontend’s Newsletter! I, Princiya Sequeira, WWCode Frontend Leadership Fellow will send out…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-1/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-1/</guid><pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the first issue of the WWCode Frontend’s Newsletter! I, &lt;a href=&quot;https://princiya.com/blog&quot;&gt;Princiya Sequeira&lt;/a&gt;, WWCode Frontend Leadership Fellow will send out curated summaries on the various topics I come across that might help you to learn new things. At the time of writing this, it is a new year and I am very excited to realise a long dream of mine to get into a consistent habit of writing. I am not yet sure about my commitment to this, so I don’t want to make any false promises which I would repent later. In the best case, I want to send out this newsletter biweekly for a year, so lets hope how this turns out.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 18:13:06 GMT</lastBuildDate><item><title><![CDATA[What to learn - Issue 1]]></title><description><![CDATA[Welcome to the first issue of the WWCode Frontend’s Newsletter! I, Princiya Sequeira, WWCode Frontend Leadership Fellow will send out…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-1/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-1/</guid><pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to the first issue of the WWCode Frontend’s Newsletter! I, &lt;a href=&quot;https://princiya.com/blog&quot;&gt;Princiya Sequeira&lt;/a&gt;, WWCode Frontend Leadership Fellow will send out curated summaries on the various topics I come across that might help you to learn new things. At the time of writing this, it is a new year and I am very excited to realise a long dream of mine to get into a consistent habit of writing. I am not yet sure about my commitment to this, so I don’t want to make any false promises which I would repent later. In the best case, I want to send out this newsletter biweekly for a year, so lets hope how this turns out.&lt;/p&gt;
 &lt;h2&gt;Motivation&lt;/h2&gt;
 &lt;p&gt;While any developer is welcome to follow this newsletter, this is best suited for frontend folks who are at the middle-level of their careers. In my opinion, middle-level is like the teenage years, or atleast I felt it that way. I was not sure how to get to the senior level, offcourse I needed experience. But I was not sure how to approach the topics or learn new things. There is so much happening and it can be overwhelming.&lt;/p&gt;
 &lt;p&gt;In every newsletter, I will share one new thing to learn. If you are already aware of the topic, then think about what can be the advanced level for the same or take the time to practice the same topic. If you have not heard about the topic, then take some time to understand what are we going to learn and why is it important to learn that topic. I will offcourse share WHAT topic and WHY to learn that topic, but it is upto you to decide HOW you want to learn so that it is effective for you.&lt;/p&gt;
@@ -86,7 +86,38 @@ Stay happy and healthy! 🎉 ✨&lt;/p&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLVcEZG2JPVhdJVopX9jAM8PUCaC7qKOgp&quot;&gt;Youtube playlist&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://wwcode.typeform.com/applytospeak&quot;&gt;CFP Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/blog/8965be15772b751c18c7baacbb8a4491/2022.gif&quot; alt=&quot;Happy 2022&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dec 16 2021, Neha Sharma]]></title><link>https://frontendstudygroup.github.io/blog/dec-16-neha-sharma/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/dec-16-neha-sharma/</guid><pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;img src=&quot;/blog/8965be15772b751c18c7baacbb8a4491/2022.gif&quot; alt=&quot;Happy 2022&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dec 22 2021, Deepa Subramanian]]></title><link>https://frontendstudygroup.github.io/blog/dec-22-deepa-subramanian/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/dec-22-deepa-subramanian/</guid><pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3217cf4c5d6c9ca426ac1fc1e9766b16/302a4/Deepa.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEgElEQVQ4y42Va1CUZRTHXzI0LoKWjuM1pPKWJQGGOGaLTKDg6Fij4qR4mYmmHPECCAt7fd/dTRQQRVIQBFwuu6vmF/ODlmOlTtOHpsaM1JxJU1FTjIVdFxb4Ne+zwEzah56Z/5znOWfO/znnPc85ryQV6vi/eK5Ij5SvZdKu3bR7vair2++nt69PwN/XhyRpixAoKPxvPGUTpDl5LKlvwNPTw9NLCirUMVxvJMRgIsKs8ILBJBBmNAup2lSp2iPNCkGDkebk8VpJGWUXLnLuxg3OXv8d+etzSME6A8mHa1lhb2RlUzNL6urJaHaQ8PlBPnQ4STpcQ3JNLWtaHOI8zvaZiFQlVtNXiYcy2Z6DpN62tP4ob1ceJK2ugWUNdlY3twxBJUmprSP1SB0zy8qRcncKohDZgpRbwLB8LUEGk9CrwUnP6wysc7pY7zrGqqYWoveUoupGmmRGDKQroDcKokjZwtYWJ+9v3EDcnFmMGjuGBZkbSK+3B6JVqxdukhlrtTFatgiyfxVkEHn5TLbt4srN25TJVjKT51GeqWHzoteJGh3B8UYHxee/QxKOOwuEg5BPEw1gWJGe85db8d57SFr6cnSbVmNckcCW1FiSZkeROP8dfO1upEiLjQjFSoRiIVxWCDXLhKjpGs0MV6trNIvL1tiboMPDtdbrpCa/h/6j9VgzUlibMJNPU+YydeIELv90BSnV6ULT1ExifQNza4/wZlU10w9UEr1vPxNLyhhXvIdgk5nqby5A5xNaf/mN+LgEHHI+9uxM9Kmx6JfGkZyYwJ1bbUiLnS5WnPiC5a5jaI7a0TQcZWFdA3FV1cQeqmJWxQGiS/dy8ocfwdfLSedxIsIisWSto7Ewl21JMaxPnEaxdRe93h6kxa5jpLQ4SGpsYl5dPfGHa4k5VM30ikpeKd/Py6V7CVes1Hx7Cbx+sjdnExY2ivnxCVRlb2CnZjo5y9+l7c/7uNu7kFIcThbaGwVZbE0tsw9VMa2ikqnl+0TK43eXEKQ3stF1go67t1mZsZaYt+YxaXI0GXNnUJAaQ7ZmBscrbXQ8vIcUapIZKVsINysCYSYZVRcyUJRhOoOocKhiJUu7leiJkxk7IYrQsAhWL5jD7lULKFw8k6otr3KmJj0wHNQeVXs3wiSL/SDUhy2ezY5cJK2OeIuCVpvPJ5uzSVuaTvjHWUzbtJZTFWmcdy1Ds3VVYDioXTFKthApK0Kq5xcVq9irT+aDphZ+vtv2zGQ5fe06c0ormLItk6isDJbY9gY6ZYxiE3hJsYrpMmIAqq384iXh3NndzR/t7bR7PJxqbeWu2y30f3s8WL48Q8npM/i6fYFOGW2zMKWshGCVZHCS7MhFf/Yr4eTz+/n1/gO+v3WLOx0dnL56lZuPH9PX3//sPJQKihipyIwvKSZYbwiQ5eXzxr6KIYee3l7a3G7+6vIIQrfPx50ONw89Hrr9vXT5unnS00N/f38g5UA/a4d6VtqeKwanutSxrhI+8np55PHw2OsVxI88XvEbeNDVxf3OTvFJ1Aj/AZXQ419yWUwHAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;An introduction to React - Deepa Subramanian&quot;
+        title=&quot;An introduction to React - Deepa Subramanian&quot;
+        src=&quot;/blog/static/3217cf4c5d6c9ca426ac1fc1e9766b16/f058b/Deepa.png&quot;
+        srcset=&quot;/blog/static/3217cf4c5d6c9ca426ac1fc1e9766b16/c26ae/Deepa.png 158w,
+/blog/static/3217cf4c5d6c9ca426ac1fc1e9766b16/6bdcf/Deepa.png 315w,
+/blog/static/3217cf4c5d6c9ca426ac1fc1e9766b16/f058b/Deepa.png 630w,
+/blog/static/3217cf4c5d6c9ca426ac1fc1e9766b16/40601/Deepa.png 945w,
+/blog/static/3217cf4c5d6c9ca426ac1fc1e9766b16/302a4/Deepa.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dec 16 2021, Neha Sharma]]></title><link>https://frontendstudygroup.github.io/blog/dec-16-neha-sharma/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/dec-16-neha-sharma/</guid><pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -111,6 +142,37 @@ Stay happy and healthy! 🎉 ✨&lt;/p&gt;
 /blog/static/1589036bda5171881534d97e318a7e11/f058b/Neha.png 630w,
 /blog/static/1589036bda5171881534d97e318a7e11/40601/Neha.png 945w,
 /blog/static/1589036bda5171881534d97e318a7e11/302a4/Neha.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dec 09 2021, Neha Sharma]]></title><link>https://frontendstudygroup.github.io/blog/dec-9-devon-jones/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/dec-9-devon-jones/</guid><pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/1b39c02efa7ce68658ce450a4d6dfb0f/302a4/devon.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEaklEQVQ4y3WUWUyUVxzF77ApWmCG2Zl9WIZl2AZEkcWtRh3GGUQHI+Awg8omYGFsFZGaxiqCCgVLXBJjarWxIdpaG6s21RfT+tC0TfrQpMuDbdImNm1q06cmza/9vgGDpj6cnHtvcs93/t//3L8Qag1CrSXGc5i312gR6WpsxUUU19ZSVLsCV5kHa0EB5sIiUi1mNE4HORVLMLqLEPFaHWZXLo58N5bcfDLdRahsDoQqPSYmQZVOV2eYG5emOD9+mMmhAcYHoxzev49o7y4Cfh+XL5xmS2sLYoExA1eph5JllZQsraRq5Sp0WdkIpQrFPMH6gJeRV3YyFAkw1rOd4xfHGX7/FCemjtAb3kZfixeDw4GQykrIzCIxN4+krByScvOJt1ifdqjW0Ny8mfPjUUb7m9g7fZz2D6bYd/sN+j88Sd/eEH5vNRk52QjpQpzegNDqYpe1OhRaHfE6/RMxoVJzdDDCVzdP8t6NC6w7d4Yv7lyFhw+5ePdtOt7s47OrJwhH/IgXrDYcnjLSHE402Tnoc/NQOjMx5Bew0GSSGyKU6Rw7GOH7W6OMnDmFJbiDB++c5aePrzPx+jD1bY389uk5BrqCiMVWG66ly0h1OLGVlGIpLsZY4MZUWIQ+L48Eg1EWPPhyC9/dOkH7gSNU+9v5+fYMj+/f4cLoMZasD/L1nQm62usRUnlJxgySzRbspR45CiZ3IQtNZrlsuTEqNUPRbdy/sh9/zzAVtU18e36a32cu0RvpRr0yzL2ZQ7RFvAi5JKkBanWsPOmfzT+TMpmaxtBgB9fufYL7wBWE3cf1kde4e3aaBMMKlFuPcn1mitCWKoSw2hDVKxDLaxDLa2cxu66qRdSslNna3ErzxFu4uy8iCsJcm56gJ/oawtHCmuEZfv3zb3r6exHC7iRlazMZ4Z1oW8Jot0cwtLahD7XJ+8RNQcTGBoS3DlETQGQ04gkeYWTsNPZ1PYjyKE2H3+WPv/7h4Nik5NCOKRShfE+Ukp495HfupnzPALkd3ZT19WMN70BRV4/C52ehP4TQ+GhoH+fzb37E0zdFXPUAZu8gX/7wiFdHxxHC5kC1tRlXRzd5nbtxtrWzqKGRxMBmmZM3BVH46hEbAySsbiAhawubXprkl0ePmb75AGVNNyJ9NZOXP+LQ2KxgauM2nDs70beEse/oILmhEbFhI8Lrj6EugPA3oKheRbItG627lOyKSuxlFcQbnQilEY2rAJ0rLyaobgpR2r8X564umTVNIVkwzlcfc1cXQBHYHGuSUolIS0OkpCBSUhEqVSwN0llqGkI4MhHrfYi1G2JYs052NSc0B4W/ISYoj7TY81RodLMx08TyKq0VegOJ0lDIdrE4v4AUdyGSa6n7Ms9B2pstz8xNzdPZlVjpcLL0xbUULq8iGA7T2tWFSFogjy853Kpn+P/E5mOxxYprWSVOTxmZ5UuwFpeQYncgvfEn0+Z5eNadhDitjmSTmUVmi8wLMkxIE0j60HNdPE/sP/wLR/SeWbm6pq8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Quality Engineering - Automate your way to excellence - Devon Jones&quot;
+        title=&quot;Quality Engineering - Automate your way to excellence - Devon Jones&quot;
+        src=&quot;/blog/static/1b39c02efa7ce68658ce450a4d6dfb0f/f058b/devon.png&quot;
+        srcset=&quot;/blog/static/1b39c02efa7ce68658ce450a4d6dfb0f/c26ae/devon.png 158w,
+/blog/static/1b39c02efa7ce68658ce450a4d6dfb0f/6bdcf/devon.png 315w,
+/blog/static/1b39c02efa7ce68658ce450a4d6dfb0f/f058b/devon.png 630w,
+/blog/static/1b39c02efa7ce68658ce450a4d6dfb0f/40601/devon.png 945w,
+/blog/static/1b39c02efa7ce68658ce450a4d6dfb0f/302a4/devon.png 1080w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
