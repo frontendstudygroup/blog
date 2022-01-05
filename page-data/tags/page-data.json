@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"group":[{"fieldValue":"2021","totalCount":7},{"fieldValue":"2022","totalCount":1},{"fieldValue":"december-2021","totalCount":1},{"fieldValue":"hacktoberfest","totalCount":5},{"fieldValue":"january-2022","totalCount":1},{"fieldValue":"november-2021","totalCount":1},{"fieldValue":"october-2021","totalCount":5},{"fieldValue":"opensource","totalCount":5},{"fieldValue":"update","totalCount":2},{"fieldValue":"webinar","totalCount":2}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"group":[{"fieldValue":"2021","totalCount":7},{"fieldValue":"2022","totalCount":2},{"fieldValue":"december-2021","totalCount":1},{"fieldValue":"hacktoberfest","totalCount":5},{"fieldValue":"january-2022","totalCount":2},{"fieldValue":"november-2021","totalCount":1},{"fieldValue":"october-2021","totalCount":5},{"fieldValue":"opensource","totalCount":5},{"fieldValue":"update","totalCount":2},{"fieldValue":"webinar","totalCount":2},{"fieldValue":"what-to-learn","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": ["2841359383"]}
