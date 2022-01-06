@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 19:21:48 GMT</lastBuildDate><item><title><![CDATA[Jan 14 2022, Nayeon Shin]]></title><description><![CDATA[Building a Productivity App in Vanilla JS Join us on January 14, 2022 at 11:00 CET | 15:30 IST | 19:00 KST for a session from Nayeon Shin on…]]></description><link>https://frontendstudygroup.github.io/blog/jan-14-nayeon-shin/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-14-nayeon-shin/</guid><pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Jan 2022 09:53:18 GMT</lastBuildDate><item><title><![CDATA[Jan 18 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase Join us on January 18, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola Ale on…]]></description><link>https://frontendstudygroup.github.io/blog/jan-18-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-18-damilola-ale/</guid><pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3ca23bb85acdb8579010625088982f83/302a4/damilola-ale.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEiklEQVQ4y42UeWxUVRSHH7RQCgIKSMCg/oExYKyyBFJSQEJKKCIBWQQBIS5RFA0S6D770oWWQhcs022mnbbTocUiS4oUbS2d0kHRABkQiAYx7LSdmXamG53PvDuAhsSEm5ycm3dzvnfPOfd3JClJwdPaINnHJzIpbRcd/m7kdcHlwul0cupUM5evXEGSEpOREpKezhKTGZysRNoRy9JSKx6fD0dDI6Z8E3qtjtamU0jyn4epNAxXaxmt1Qs/Qq0VPlylYZRW//g8RIb9BzplTzaJdccpdp6h0Onk6yNHkeTD5WVW5psKWWkt592yctZUVLLJXs2GKjvv26qIKbEQXVTC5MzdImU5ZnCyAmlnrACHKtWEKtRiL4UqVLxXYWO9zS4C3zIVsrq8kmWWMtZV2gRchm6ssjNvfwFSQiJSXKyADlfpCFdpkeITkGJjkVki5TClmpEanfCyySkPUahEiv+Ww0CIQkG4UseygiOoD7nIPn6NzLo/2FZ9hoisQqS4+CDwcWNk/+T+kcXFMUabjvbQJayNHZgb7lHW0onV4cHW7MbW4mZNaR3S/3XzSZNTTK49T1ljO/knb1LQcAdj0Qn21vyK2dFOmaMNu9OLNNqQwii9kZE6A8/o9AzX6AjX6Bim1hKm0hAm1yghgbl5FZQ3dbD/h5uYm9vJOeTiowUzifviSyyn3ZS3tmNtbUdabD/A/PIKIi2lzCgq5g1TAa/m7ePlPdm8kLmb8ekZhGk0bLE7qGx2U9R4G0uLm+Kme2yImo4iyYj9IgJYccaNtORANau/rWVFdQ1v26qILDEzt8RCVHEJs0yFTM3JY0p2Doqj56hscWN23Mfeeh+z/SSfRs9hlzYF+09XsZ/1YPvFixTzELi65iBLbXYii83MM1uYU1TMzP0mIvK+YXJWFjsP/8x3Zzs56BqgtLCUTZFTWbVwIZ8sf4f4D9dS23qD6nPdSIuq7ESVWZlVYubNgkJezzfxSm4eL2btZWJGMOXBKhUxJTXUu3o5dqmXY02/sfXjD4iaPp11MYvZsnkzhy94qHX1I8kNkBsyUqdnlNwYrZ4RGp2woUIBKoYo1YQkq8j80YXzbzj6vYPPomcQMfU1oqdNY2nUbCry82n4k+CzeVZnEDp+3pDCOIORsXojE1LSgpqVn40sqdg4lpitXPNCS7OT+G2fM2LrV4xdv5FFc6PYsGg2CxKUSPJIkpXxnN7AOEOKgI7RGxlvTBUma3dlRSXnb90mQAAY4NGqu3KV2dm5hK5dT8iKVSxLTQ0OhwnGNF5K2yUAQx9KT5abnG5uy2kR3Nnby18dHbi7uzl26Xdueb3ie0eXj/QT9eScqKe7ty84DydmpDEpM4NB8gRJSAoO0u07UNSfFEE9/f1cvHOX1uvXueHxUnf5soAPBAI8uQRwTKqB8empDEpWBmGx8URk5z4O6HvwQNzoXpePGx4P3p4eAb7v89Hb/4Cunl66+/oIBAIPh0N8kqiVDBdDdPtOspodAtY/MCCAbX4/bT4fHX6/ALf5/LT7/dzt6uJOZ6coiXzDfwBdDAgjSjeVpAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;An introduction to React and Firebase - Damilola Ale&quot;
+        title=&quot;An introduction to React and Firebase - Damilola Ale&quot;
+        src=&quot;/blog/static/3ca23bb85acdb8579010625088982f83/f058b/damilola-ale.png&quot;
+        srcset=&quot;/blog/static/3ca23bb85acdb8579010625088982f83/c26ae/damilola-ale.png 158w,
+/blog/static/3ca23bb85acdb8579010625088982f83/6bdcf/damilola-ale.png 315w,
+/blog/static/3ca23bb85acdb8579010625088982f83/f058b/damilola-ale.png 630w,
+/blog/static/3ca23bb85acdb8579010625088982f83/40601/damilola-ale.png 945w,
+/blog/static/3ca23bb85acdb8579010625088982f83/302a4/damilola-ale.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;An introduction to React and Firebase&lt;/h2&gt;
+&lt;p&gt;Join us on January 18, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola Ale on “An introduction to React and Firebase”.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_YquFohY9ST6BBjR5xfJr1g&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WWCode Frontend presents - “An introduction to React and Firebase” where attendees would learn how to build a simple authentication app with React and Firebase as the backend.&lt;/p&gt;
+&lt;h2&gt;Damilola Ale&lt;/h2&gt;
+&lt;p&gt;Damilola is a frontend Engineer at Evolve Credit.&lt;/p&gt;
+&lt;p&gt;She loves building and designing frontend applications and desires to be a UX Engineer. She loves reading, and creative planning. She also loves to teach.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/7684fca9d11dd5b59fa1fbbbe3341a99/302a4/intro.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADwklEQVQ4y5VUSWxbVRR9sRuayaljO4nruG2aONj5thMndj0kaZqUCKmqGBS1ZccGJBaoSCR2k9jfU0spBcf1FM/uhtBJqtQi2BR1g8qisKlYwAqxYItIRCshUO2D3rW/E8og8aWrc//7955373n3ffa0WgN/Tl+7Abbsg1wMgflFsLXA/zeeB9QJFzc3wd45C1lArH/wi5AFgmTSBtyXN9Y47hFDaPGLTSPSrSd/4Mvvf8VH93/EydJdtIphsJVVmBMpTOWLcGXzsKUzMMYTtDaZycKeyUJIJDGdL+JooYSxVBrd0Qtgq36wzQc/Y/3uD4hV7uHON7/hrVtfga2tYTyVgTtXgDtXJzyykaMNOiNRqoxX2CqG0BaK4LlgeKfCyoNtFD79FktvvInNh7/g44db0F6MgfkDkAdCzWSuLU+kKrhxAsnnJml4+9ETXH4/jtdPvIDizfu4/V0N+ksxjKfSsCTTsCbT1OrolSS1fySbo+p5m85sjtp2bOSgunCxTvz1TzVEAyKch/V4710fwl88ot0mMxuU7MkXCI+Xr1LyTKFIGnIZnNk85koVzBbLGIqt1wmrAD77/B7mFxZgPH0K7Y2x4ZVxzTjySngiJ+WEhz6MkRRcgr3BMOnI9aS2a82xuQbmXUFLIEgC84DWXWJzbA9HiIgSV9bAzq3WkZs0i9Jgn7l+A2zJ25wzSzIFQywO05UEDOtx0pC3ORyL0whJyE9f98HlnUOp1qSbcp0IpaGdLZZIs/lShUQ/WiyRHSuVaZymC/wwsuRzOXSXGqT/RMjb6whHSaPOcLSp0d5dmnVFzjd9ReT8jhTPEsobV43IInVSbnsahHTXd8/fs3P4tFqtE37SqNAvEqlzg59sGZ5cHu5sHuZEkvTipy77r58HGs+Zm7fAvOcg47chEALjlfIAjtK7PwgmNvx/s+3tLfz++DEWyxWwt8+i1euDbNkLmdcHOfk+8mWN9ZYlL1qW/25SHHMN6TFlGobtsB7CAS0sh3QQdBqY+ntg0qowqlXB1K+EsU8J84AGFn0vLPo+QkGn/otv0vaATQwOwGMRMG01Y85hx6xtHLb9agj72mDu6YBZ2Y4xjQILViNenXLgZfckFmdceMVjx2vzM3jJacOpYx6csFshKNvA7IZBuBwTcE3aMOVxw+10YGygFwInU3dBUHfBolHAtl+FsX4lLL3dhPOW5/HihBnHrUbMmUcwaxqiWGbq2wfD8AGMDOowclCLYcNBCL3dMKs6KYBIVZ0Y7ekglMysVtRRo6AYKe5P0rVQJhkM9H8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Damilola Ale introduction&quot;
+        title=&quot;Damilola Ale introduction&quot;
+        src=&quot;/blog/static/7684fca9d11dd5b59fa1fbbbe3341a99/f058b/intro.png&quot;
+        srcset=&quot;/blog/static/7684fca9d11dd5b59fa1fbbbe3341a99/c26ae/intro.png 158w,
+/blog/static/7684fca9d11dd5b59fa1fbbbe3341a99/6bdcf/intro.png 315w,
+/blog/static/7684fca9d11dd5b59fa1fbbbe3341a99/f058b/intro.png 630w,
+/blog/static/7684fca9d11dd5b59fa1fbbbe3341a99/40601/intro.png 945w,
+/blog/static/7684fca9d11dd5b59fa1fbbbe3341a99/302a4/intro.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jan 14 2022, Nayeon Shin]]></title><description><![CDATA[Building a Productivity App in Vanilla JS Join us on January 14, 2022 at 11:00 CET | 15:30 IST | 19:00 KST for a session from Nayeon Shin on…]]></description><link>https://frontendstudygroup.github.io/blog/jan-14-nayeon-shin/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-14-nayeon-shin/</guid><pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
