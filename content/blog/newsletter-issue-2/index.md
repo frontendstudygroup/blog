@@ -33,4 +33,10 @@ Join our slack channel and we can ponder over these questions together: [https:/
 - Question from the community: [Is Docker, Kubernetes necessary for frontend development](https://princiya.com/blog/docker-k8s-for-frontend/)
 - Advice for the community: [How to learn](https://princiya.com/blog/how-to-learn)
 
+## For Fun
+
+We conducted this poll on Twitter!
+
+![Twitter poll](./twitter.png)
+
 
