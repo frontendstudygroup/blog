@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Jan 2022 14:48:11 GMT</lastBuildDate><item><title><![CDATA[Jan 25 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase - Part 2 Join us on January 25, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola…]]></description><link>https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</guid><pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Jan 2022 15:41:45 GMT</lastBuildDate><item><title><![CDATA[Jan 25 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase - Part 2 Join us on January 25, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola…]]></description><link>https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</guid><pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -58,7 +58,41 @@
 &lt;li&gt;&lt;a href=&quot;https://princiya.com/blog/serverless-react/&quot;&gt;Princiya Sequeira - Serverless React&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Question from the community: &lt;a href=&quot;https://princiya.com/blog/docker-k8s-for-frontend/&quot;&gt;Is Docker, Kubernetes necessary for frontend development&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Advice for the community: &lt;a href=&quot;https://princiya.com/blog/how-to-learn&quot;&gt;How to learn&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Jan 18 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase Join us on January 18, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola Ale on…]]></description><link>https://frontendstudygroup.github.io/blog/jan-18-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-18-damilola-ale/</guid><pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;/ul&gt;
+&lt;h2&gt;For Fun&lt;/h2&gt;
+&lt;p&gt;We conducted this poll on Twitter!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/81fe356d6bb61cfc9f9cc0b4dcee7915/04784/twitter.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43.0379746835443%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABWElEQVQoz42SW0+DQBSE95/74rtvRu1/MPpuYmOMWLwUNcZalba0sbBAW1BpYWE/AwYvtSZOMpmzu8ns5JwjDNNk4Aw5Oja4tK65ub3DaJ3hepISRVGgtUbrUoGq1tSo61KzTCHs4YiXtwQvmOCHU8JpVGkyT1lGoXXF7ybLtQi9MaF0KXUWyErdkYMcjxgNbJy+g+y3iXq7P8xXpSwhmjcO5oPHyb2L0fVoPfqcPkjO7bA6G12J1Xe56l7zOMnpBDnuS/ErYZplJEmCWNvrsL5/y+bZK42rnB0r+2A7o2EpGlbGdluxZcHWxZyNVsKBnX62oDaM45gnu4domm2apsXQC6oHlRfkhV7Br/tiRQ/TNEX6PuLw9JySzzKoO8J/8H0YJRaLBWPXRXTsAd2eQziLqhXJlKrWo/79Ly4nVEoRRTFiGsW8JXNmUYznh/jhZOX0/pO2nPI7ZWmu+5SHV+cAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Twitter poll&quot;
+        title=&quot;Twitter poll&quot;
+        src=&quot;/blog/static/81fe356d6bb61cfc9f9cc0b4dcee7915/f058b/twitter.png&quot;
+        srcset=&quot;/blog/static/81fe356d6bb61cfc9f9cc0b4dcee7915/c26ae/twitter.png 158w,
+/blog/static/81fe356d6bb61cfc9f9cc0b4dcee7915/6bdcf/twitter.png 315w,
+/blog/static/81fe356d6bb61cfc9f9cc0b4dcee7915/f058b/twitter.png 630w,
+/blog/static/81fe356d6bb61cfc9f9cc0b4dcee7915/40601/twitter.png 945w,
+/blog/static/81fe356d6bb61cfc9f9cc0b4dcee7915/04784/twitter.png 1174w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jan 18 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase Join us on January 18, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola Ale on…]]></description><link>https://frontendstudygroup.github.io/blog/jan-18-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-18-damilola-ale/</guid><pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
