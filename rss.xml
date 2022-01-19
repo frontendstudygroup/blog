@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Jan 2022 14:42:59 GMT</lastBuildDate><item><title><![CDATA[What to learn - Issue 2]]></title><description><![CDATA[In the previous issue we (or just me?) learned about a serverless React application and deployed it into Netlify. Today we will learn how to…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-2/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-2/</guid><pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the &lt;a href=&quot;../newsletter-issue-1/&quot;&gt;previous issue&lt;/a&gt; we (or just me?) learned about a serverless React application and deployed it into Netlify. Today we will learn how to make the serverless apps stateful.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 19 Jan 2022 14:48:11 GMT</lastBuildDate><item><title><![CDATA[Jan 25 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase - Part 2 Join us on January 25, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola…]]></description><link>https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</guid><pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/264bce6c4caf576cf7f7f8806629b45b/302a4/part2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEtklEQVQ4y42Ue1CUVRiHPxE1MLW0nGh0pskaU0eN8ILhpXE0UWpUMvOSNlnTWDmTji6XZdkrV0GUi8KyLLvLsqwrqKgYlpQoLLKUNWpoWs2YhXdgAbmF8DTf2WL6oz88M795zzfnnOe873fO+UmSUsXjaogco2OZkLKb1q5u5Ha5sRGPx0NNTS3Xrl9HkmLjkGKUj6fYOPzi4pF2Koiw2Wnr7MR9phpjrhGDTk/9uRokeecn1FoCNTrG6AwijtToRAxQaxmtMwyOD5Vh/4G+sjeT2MpTmD0NmDwetp+oQJIHVxbZWWg0EWkvZnVRMWtLSvjgUCnvu1xscB4kvNDKUnMhk9L3iJJlsF+cCmmXQoD94zX4qzSiL/mr1Kx1ONngdImFi4wmVtqKWWa2EVlUQmSRg3UlTtaXuFiQl48UE4sUpRBZBqr1BKh1SNExSAoFMkuUPCJewyitXkRZk7OSeTnLwMQ9el41JrOxIpvgvN1IyjgC1HreNp1AU95I5qkbpFf+xhelDUzPMCFFRfuAgwcjR6WS6GoH1iuVKGttrP8ynfyfKnnrSCrj9Kloy69ir27FcuY+RXUd2N1tOGu9OOu8vGurRPq/kwwxJRPu3MsccwqvW1PYUW1mVkEysYcvYa9uIbfqFvln7pJY8DX7yn7A4m6hyN2My9OONCYhidGGREbpE3hSbyBQq2eYWoufSo1fnJoRai1SfDRhOQ7sZ1vJ++YWlpoWssob2fJGCFGfbcN63ktxfQv2+hakZa5DLCx2EGq18VqBmRnGfCbn7OeFfZk8n76H8alpDNPo2OpyU+L2Yqq+g7XOi/ncfTaGBaNSJuK6ggA6GrxIyw+VsubIUVaVlrHCeZDQQgvzC62EmQuZYzQxNSuHKZlZqCou4qjzYnE/wFX/AIurik+WzGO3LgnX2V9wXWjD+X07Uvg/wDVlh4lwugg1W1hgsTKvwExInpHpOQeYlJHBruPfcexCB4cb+7GZbGwOncI7ixfz8coIoj98j6P1TZRe7EZaetBFWJGd2YUWZuYXMC3XyEvZOUzM2EdQmq9kP7Wa8MIyTjf2cvJqLyfP/cjnH20iLDiYdeHL2Lp5M8cvt1He2IcUoNUzWj4QnWFQI7V6oeFqjbisw+I1DI1Tk/5tI54/oOIrN1vfnMXMqdNYMmMGEfPn4jiwn6pfH/muzdP6BHGxn9In8GxCEuMMiQQlpeCv8r1d8aQUUSy32LnRDg219WzZuQ3p0228uDqSFXNnsypiESHbFUiyJclmMNaQyDMJSUJyf3xispAUrSTSUcKl23cYYADoF7bVPQC5ngaC4tWMiFxD4IZNKKw2nzk8l5jCxJTdAjA8XjPoNnK52XXnBaCjt5ffW1vxdndTcfVn7nZ0+PzwzyZUx45T6vGIb+GHQWkpTEhPY4jsIDFKn5Hu2InqdJWY1NPXx5W796i/eZOmtnYqr13nRmsr/f2+bP9t/QMDPuDY5ATGpyYzJC7eB1NEMz0zW0yQ21+PHnG7vZ37DztpamujvadHgB90dorNOnp6RPRlKGxdKXxOhgsT3bGLjFq3mNDX3y+AzV1dNHd20trVJcDNnV20dHVx7+FDUb78S2Tg3wKKEZS+MuquAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;An introduction to React and Firebase - Damilola Ale&quot;
+        title=&quot;An introduction to React and Firebase - Damilola Ale&quot;
+        src=&quot;/blog/static/264bce6c4caf576cf7f7f8806629b45b/f058b/part2.png&quot;
+        srcset=&quot;/blog/static/264bce6c4caf576cf7f7f8806629b45b/c26ae/part2.png 158w,
+/blog/static/264bce6c4caf576cf7f7f8806629b45b/6bdcf/part2.png 315w,
+/blog/static/264bce6c4caf576cf7f7f8806629b45b/f058b/part2.png 630w,
+/blog/static/264bce6c4caf576cf7f7f8806629b45b/40601/part2.png 945w,
+/blog/static/264bce6c4caf576cf7f7f8806629b45b/302a4/part2.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;An introduction to React and Firebase - Part 2&lt;/h2&gt;
+&lt;p&gt;Join us on January 25, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola Ale on “An introduction to React and Firebase - Part 2”.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_xcGUc1xBTK-v-de_rr7RFw&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WWCode Frontend presents - “An introduction to React and Firebase - Part 2” where attendees would learn how to build a simple authentication app with React and Firebase as the backend.&lt;/p&gt;
+&lt;p&gt;You can find &lt;a href=&quot;../jan-18-damilola-ale&quot;&gt;Part - 1 here.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Damilola Ale&lt;/h2&gt;
+&lt;p&gt;Damilola is a frontend Engineer at Evolve Credit.&lt;/p&gt;
+&lt;p&gt;She loves building and designing frontend applications and desires to be a UX Engineer. She loves reading, and creative planning. She also loves to teach.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./intro.png&quot; alt=&quot;Damilola Ale introduction&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 2]]></title><description><![CDATA[In the previous issue we (or just me?) learned about a serverless React application and deployed it into Netlify. Today we will learn how to…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-2/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-2/</guid><pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In the &lt;a href=&quot;../newsletter-issue-1/&quot;&gt;previous issue&lt;/a&gt; we (or just me?) learned about a serverless React application and deployed it into Netlify. Today we will learn how to make the serverless apps stateful.&lt;/p&gt;
 &lt;h2&gt;One new thing to learn this week - Database and serverless functions!&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://princiya.com/blog/serverless-react/#overview-of-databases-for-serverless-functions&quot;&gt;Here&lt;/a&gt; is an overview of databases for serverless functions.&lt;/p&gt;
 &lt;p&gt;I extended the &lt;a href=&quot;https://princiya.com/blog/serverless-react/&quot;&gt;simple serverless app&lt;/a&gt;, which I had created earlier this month, to connect to &lt;a href=&quot;https://supabase.com/&quot;&gt;Supabase&lt;/a&gt; database. This was my first time using Backend as a service and I chose Supabase.&lt;/p&gt;
