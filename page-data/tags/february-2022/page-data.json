@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/february-2022/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…","fields":{"slug":"/feb-16-christina-kopecky/"},"frontmatter":{"date":"February 16, 2022","title":"Feb 16 2022, Christina Kopecky","description":"Introduction to Vercel and Next.js","tags":["2022","february-2022","webinar"]}}]}},"pageContext":{"tag":"february-2022"}},
+    "staticQueryHashes": ["2841359383"]}
