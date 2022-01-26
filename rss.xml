@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 08:15:41 GMT</lastBuildDate><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 09:48:39 GMT</lastBuildDate><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -32,7 +32,78 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Introduction to Vercel and Next.js&lt;/h2&gt;
 &lt;p&gt;Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on “Introduction to Vercel and Next.js”.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_SvRxNozpQFGErnKSi2iaeg&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 04 2022, Resume Review]]></title><description><![CDATA[Hello everyone, WWCodeCloud, WWCodeFrontend, and WWCodeMobile tracks would like to invite you all for a resume review session. Join our…]]></description><link>https://frontendstudygroup.github.io/blog/feb-4-resume-review/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-4-resume-review/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_SvRxNozpQFGErnKSi2iaeg&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 10 2022, Let your code fly high]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/feb-10-let-your-code-fly-high/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-10-let-your-code-fly-high/</guid><pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/aed132937d54b076a1cb4e53a7dc048e/302a4/banner.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADoElEQVQ4y42US2xUVRjHz8wAgSpqJSI+wsKgFDUuJCRoNMEYF7gSqLrANG0tHRCplnbmvud159FrOzO1tFC0JBCCTUZKSRvbBanSUFtNW2yViIlKkIoxGMuuiS78mbl3pr2tJXHx5dxz7jm/7/89zhF/fvc210Yr+XWiipmJKv66VsPfP/vZEtYQso5H1RCqjlA0hKIj1MIoG4Vv13p+38Ane0lHy7GMPWiHd/P7VBW3rxzk/qCzaR6oFmEGaw2Zx83DLlARqiNmpyu5OFhJ7/lqhgcr4Ho1qeMSosHAqzkwn2rgtQ8YiECArcc+orqnDxFUXA4L4+SXdTCzH27sh5/e4ciJIL4GJxxvXqGiIuQAQpXs+RpN4pF4ig3xZlZq6oKyItDXaPBiXGWPpVAm6Yh6YyHU/FwzeT1+iuelDoQUQUghhKKwSg3aDhblL2+ieDDoJN6jOTnxKmHKzEOk22WutHzOeKYP46ifJ2P1+JRwoVAumKItAPOefEVVhU0lSoSX4hr+D+rpb4oz0JwkkHmX15Iy96pRF+g/Cl2tsKhimqNaDzHUm6E314WQFSfkparcNg9QFreITzMQQYkDXV3Mjeb449IAu460I4Ky8285mA1UXJ7yiuRi6CprNJMzPTlmR4f45/I0vf0DdkMv7s1lFHoK4dWcbGR7phBWMMCOlo/JnTvH7bERbn39PVeHL7KtpdPuRa9q3CnkwvWSdXZ2KOzqlCiNqHi1EK2fDtHT1weT3zL71Q9cvzRG+9lhhCTZYXvss/qSKitOpRyVBkKWEbLE3VqMOvMsmpLDkgexpAGSei8Bs58VkpPffD5FQF6A5Ud3xVYZITals6xPNPFwymKDafFgxGJjvIXNTR+yuamNZzLtlKVb2ZTOUJZtZUu2lRWa7tyqhbZxgF7NYFvHMba2H+W5zuNs7+zkiWyWZzs62HGii6fa2ijv7mbnyVM83drGm93dvHr6tOtiLAGu1EPcF4tzVzjKA4kk90RNe600FrfHknDUPpRfXx0K49FNSt5XedlUeCWlsG454PpEilIzwWPNaTZazayNmjyUslhnJmxn+SgetSxKwikOZGPcmjwEN/ww4+fm1MEC0J1UWXVMUhwrfhfW7QchoPJCSGVuqpYfR97imwsVTA9V8NtE5WKF7n7y3KFx7cejPkTP+QbmrlaSjLyBqZfT+N5uPjuz1wX8X6bN3/HRL+rgZg2Xx2oZH61lfGQfv0zt419TW3D8yYPxawAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Let your code fly high&quot;
+        title=&quot;Let your code fly high&quot;
+        src=&quot;/blog/static/aed132937d54b076a1cb4e53a7dc048e/f058b/banner.png&quot;
+        srcset=&quot;/blog/static/aed132937d54b076a1cb4e53a7dc048e/c26ae/banner.png 158w,
+/blog/static/aed132937d54b076a1cb4e53a7dc048e/6bdcf/banner.png 315w,
+/blog/static/aed132937d54b076a1cb4e53a7dc048e/f058b/banner.png 630w,
+/blog/static/aed132937d54b076a1cb4e53a7dc048e/40601/banner.png 945w,
+/blog/static/aed132937d54b076a1cb4e53a7dc048e/302a4/banner.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/5f502540668dc0fc76f1ea40c572e6f3/302a4/part1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADY0lEQVQ4y12TSa/cRBRG/WPZRUgoC0CCBSxghwQbFkgIRUQJURSFwCLTI+nB3e727PZsV3kou1/4FwdVdb+XfiyO7lC3vvuVZFvP/3F58OwVD/+84uGLKxbJwDqfWGWKVXqX5QWrdOJ9MvDo7wUPnr3mt6cvefJqg/XTr4/49POvuXf/S7745nvex5JNMbPOFHY+symOrLPJ1DdRL7OLmaug5bsffub+V9/yyb3P+PGXh1gv/YrfFx5/rEKerEPW6cAmnwzLWHLl1djn2tZCho8L3gYtj9cxT+yYd5HE2pczXn2NWx9xqyNOoc5MbNKe528dXtkx66Q79XLFNlcmmryYccqjQb/MckuFW44XqDv4zREn63GygX2pDLvihhEnP7E9Y0XNRFhrFMEFfnXCLQa8SvemO+fe2cD+hmI0C6y4mfg/STsb9LJW/UvRfzgvPYmG2kSjF44GT3NeYGln0QVa0MsEfi7xiw6hrolLSVAOt/hlb2YDI6g+ilZasFJoguo0oOPKjVlsfZwwww4yrlYOq31ksP2UfVKyCzPjNLhwaRzGjSJpFGmrKMREIRSlnKjkRN4qwkOB54XsnD1RnFE0A++WW+Ikox9m+mEyyH6i7SYsndw0NWq6Rk1HhnE+XegnhuHMODPNH0gOBUmS08mRcTzNaLpeYQ2mUPT9TJqWOI6LH8QEQcx+5xLq3I+Ighh35xL4IXGUkB4y3L1LUdR02p0caaXCasRoCtEpWjFQVYKm6WjbnrqWNI2krsQ5FzS1pK4FUg4I0dN12uWRYZjpOoVVtCOlGKnESK2RiqabaKQyue53w8yormk7hegmajEQRQcOh5wsr/H9iDjOEHLE0oeNGGjFaGLVDuaCdt3Ik3vZK/OC5jyrF3tBzGJpY2/3LFcbgjgjrQesUjvUNCNVe4Mysax7ironr87UJ4qmp2wGNo5vSNKabrw2iyzHO7ALMsPWTQz2LmSzjwkyeYt/5rIXFQNR0ROXA2/eO6ycCMt2Aja7EMdL2OmPNshMrglzSZidCLKP+W0vFfiHlqQaefz0L569eI213Pgs1nvsXUSYCYK0xUsaM3xXQJzP5QWn2j8I0noi1n/Ku8WWzT4yLLWwE/LmasXaCUmKnigTRPp5t4LiVsiIaZepxE1a3EPLfy6yatSTtd2lAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Let your code fly high - Part 1&quot;
+        title=&quot;Let your code fly high - Part 1&quot;
+        src=&quot;/blog/static/5f502540668dc0fc76f1ea40c572e6f3/f058b/part1.png&quot;
+        srcset=&quot;/blog/static/5f502540668dc0fc76f1ea40c572e6f3/c26ae/part1.png 158w,
+/blog/static/5f502540668dc0fc76f1ea40c572e6f3/6bdcf/part1.png 315w,
+/blog/static/5f502540668dc0fc76f1ea40c572e6f3/f058b/part1.png 630w,
+/blog/static/5f502540668dc0fc76f1ea40c572e6f3/40601/part1.png 945w,
+/blog/static/5f502540668dc0fc76f1ea40c572e6f3/302a4/part1.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Let your code fly high&lt;/h2&gt;
+&lt;p&gt;You have built your awesome web application and now you want to share it with the world! Where do you start? How do you get code from your machine to the cloud?&lt;/p&gt;
+&lt;p&gt;In this biweekly workshop series, Feb 10 - Apr 21, 2022, we will teach you how to develop a web application locally and set it up for cloud deployment including AWS and Azure using principles of Infrastructure as Code, Continuous Integration, and Continuous Delivery.&lt;/p&gt;
+&lt;p&gt;Speaker &amp;#x26; Short Bio
+Sunitha Patel, Xiaoli Shen&lt;/p&gt;
+&lt;h2&gt;Part 1 - It runs on my machine&lt;/h2&gt;
+&lt;p&gt;In the part 1 of this workshop series you will learn to setup a fullstack web application that runs locally on your machine.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_zPKlek8YQzGlCVVap8mUsw&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 04 2022, Resume Review]]></title><description><![CDATA[Registration: https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ Hello everyone, WWCodeCloud, WWCodeFrontend, and…]]></description><link>https://frontendstudygroup.github.io/blog/feb-4-resume-review/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-4-resume-review/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -64,11 +135,16 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Registration: &lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ&quot;&gt;https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hello everyone,&lt;/p&gt;
 &lt;p&gt;WWCodeCloud, WWCodeFrontend, and WWCodeMobile tracks would like to invite you all for a resume review session. Join our slack channels (see links below) to get your resume reviewed async or join our webinar on Feb 4, 2022 at 12 pm ET to get 1:1 advice about your resume.&lt;/p&gt;
 &lt;p&gt;Get advice on the resume structure, how to polish it, and avoid common mistakes. You can also ask us your own set of questions on this topic!&lt;/p&gt;
-&lt;p&gt;Live webinar: Feb 4, 2022 at 12 pm ET.
-Async advice on our slack community through the ‘resume-review’ channel.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Live webinar: Feb 4, 2022 at 12 pm ET.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Async advice on our slack community through the ‘resume-review’ channel.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Join our slack community:
 Frontend: &lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;
 Cloud: &lt;a href=&quot;https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw&quot;&gt;https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw&lt;/a&gt;

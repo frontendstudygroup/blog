@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/cloud-frontend/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…","fields":{"slug":"/feb-10-let-your-code-fly-high/"},"frontmatter":{"date":"February 10, 2022","title":"Feb 10 2022, Let your code fly high","description":"Part 1: It runs on my machine!","tags":["2022","february-2022","webinar","cloud-frontend"]}}]}},"pageContext":{"tag":"cloud-frontend"}},
+    "staticQueryHashes": ["2841359383"]}
