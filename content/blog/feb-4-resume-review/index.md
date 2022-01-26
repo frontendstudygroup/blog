@@ -10,14 +10,17 @@ tags: ["2022", "february-2022", "webinar", "review-series"]
 
 ![Resume review](./resume.png)
 
+Registration: [https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ](https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ)
+
 Hello everyone,
 
 WWCodeCloud, WWCodeFrontend, and WWCodeMobile tracks would like to invite you all for a resume review session. Join our slack channels (see links below) to get your resume reviewed async or join our webinar on Feb 4, 2022 at 12 pm ET to get 1:1 advice about your resume.
 
 Get advice on the resume structure, how to polish it, and avoid common mistakes. You can also ask us your own set of questions on this topic!
 
-Live webinar: Feb 4, 2022 at 12 pm ET.
-Async advice on our slack community through the 'resume-review' channel.
+> Live webinar: Feb 4, 2022 at 12 pm ET.
+
+> Async advice on our slack community through the 'resume-review' channel.
 
 Join our slack community:
 Frontend: https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A
