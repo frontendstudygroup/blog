@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/review-series/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Hello everyone, WWCodeCloud, WWCodeFrontend, and WWCodeMobile tracks would like to invite you all for a resume review session. Join our…","fields":{"slug":"/feb-4-resume-review/"},"frontmatter":{"date":"February 04, 2022","title":"Feb 04 2022, Resume Review","description":"Let's do a resume review","tags":["2022","february-2022","webinar","review-series"]}}]}},"pageContext":{"tag":"review-series"}},
+    "staticQueryHashes": ["2841359383"]}

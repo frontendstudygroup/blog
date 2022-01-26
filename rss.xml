@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 24 Jan 2022 10:02:17 GMT</lastBuildDate><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 08:15:41 GMT</lastBuildDate><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -32,7 +32,55 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Introduction to Vercel and Next.js&lt;/h2&gt;
 &lt;p&gt;Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on “Introduction to Vercel and Next.js”.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_SvRxNozpQFGErnKSi2iaeg&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jan 25 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase - Part 2 Join us on January 25, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola…]]></description><link>https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</guid><pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_SvRxNozpQFGErnKSi2iaeg&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 04 2022, Resume Review]]></title><description><![CDATA[Hello everyone, WWCodeCloud, WWCodeFrontend, and WWCodeMobile tracks would like to invite you all for a resume review session. Join our…]]></description><link>https://frontendstudygroup.github.io/blog/feb-4-resume-review/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-4-resume-review/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/0006ebfbb053f502b62d56de45ec984e/302a4/resume.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAE4UlEQVQ4y02UeWxUZRTFXzDGxChLVPZNCi2Flr5Z3jIzpUDZBNllC0glQEFCopJUpICCGEHRSGJQiWUxxNJAK12G0ilU26HLtDPTme5QKG0plUI1LAoU6cz8zHtDCH+c5Pv++M537r3nXOFmkY2GLBvNWSpXcm0EPBZwSYS8KsEqhas5VuozbTRmWmnOsRGqlAlVW6BSoqdCpTXfRnuuSpvdwp1SG8K5Qwl8kTKTnR/M4vDuafS6LeBRwCPzoNxC+jfT2LdtJls3zeaX/dOgWiHgVsAr0e6I52BqIvtTpuvvnccTEO7+LlObHY8rN5HOQitBl0zAayXgUuh1q9TaE3BlT6U0ayq+3ATwKoSqZKhWeVwm4z4Vz9n0GZw/MYUuh4pw64KZljMi186IdBcZwGsAnwEaTOAVacuJpiUnjtZckRv5BoIehZBWgVfhcamZljwjV7MNXMsWeexSEEIelYBXAZ8ZGqfTU7OKK4VrcWasxpWVxKOa96BWJeSRwuo8MqGnKoPValhtVbivQY8FIVBhgtqp3HCuZuumt4mZEE3/AQPp82JfXn7lDSzWBIrSN0CdVSfDr32ugF+Faln/JOhV9Z5TJSFQK9NaOJ+IiEgEoQ8D+vclYsxIli9dxLJ3FpK6/RMWLlmF69fJUCNxt0TivtPM3WIz95wSvZWyTtyUO4875XMQ8Esc3DGFjZu38u2BL3lr9kx27dzB4cM/sWH9OralfMTgoRFsX/emXlbF8RhKj8bgTJvIxSMx/FVk4D9PItcci8FjQ6BOZftGkZRtn7Lm3ZWMHDGMqMixDHzjNcZHjWPk8EG68t2bo6HZSuc5Ay25Ih35BjrytYGIdDlM9JRL/FuqldxkJe1zC4Ig0O/Vl1i8aAGb309mR+rH7N2zi3iblX4DBtGUNwv8ZprPiNSfjqPuVBy+k5NoyozDlz6JuoxJOrGA18yD6lWsXzOPwUNGsmTJImbMmsvoiBheHzQKURRxHF8KjVZ6qyQelkvcc5q5VxLGPxfN3HdKPCyTwKciBLWx+1Ronk9L8RaiIiNI3TKDzB+W4cxYwcPq5dBoIVBl1u2CV9bT8gzecKo0BN0qghazrkITbfZYeislLjmSuFmxEdon01Mh6SbXlFGjhi3zPHzPWcineVJB0DxUeGgC9u+iKfg+Gn9GHH8csdKcbeJSbiK97vCjNrvI7QtGbp83ceOckT8LjNw6b+Kmw0h3oZG/tZT5FYQnZWaO7YkibXcUP+8cx4+pYznw4Si90TSoBNyyXmb3BSNdhUZ9slfOiPpw2vIMtNsNaPFt+i2BO8WJCNRbOf31WE7vG8OJvZGkfRZF1oHx4XhpMfOEFV63G+gsCJO12Y205oh0FJi4nClSfzKWpryZdBYvQPDkJVN5aiXdJXO45zRxPSeGToekN1kjC2oKfQotOSKXs+IoPRpL+THN2DGUpU2k5EgsHXYjT0qNei+FIUNHIMsy65MW4D+7Ca7NBb+BYKUSVunWpqfoC0JzRE+FTE+ZmUcVCo9KJXoumqHGqu/QYIWMMHrUcBKnTSE2Ng6DeTJf7UmGhtXgMeg20AifKfU8Zxft7reEN40GnwVtcwnaMhgyeCBmk8iY0cMQhBdIXruCUFMSIZdIyGMhpBF7nqJK0TMdcmlrzBKGdnYrhPw2/gdYbyxmusVPfQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Resume review&quot;
+        title=&quot;Resume review&quot;
+        src=&quot;/blog/static/0006ebfbb053f502b62d56de45ec984e/f058b/resume.png&quot;
+        srcset=&quot;/blog/static/0006ebfbb053f502b62d56de45ec984e/c26ae/resume.png 158w,
+/blog/static/0006ebfbb053f502b62d56de45ec984e/6bdcf/resume.png 315w,
+/blog/static/0006ebfbb053f502b62d56de45ec984e/f058b/resume.png 630w,
+/blog/static/0006ebfbb053f502b62d56de45ec984e/40601/resume.png 945w,
+/blog/static/0006ebfbb053f502b62d56de45ec984e/302a4/resume.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;WWCodeCloud, WWCodeFrontend, and WWCodeMobile tracks would like to invite you all for a resume review session. Join our slack channels (see links below) to get your resume reviewed async or join our webinar on Feb 4, 2022 at 12 pm ET to get 1:1 advice about your resume.&lt;/p&gt;
+&lt;p&gt;Get advice on the resume structure, how to polish it, and avoid common mistakes. You can also ask us your own set of questions on this topic!&lt;/p&gt;
+&lt;p&gt;Live webinar: Feb 4, 2022 at 12 pm ET.
+Async advice on our slack community through the ‘resume-review’ channel.&lt;/p&gt;
+&lt;p&gt;Join our slack community:
+Frontend: &lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;
+Cloud: &lt;a href=&quot;https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw&quot;&gt;https://join.slack.com/t/wwcodecloud/shared_invite/zt-lngnes83-iq8TuBLOtAGXnHFaM5~sTw&lt;/a&gt;
+Mobile: &lt;a href=&quot;https://join.slack.com/t/wwcodemobile/shared_invite/zt-gimc0cn4-eHL6YAerU30bC2nYyNtyYA&quot;&gt;https://join.slack.com/t/wwcodemobile/shared_invite/zt-gimc0cn4-eHL6YAerU30bC2nYyNtyYA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Questions/Suggestions:
+&lt;a href=&quot;mailto:frontend@womenwhocode.com&quot;&gt;frontend@womenwhocode.com&lt;/a&gt;,
+&lt;a href=&quot;mailto:cloud@womenwhocode.com&quot;&gt;cloud@womenwhocode.com&lt;/a&gt;
+&lt;a href=&quot;mailto:mobile@womenwhocode.com&quot;&gt;mobile@womenwhocode.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join the conversation on Twitter/Instagram/Facebook/LinkedIn: @WWCodeFrontEnd / @WWCodeCloud / @WWCodeMobile&lt;/p&gt;
+&lt;p&gt;Become a member:
+&lt;a href=&quot;https://www.womenwhocode.com/frontend&quot;&gt;https://www.womenwhocode.com/frontend&lt;/a&gt;, &lt;a href=&quot;https://www.womenwhocode.com/cloud&quot;&gt;https://www.womenwhocode.com/cloud&lt;/a&gt;, &lt;a href=&quot;https://www.womenwhocode.com/mobile&quot;&gt;https://www.womenwhocode.com/mobile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;About Women Who Code: WWCode is the largest and most active community of technical women in the world. Our mission is to inspire women to excel in technology careers. We have 290,000 members in 134 countries &amp;#x26; counting. Join our community by visiting womenwhocode.com and sign up to become a member.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jan 25 2022, Damilola Ale]]></title><description><![CDATA[An introduction to React and Firebase - Part 2 Join us on January 25, 2022 at 12:00 EST | 18:00 CET | 22:30 IST for a session from Damilola…]]></description><link>https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/jan-25-damilola-ale/</guid><pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
