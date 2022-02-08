@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 09:48:39 GMT</lastBuildDate><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Feb 2022 13:07:38 GMT</lastBuildDate><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -103,7 +103,167 @@
 Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 &lt;h2&gt;Part 1 - It runs on my machine&lt;/h2&gt;
 &lt;p&gt;In the part 1 of this workshop series you will learn to setup a fullstack web application that runs locally on your machine.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_zPKlek8YQzGlCVVap8mUsw&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 04 2022, Resume Review]]></title><description><![CDATA[Registration: https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ Hello everyone, WWCodeCloud, WWCodeFrontend, and…]]></description><link>https://frontendstudygroup.github.io/blog/feb-4-resume-review/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-4-resume-review/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_zPKlek8YQzGlCVVap8mUsw&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 3]]></title><description><![CDATA[In recognition of FOSS February, we will focus on opensource topics to learn for this month! We did a Hacktoberfest themed studygroup in…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-3/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-3/</guid><pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In recognition of FOSS February, we will focus on opensource topics to learn for this month!&lt;/p&gt;
+&lt;p&gt;We did a &lt;a href=&quot;../tags/opensource&quot;&gt;Hacktoberfest themed studygroup in October 2021&lt;/a&gt; which was well received within our community.&lt;/p&gt;
+&lt;p&gt;In this “What to learn” issue, we will learn how to contribute to React core. This way you will get a rough idea how to contribute to any opensource project and also learn alongside architecture, design patterns concerning some of the popular opensource projects.&lt;/p&gt;
+&lt;h2&gt;One new thing to learn this week - How to contribute to React core!&lt;/h2&gt;
+&lt;p&gt;Step 1. Clone the &lt;code class=&quot;language-text&quot;&gt;react&lt;/code&gt; project.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/59058/screen1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40.50632911392405%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABQUlEQVQoz3WRW24cIRBFe/8rcTYQb8U/kTyxlWgaGmjedAMngnkokuWSrgpE1eFSLNpFLmvgt4j8kQ7nIz5mXMgzf6tUcDETUpnyKU8tPkQ2qdC7RxmLCxGl9/s6YaxjdwG9O4z1t7WxWB/nPh8n5ai0k6mF3qE3oDOitY4PiVwKKWdKKcQYmXX/RSkH2uw4F5BG8+PtlZe3nyzcUf3eMACX93fWTSM2zSoVQiqkdgiTECaScpnAceFxVrR1/Fo/+dBXlgF6aMQo+Fw1mzbPeY0xiM2wqh2h9nm2Xq947znPk9ba7K1Huznk6bBzdriIgNHqeclZK3K43Ibbjd266foqJGJTWOdJ5SDm/BVYO/xVgRTjHEXrfbowu31qAEOIWOvQxlBrvTls7XtgCH7+ww1YJ2h8wiNLuU3Y48mjv9bGPzlIa2tifJR/AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;clone the react project&quot;
+        title=&quot;clone the react project&quot;
+        src=&quot;/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/f058b/screen1.png&quot;
+        srcset=&quot;/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/c26ae/screen1.png 158w,
+/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/6bdcf/screen1.png 315w,
+/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/f058b/screen1.png 630w,
+/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/40601/screen1.png 945w,
+/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/78612/screen1.png 1260w,
+/blog/static/aeec213b4fa59e83a32f32ee6c14f3b6/59058/screen1.png 2376w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Step 2. Locate the source code for &lt;code class=&quot;language-text&quot;&gt;hooks&lt;/code&gt;. It is at &lt;code class=&quot;language-text&quot;&gt;react/packages/react/scr/ReactHooks.js&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://reactjs.org/docs/codebase-overview.html&quot;&gt;Here&lt;/a&gt; is the codebase overview in detail for the React code.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;export function useState&amp;lt;S&gt;(
+  initialState: (() =&gt; S) | S,
+): [S, Dispatch&amp;lt;BasicStateAction&amp;lt;S&gt;&gt;] {
+  const dispatcher = resolveDispatcher();
+  return dispatcher.useState(initialState);
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/a4164be3705cba3b46c2f35c272c3a89/b6425/screen2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.21518987341771%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACmUlEQVQ4y12TyW7kVBSG6zU68Xhnz3YNrnJN6SjQnUBvWLBihUAthLLmDViwRALxuF/3vRWnuln8Or6W/d3/TIvlcsW4m/CxrhukVChlUEpSW0NbOKzWOKvZdBWbvmNZN1RVTZ7n5Fl+iS9alEXJYRzDB0pppFKX6MFak2YZTdtSlCVlXWOcw1iHMRZtTPjmNoqCoihi4azjNG7Zjlu6rkdrE6SkQkpJkiRYYxj7lrGrGUpLXxg6Z8JzYzWt0+GdFDkLYxzT4cj5fMfhcMS5IjgUQiKEIE1TsiwjS2JkliCyFJGmqDzDiBwtctRL9JcvrHXst1vatsM/e9jVoU/bYKxFao1Ql7MvSy4EURQTxVfFcXxJed33lGUVYFegREqBlTEiS9AiQ+VpiEZJlFLB0f+18D+vhiVFUQZHcw2lEChjqT/8Qvr0O+n7j5Tf/4Z9/JUbWXJ784Y4ug0Q7yzxCkBjWK1WIeW5fq9AW6J++ovp+T/Oz/+w+/g3b5//ZffznzQ//kFSroijmwv06lCz32/YbLZf1dB32BYlN+snsvERs39C7N5jD99hjx+w5x/I6vHqcgYacwH6Lvux+RLo1VYupG61YahLCi1xeUp6++bV3azQFA88n3e8e/fIZjNemxIGXDEMA/tpYmh7pJBfdDQJgzwrfq2h1hyPW+7vH3h4+Ib1evOyfiqsn6t7TvsTD6cTfdeFei+XS5qmwZjLxfMCvDqcpjWn0zkMtm+O3+U55TjLSXMRhtyfZ4Df2zmLr4BaK3bThvPdfUi5qirky6Z4953f43ag7pYMfR9K0Pd9cOi0prEWpw15ll2AVdXw9jjx7d09+/2RqmppqhYXOq5wzoWfPdhf1nUdbdtS13VYSw+J51n8XMNPe2i9AOXDMs0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;source code for hooks&quot;
+        title=&quot;source code for hooks&quot;
+        src=&quot;/blog/static/a4164be3705cba3b46c2f35c272c3a89/f058b/screen2.png&quot;
+        srcset=&quot;/blog/static/a4164be3705cba3b46c2f35c272c3a89/c26ae/screen2.png 158w,
+/blog/static/a4164be3705cba3b46c2f35c272c3a89/6bdcf/screen2.png 315w,
+/blog/static/a4164be3705cba3b46c2f35c272c3a89/f058b/screen2.png 630w,
+/blog/static/a4164be3705cba3b46c2f35c272c3a89/40601/screen2.png 945w,
+/blog/static/a4164be3705cba3b46c2f35c272c3a89/78612/screen2.png 1260w,
+/blog/static/a4164be3705cba3b46c2f35c272c3a89/b6425/screen2.png 2336w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Step 3. Change the error message in the &lt;code class=&quot;language-text&quot;&gt;resolveDispatcher&lt;/code&gt; function. I have added &lt;code class=&quot;language-text&quot;&gt;MESSAGE HACKED&lt;/code&gt; to the existing hooks error message.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/ba98a5227dac09702c6b5e5699eb46fa/989f9/screen3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.69620253164557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACJElEQVQoz32SzW7TQBRG/RY0icdJPP4bz4yd2EmcpE3SFNq0FQ2o7QYhhFC7gcKCDRISYgGLPvZBdlC7oGJxdHffPd/ccYpyRFGUKJUSBCFSBmRJhI4TlEqYjkZUxRhrLFGc0Pflf/BxBtYyrypSbZrAUPr01YDu5Xeytz+Jz26Qq2tkViHzKV5k6LSe4bb3nqCFU29eLpZMZ/PGIPB9+umQ7tUPRh/uUdsvBMtrovFzZLlG2gppJ8hsRpDPkIP9Bj+fN0sdozVlUZIkijCMGkM/HbB38Y34zW+KdzvK9/dkb3+hX38l2tyQrK6IlpeE1Qnx9BRZHNKLDI5KFEab5u0eA4e0N58Jpi9JZ2eks/Nm6vk5+mBLUJ2TTI6Roxf4tqJnJo15PZ364cejMXFdN4iayr4pEWe3iPkJ7mzT0JluEJM1YnKIGK9xp8e4ZoTotBHCRbg7nDSNWSwWWJvtAqUk0APc01t6r+7oXnxCbu8Itx8RxRLPjhG2wqsPFFs8IfA87wFHqYijozVlOWpq15cO6upKo7TBGs0ws5SZJQkkor2H12kh2i08t9OECCEQ9awDa8PVaslqtSbLcmRtGAT4cYyyKalJMbkhVhG+7CO8Ll7DLkD8NRSPhiHL1ZL9/QO01vi+JAxDQmVIs5w8zymKIXmekST1t5L0+3Ww+KduE5hlhtP1moP5Aq0z0kQ1lv0oIrUpSit0Y6pQOqHX6z1YPcUfH5pO0kvnIfwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;update error message&quot;
+        title=&quot;update error message&quot;
+        src=&quot;/blog/static/ba98a5227dac09702c6b5e5699eb46fa/f058b/screen3.png&quot;
+        srcset=&quot;/blog/static/ba98a5227dac09702c6b5e5699eb46fa/c26ae/screen3.png 158w,
+/blog/static/ba98a5227dac09702c6b5e5699eb46fa/6bdcf/screen3.png 315w,
+/blog/static/ba98a5227dac09702c6b5e5699eb46fa/f058b/screen3.png 630w,
+/blog/static/ba98a5227dac09702c6b5e5699eb46fa/40601/screen3.png 945w,
+/blog/static/ba98a5227dac09702c6b5e5699eb46fa/78612/screen3.png 1260w,
+/blog/static/ba98a5227dac09702c6b5e5699eb46fa/989f9/screen3.png 3178w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Step 4. Build your changes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://reactjs.org/docs/how-to-contribute.html#development-workflow&quot;&gt;Here&lt;/a&gt; is a detailed overview about how to build your React code so that you can test your changes locally.&lt;/p&gt;
+&lt;p&gt;If this is the first time you cloned the React project then run &lt;code class=&quot;language-text&quot;&gt;yarn&lt;/code&gt; to install all packages. After updating the error message run the following to build your changes - &lt;code class=&quot;language-text&quot;&gt;yarn build react/index,react-dom/index --type=UMD&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Step 5. Try the above changes in your existing React project.&lt;/p&gt;
+&lt;p&gt;I used the &lt;a href=&quot;../newsletter-issue-2&quot;&gt;existing React project&lt;/a&gt; from last month’s serverless React application.&lt;/p&gt;
+&lt;p&gt;Within the existing React application, I copied the &lt;code class=&quot;language-text&quot;&gt;build/node_modules/react/umd/react.development.js&lt;/code&gt; file from the previous build step (step 4) and pasted under &lt;code class=&quot;language-text&quot;&gt;&amp;lt;existing project&gt;/node_modules/react/umd/react.development.js&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The updated error message from step 4 does exist in this copied file.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/966ce/screen4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.88607594936708%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACoElEQVQ4y1WTWW/cNhSF518kM6OVIrVS+0ijmXFsJ43TxXGR1FkQpy9FGxQoWtRB3vqUf/4F5CxJHw4kUrifzuU9nFVVzWo1UJYVVVURxwlSKpSKkTIijmOyLLNKs5S+1kxNw6rSNFVJ1bZUQ0dZ1bR1yUzrkmna0PcrmqY9AY2iSFIUBUIIpJTIWCJiQahCQuWhsog4V6hEIhNJXMTMTJFxWdeNhQgR2WKzH0UReZ7jeZ5VGCm6rmMYVrRtS9M01HV96CzGcRxmea4P7jrKskbrmjwvrYxbA/R9nzAMUUrZwjRNSZLEro1713VPP7XA1aphuz1jtztnGKb/AYtiD1RK2ud8PmexWLB0HOvIyICO0Jlpq2lye35aawsxe9+27PsBvtivU+tM4lmAkX9yZ4HmY9fl9P1ggccJ76csKfKcIAzxZEqgUuKsIIozHF/geAHO4uFJ7nJ+APYV4zjZaETRMTKKSCryNMFtL1le35O+uEe//Jfy9iPV60+on/5ETc8Qw1PE+IygecTMFFbN1yyaGCVJeopNnqW40w3e5mdkvUY0O8J6i2h3RPUGWfaIokPoniAtmZmpmfG3bWdBX9vdOyyyhOX5HcsX/5Fff6C9+UDxw28k3/+BuHyH0CNCD4hiINQjszRNGMa1TXqaZt/ckkPLibJA981nxNUd4slbq+jJG4LH5v0d4rs7xNWvhFfvjcOUs76nqyqUnbC0sPgANQ6ds9e4v3zCu/0L9/Zv3Nt/cF7d4766x3v7Eef6d9xHzwkePzfAhO04sttsWK8ne44nlyY2hcbTa1w94pcDYTXiFx2eTPCiBE8leEGIN3+Au3i4B06bLecXl1xcXNrhHO+ykS5ygt1LnOnGTjPb/UjYnuOaQDtLXCP3mEefL51CpyujpS3EAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;copied file with updated error message&quot;
+        title=&quot;copied file with updated error message&quot;
+        src=&quot;/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/f058b/screen4.png&quot;
+        srcset=&quot;/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/c26ae/screen4.png 158w,
+/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/6bdcf/screen4.png 315w,
+/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/f058b/screen4.png 630w,
+/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/40601/screen4.png 945w,
+/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/78612/screen4.png 1260w,
+/blog/static/0ecb7365484b76ca4b63f66f4d06c9dd/966ce/screen4.png 2050w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Step 6. 😭 When I ran the existing serverless React application, I did not get the hacked error message! 😭&lt;/p&gt;
+&lt;h3&gt;Three questions to ponder&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What did I do wrong and why could I not get an updated error message?&lt;/li&gt;
+&lt;li&gt;What is the architecture for React Hooks? &lt;a href=&quot;https://www.the-guild.dev/blog/react-hooks-system&quot;&gt;Here&lt;/a&gt; is a good explanation, might be a little old but a good read.&lt;/li&gt;
+&lt;li&gt;In the context of this example and screenshots, what is umd vs cjs?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Join our slack channel and we can ponder over these questions together: &lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 04 2022, Resume Review]]></title><description><![CDATA[Registration: https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ Hello everyone, WWCodeCloud, WWCodeFrontend, and…]]></description><link>https://frontendstudygroup.github.io/blog/feb-4-resume-review/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-4-resume-review/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
