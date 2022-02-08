@@ -1,7 +1,7 @@
 ---
 title: What to learn - Issue 3
 date: "2022-02-07"
-description: "In celebration of open source month, "what to learn" will focus on opensource projects and how to learn and contribute to them."
+description: "In this issue we will focus on opensource projects and how to learn and contribute to them."
 tags: ["2022", "february-2022", "what-to-learn"]
 ---
 
