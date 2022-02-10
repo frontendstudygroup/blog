@@ -33,3 +33,5 @@ Nayeon (nah-yeon, she/they) is a sophomore in college studying Computer Science 
 
 ![Nayeon Shin introduction](./intro.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IrbO9OoOIK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

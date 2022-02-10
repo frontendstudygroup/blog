@@ -10,6 +10,8 @@ tags: ["2022", "february-2022", "webinar", "review-series"]
 
 ![Resume review](./resume.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ht7jAuDIfzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Registration: [https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ](https://us02web.zoom.us/webinar/register/WN_MzIIccyPSU6YqPBWr2r_dQ)
 
 Hello everyone,
