@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/newsletter-issue-4/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"markdownRemark":{"id":"7bba16ac-8a28-5150-aedd-1db5becf6b29","excerpt":"opensource is not easy\naddy osmani’s learning patterns","html":"<p>opensource is not easy\naddy osmani’s learning patterns</p>","frontmatter":{"title":"","date":null,"time":null,"description":null,"contentType":null,"author":null,"tags":null}},"previous":{"fields":{"slug":"/feb-16-christina-kopecky/"},"frontmatter":{"title":"Feb 16 2022, Christina Kopecky"}},"next":{"fields":{"slug":"/resume-review/"},"frontmatter":{"title":""}}},"pageContext":{"id":"7bba16ac-8a28-5150-aedd-1db5becf6b29","previousPostId":"946d8217-81dc-5fe7-8d04-6ce00fd3c2e1","nextPostId":"cbb38fcf-19bf-5045-8c6e-78b24e127ccb"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
