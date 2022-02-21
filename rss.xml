@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Feb 2022 08:58:38 GMT</lastBuildDate><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Feb 2022 08:47:27 GMT</lastBuildDate><item><title><![CDATA[Feb 24 2022, Deploy to Azure]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</guid><pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/946c3c5305d2abee84713d88caab5376/302a4/part2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAElklEQVQ4y32UfUxVdRjHD5oBzVe0LA01BEMsL1y8V95RYqSGGSqVsrXlTF1tZr4A995zz7mcc7nv3BC8gCYZKjZULBXFMTWkF5YpaEoMSpezlfa21db6o7ZPO+eSZLb++O55zrPf+fy+z+/5nSNMcXuZF6rDFKpnmtePUGYhwioiWGwIWvw/lVsZW6GyaE8Ty/cfwLijDkFLmi720Hr1KiUtBxE2b2WkzX7vy//aIGII+GCliy0n2tnb00vR/maE0Q6F6b4AsV4/4xSnvkiwDAH+Kat4bz4UoyUHYxxKeBMdUFqut6rlWnGUbdjJyP9yaLHp60bYhupbyhA2lyKUWhC0QowksTzoZGPIxTyXgzfqXBQGFAyVDlYGVYqC6l2OdFC5DWFrOaMlmSX11ciH99B46kAYGC2KJKgycysdPOKQiK0Ia7IsMa0iLB1gsXGfdr7byom0ibze3MDF88f4deAMf14/x+9fdSKEp2UjySkzxynroEmyXY9mt4M4RSZRlVlWpfKYIuuuDAEvly53wK3z/HGzm58GO7n1xRlu9Z9FiBgCZnoc5PsqSK6UdUfLqxT92eiSKfArbKpzESuLmKsD3B48x7nWBtziqzQGrdzoaeOXa1380H8m3LKgH7DECJudUXYZwWbnfrvESFHifrscnl6phTh3JTcHuziy202+YQaTYsYSGRXJ4gUmbl46zo8Dp8NADTTd52eqx6df7jh/FQlVb/Kox8d4xXnnzh3ufI/v+8/yctECetVidq5bxBOxMQiCgFq6lt9udA47jJIcPCBX3IljKtTwBS+36EMorKvh54EuLnQdZmVBJpaiHLwl+by22MiU8VE8nW3kdt+JMFBzoDnRPiMtapqgOJnorGScoiKUWWlqP8Ttq2fpu9CGfcMqtq9eiLoyhx1r8ig2TCY5cQbXPj04DNTajPNrX4yPWI+Pmf4qprq9THS6mKKq9HS38+Vnp/j6ymkGP3qXpnVLCK3Kwr86gwZlLcf3e/ju8/eHW37I7WOSy8t4p5sxqosJlR4iRFkfRm51Ff3d7fR1n+T6xZO8E/LieWkxgedNbMyfyT7XBr7pbeXby61DQ7GKxCsSCQ6ReIfILEXSY5IiMVa08lyomr6uo/Sfb6d1Ty3Tpj7JmoUG3MVGXkiLJzXRwPqSEgY+bA4DR9vtnNzr5li9yJE6kRO7HBwK2ejc7cC1y8Wy2iA9HS1c+eQYtk0bmRFroNCUwqbCbExz08gx55FryqN0w/owMEoUqW30EKyVqG1QCe10sr1eYVeDwis1KkuCXj4+2sQHbfsoXrqCtJQcEuNTiY8zkmXK46mMAgqyCliaV6gBRSJFkdDbHvzVIoFaiUCNRGXQRuNOlXU1Ks9uD9Db0UJby1vkmBeQkZqL2ZBFhjGXbHMe85OzyErNIT89DyHGIRNtlxC2WRHKRYSyIf2dby7jmaCf3tNH8CsyxtlmjHPMpKdkk27MYX5yJilJJlK1miEdYZbLycMVFUSLdkZYbXdJ/y+WWylwq3Q0h3ixaAVJcQYyUjLJTs0hTYPNnkfC9NnMjH2ctLlp/AXOsn0u/uas/gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Deploy to Azure&quot;
+        title=&quot;Deploy to Azure&quot;
+        src=&quot;/blog/static/946c3c5305d2abee84713d88caab5376/f058b/part2.png&quot;
+        srcset=&quot;/blog/static/946c3c5305d2abee84713d88caab5376/c26ae/part2.png 158w,
+/blog/static/946c3c5305d2abee84713d88caab5376/6bdcf/part2.png 315w,
+/blog/static/946c3c5305d2abee84713d88caab5376/f058b/part2.png 630w,
+/blog/static/946c3c5305d2abee84713d88caab5376/40601/part2.png 945w,
+/blog/static/946c3c5305d2abee84713d88caab5376/302a4/part2.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Let your code fly high&lt;/h2&gt;
+&lt;p&gt;You have built your awesome web application and now you want to share it with the world! Where do you start? How do you get code from your machine to the cloud?&lt;/p&gt;
+&lt;p&gt;In this biweekly workshop series, Feb 10 - Apr 21, 2022, we will teach you how to develop a web application locally and set it up for cloud deployment including AWS and Azure using principles of Infrastructure as Code, Continuous Integration, and Continuous Delivery.&lt;/p&gt;
+&lt;p&gt;Speaker &amp;#x26; Short Bio
+Sunitha Patel, Xiaoli Shen&lt;/p&gt;
+&lt;h2&gt;Part 2 - Deploy to Azure&lt;/h2&gt;
+&lt;p&gt;In the part 2 of this workshop series Sunitha Patel will explain how to deploy a web app to Azure!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
