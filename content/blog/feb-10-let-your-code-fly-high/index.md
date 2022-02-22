@@ -8,6 +8,8 @@ author: "WWCodeFrontend and WWCodeCloud"
 tags: ["2022", "february-2022", "webinar", "cloud-frontend"]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDXFzCUubWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Let your code fly high](./banner.png)
 
 ![Let your code fly high - Part 1](./part1.png)
