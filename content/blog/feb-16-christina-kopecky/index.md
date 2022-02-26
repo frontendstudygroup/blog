@@ -8,6 +8,8 @@ author: "Christina Kopecky"
 tags: ["2022", "february-2022", "webinar"]
 ---
 
+This event had to be cancelled! This event did not take place.
+
 ![Introduction to Vercel and Next.js - Christina Kopecky](./Vercel.png)
 
 ## Introduction to Vercel and Next.js
