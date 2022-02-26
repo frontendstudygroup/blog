@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 22 Feb 2022 09:36:17 GMT</lastBuildDate><item><title><![CDATA[Feb 24 2022, Deploy to Azure]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</guid><pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 26 Feb 2022 09:09:16 GMT</lastBuildDate><item><title><![CDATA[Feb 24 2022, Deploy to Azure]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</guid><pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -37,7 +37,53 @@
 Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 &lt;h2&gt;Part 2 - Deploy to Azure&lt;/h2&gt;
 &lt;p&gt;In the part 2 of this workshop series Sunitha Patel will explain how to deploy a web app to Azure!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 4]]></title><description><![CDATA[How to Randomly Change Background Color in Javascript! In this article, you will learn how to change your background color randomly by using…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-4/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-4/</guid><pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/f07338fc7e0d61e6fbb1e22a7f96c5ad/302a4/issue4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEPUlEQVQ4y22T+W/TZRzHvx7RRBJ/IfFn/wZj4i/qD8YYIkxg3QaTQ44B3dGuKz2/PbexdeUYAspY17G1HIVtgnPj0ChkyIRMiUGYZJXOsdJuQw2wwkrS42W+Tw9BfZJPvp/vc7yf1+d4JN3wGSSdnhftTp6T7UiKWW285HCxyNWIZLIgma1iTtLqMJ07jzJSmQyZTEb4M7Oz9H9xiosjI0jv+LrEoRdsDnHoeZsjJ2w0I8k2Xm1pZbGnjdfavEhOF+/19AoRRSyTzQr/4XyCH2/c5FYkgiQI8lQKpaCRbbx5sAP1kRBm/xGcvgAuXxCjP8jW4HHiiUSOMp0mmxctDGmRu0kQCSqThVeamtGc6Mexz8cmYyOl1UY+2mYQpqo2sdHgxv5pJ5HpWJFUEc3kUyAt3tHKyw5XUcx+8hTV1haWbt3O8lozKq1MWb1MmVZGpbWyos7CB5vqUWmsjP0yLkTT+VwqwpJkMOXzJ1MX6s+JqQ1U6Gys1juErWqws8bgYo3BzeoGBzWNu6jUO8Ulk9F/SEXIb3z2uajyWx2dIhSFrLzeJky7o11YbeNuNlia2Sy3sNXRxoWrPzF04TLvb9Dg2t9VpBOEDxaSvL6nnfXdAapMTSKklXUW1hkbafMF6eobpLv/KwKnz3L+0hVaDwXY3X1MfJcpedVYuRWZKlJKijMYDlNz0E9ZjZmyepvYpBBa9hwU1EbvAfSefcjtHVS7d6J2efnE3CRCXlLVwMDXF3K5TKeRyGZJpFJ4eo6zdIueinpbrgAaK8vUBkrrLHy83UmFzi4uWV5jYkWtWcyv0tlZUqXj0InTTxFmsyxkMrT1HOfDqgYhqNLkqqqYErqmuV3kbpvTK4QLaxX/Kwj8EIuxvStAmUamXGejTGMthq0IKcXYYveI4qw3NQm6pwWfDRkYi8fZcjhI+To1K6uNQqgQtnJICa0ib4W1gikFfKYo6VRK/Pj7B9j47tuoNtdSUmehxr1TtMzyahOldVZBpcqTi4vqbaLFnPt8z7ZNhtxbvNQ3hFxSTrvFy1q9i0qDi7UGN5V6h2jiQiMrVvAV2v80NukM0eGr3Gg9ym+dXzLXdY4u+QDalr2i37oHhnAf8LO3N0R7T4iWjl48nQEM3v1cvna9mLsiYXholIm+i3x3aICx1mOMenoZCQ2x+3BItMvKWgslagMlaiOlGqt4fh5fkOmZOf49hODM7WmGewN49Ra+tXVwM3iW+/MPebSQZPTadXpPnRGku/xH8fcNcuXnGzxeWCCZfML9h/PMJx7xYD5B4vHjfMjA/T/+JKhtZmxXiImTI9yJxhkPR7j9+zTx2Xvcjc9y525c+OHJO4xPRPg1PMlEZEr4yr6paIyFZFJp7FxCv6mSGd3mITz4PX8lEkxORYnN3CMan+VufE58Y7P3mIrGmY7NiLXYjDI/R/LJE1KpNOl0hr8BNZx7XB4sOhoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Issue 4 - Faith Pueneh&quot;
+        title=&quot;Issue 4 - Faith Pueneh&quot;
+        src=&quot;/blog/static/f07338fc7e0d61e6fbb1e22a7f96c5ad/f058b/issue4.png&quot;
+        srcset=&quot;/blog/static/f07338fc7e0d61e6fbb1e22a7f96c5ad/c26ae/issue4.png 158w,
+/blog/static/f07338fc7e0d61e6fbb1e22a7f96c5ad/6bdcf/issue4.png 315w,
+/blog/static/f07338fc7e0d61e6fbb1e22a7f96c5ad/f058b/issue4.png 630w,
+/blog/static/f07338fc7e0d61e6fbb1e22a7f96c5ad/40601/issue4.png 945w,
+/blog/static/f07338fc7e0d61e6fbb1e22a7f96c5ad/302a4/issue4.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;How to Randomly Change Background Color in Javascript!&lt;/h2&gt;
+&lt;p&gt;In this article, you will learn how to change your background color randomly by using the Javascript built-in Math functions and the hexadecimal color code. You will learn how to use the onClick event function to trigger the button’s action. Changing a background color randomly can be interesting, there are a couple of web applications that this has been used on.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dev.to/puenehfaith/how-to-randomly-change-background-color-in-javascript-4o91&quot;&gt;Read the whole article&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;How To Build A Random Quote Generator.&lt;/h2&gt;
+&lt;p&gt;You will be building a simple quote generator using HTML to structure your project, CSS to style and make it look beautiful, and Javascript for the logic. The quote will be randomly generated at the click of the button. This is a beginner project that will help you learn how to use an array and object in javascript.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dev.to/puenehfaith/how-to-build-a-random-quote-generator-21h1&quot;&gt;Read the whole article&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Faith Pueneh&lt;/h2&gt;
+&lt;p&gt;Faith Pueneh is a front-end developer and technical writer. She enjoys problem-solving, loves creating dynamic and beautiful web applications. She shares her knowledge through writing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dev.to/puenehfaith&quot;&gt;https://dev.to/puenehfaith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/PuenehFaith&quot;&gt;https://twitter.com/PuenehFaith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://faithpueneh.vercel.app/&quot;&gt;https://faithpueneh.vercel.app/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Join our slack channel: &lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Find us on &lt;a href=&quot;https://beacons.ai/wwcodefrontend&quot;&gt;social media&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 16 2022, Christina Kopecky]]></title><description><![CDATA[Introduction to Vercel and Next.js Join us on February 16, 2022 at 12:00 ET | 18:00 CET | 22:30 IST for a session from Christina Kopecky on…]]></description><link>https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-16-christina-kopecky/</guid><pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
