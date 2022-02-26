@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tag-template-js",
     "path": "/tags/march-2022/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Debug your debugging process Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on “Debug your debugging process…","fields":{"slug":"/march-15-cecelia-martinez/"},"frontmatter":{"date":"March 15, 2022","title":"Mar 15 2022, Cecelia Martinez","description":"Debug your debuggin process","tags":["2022","march-2022","webinar"]}}]}},"pageContext":{"tag":"march-2022"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Debug your debugging process Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on “Debug your debugging process…","fields":{"slug":"/march-15-cecelia-martinez/"},"frontmatter":{"date":"March 15, 2022","title":"Mar 15 2022, Cecelia Martinez","description":"Debug your debugging process","tags":["2022","march-2022","webinar"]}}]}},"pageContext":{"tag":"march-2022"}},
     "staticQueryHashes": ["2841359383"]}
