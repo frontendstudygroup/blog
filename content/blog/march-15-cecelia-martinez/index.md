@@ -1,8 +1,8 @@
 ---
 title: Mar 15 2022, Cecelia Martinez
 date: "2022-03-15"
-time: "2022-03-15 19:00"
-description: "Debug your debuggin process"
+time: "2022-03-15 18:00"
+description: "Debug your debugging process"
 contentType: "slides"
 author: "Cecelia Martinez"
 tags: ["2022", "march-2022", "webinar"]
