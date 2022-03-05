@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 05 Mar 2022 09:13:19 GMT</lastBuildDate><item><title><![CDATA[Mar 15 2022, Cecelia Martinez]]></title><description><![CDATA[Debug your debugging process Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on “Debug your debugging process…]]></description><link>https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</guid><pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 05 Mar 2022 10:17:38 GMT</lastBuildDate><item><title><![CDATA[Mar 15 2022, Cecelia Martinez]]></title><description><![CDATA[Debug your debugging process Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on “Debug your debugging process…]]></description><link>https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</guid><pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -32,13 +32,13 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Debug your debugging process&lt;/h2&gt;
 &lt;p&gt;Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on “Debug your debugging process”. Bring your own bugs and learn to debug web applications better.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIpf-qtqDIoHdNL6gTd7oV35LUlOxC6lItE&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This event is BYOB (Bring Your Own Bugs!).&lt;/p&gt;
 &lt;p&gt;Investigating and fixing bugs in your application can feel like a frustrating and daunting process.  With the right approach, debugging can actually help you better understand you codebase and be more confident to fix bugs fast. We’ll cover debugging best practices and debug some issues together live! Submit your GitHub issues in advance in &lt;code class=&quot;language-text&quot;&gt;#byob&lt;/code&gt; slack channel to have your issue reviewed during the webinar.&lt;/p&gt;
 &lt;p&gt;Join our slack channel: &lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Find us on &lt;a href=&quot;https://beacons.ai/wwcodefrontend&quot;&gt;social media&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Cecelia Martinez&lt;/h2&gt;
-&lt;p&gt;Blurb will follow…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mar 10 2022, Serverless in Azure]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/march-10-serverless-in-azure/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/march-10-serverless-in-azure/</guid><pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;Cecelia is dedicated to building developer communities that are inclusive, constructive, and make software development a better experience for all. Her role as Community Lead at Replay.io involves coding, writing, speaking, teaching, and most importantly listening. She is a lead volunteer with Women Who Code FrontEnd, chapter head of Out in Tech Atlanta, a mentor, and part of the GitHub Stars program.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mar 10 2022, Serverless in Azure]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/march-10-serverless-in-azure/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/march-10-serverless-in-azure/</guid><pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -77,7 +77,56 @@
 Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 &lt;h2&gt;Part 3 - Serverless in Azure&lt;/h2&gt;
 &lt;p&gt;In the part 3 of this workshop series Sunitha Patel will explain how to deploy web applications to Azure using serverless. API will become an Azure Function and we will use Azure Static Web Apps to host it in Azure.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 24 2022, Deploy to Azure]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</guid><pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 5]]></title><description><![CDATA[One new thing to learn this week - CSS basics So you’ve built an app for a personal project or maybe it’s a static site to be your calling…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-5/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-5/</guid><pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/93238f874fba8f187233d8bf8f379499/302a4/issue5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAETUlEQVQ4y22TeWyURRiHv2oFtQE0JMY/SNCIEjFiqvVKaEwQAQG5WgrYAKWU3nt0u/fZe7eFbi1H7wJbYkGKEEAU/qlCJBARjSfauEillC0tbaEFE9rdx8xsu0Jgkjfzft/M/OZ5j1G0XxxH0eqItjuJstpRhFlsTHC4iHEVohjNKCaL/KeotRi/OoEYI8EgwWBQ+tcCAdo+P8TXp06hxDc0ykOP2hzy0CM2R1jYYEKx2phcWsZUt4dnPOUoThdzd++RIkIsGApJ/+atIc7/8isX/X4USTBGJSgljdVGXE0tmXv3YWrai7PBh6uhBUNTC+ktrXQPDYUpR0cJjYmODyWmoEgSSSqjmSeLilHtb8NR3UCqoZCVWQaWZuilJWQZ2agvwP5JPf5/rkZIhWhwLAXK1JIyJjpcETH7Z4fIspSyOD2fZTkmEtRWEjVWEtVWEtQWlueamZ+qIUFl4buff5Oio2O5FMKKojeO5c9K7r62sFimniStjTU6h7TVeXaS9S6S9QWsyXOQXbiFtTqnvOTSlf9JZciv79gpq/x2bb0MRZCt0tikqUu80nIKt5JiLmaTtZR0h4f2c99zrP1b5qWocG1rjNBJwsE7//JcpZf1zT7SjEUypBW5ZtYZCvE0tNB44AjNbUfxHf6SE6fPUlbnY2vzp3JeIvKqsnDRfzlCqQjnSEcH2TVNJGabSNTY5CZBaK6skdSG8u3o3NVYvbVkFVSQ6Spng6lIhrwwLY+DJ9vDuRwdRSEUYmhkBPfuVhZv1pGksYULoLJIgpW5Zj7Od5KktbNaa2d5tonlOSb5X3wvTNNSt//wPYShEHeCo3h2tbJICGrDhEJU2DpjIariSjKcHpk/sT6+lvRQQeBMVxeG5r0kZBsjmwWFEM50VZA6VgxRnPXGIkl3r+D9IQM/9vaSUtfMujwniRq7FBMCoqqrNFbZOuMhi3n8UmGigA8UpcpbxVuzZ/HenHgWpuTIZk6zlUmyDzfrWJKRz4ocs7xI5HVFjkmKL0rX4axuuL9t+gdu8uoL0zm5xcRxr5O4d+NJ0DpkVUtqdssnWFq7hzx3NfmebRTsaCLDWc5HsvntDzb2+Qs/EDtjOo26zRx1m0mc/z5zkzNJs7vRllbJlrFV1ckUqIq9mLbslELhp/d7JHcRQovFzLOTYtivz+BcVTHvvDwTV4mbSt8BGeoHG9XM26iW/bZgk5alWUZc2xvp7A7wsKHMnPES0VFRbJg3h5K0tUQpChUVXrn4zbkL7Dp4DHe9D3edj7rWQ5y58BM3BgYZvn2H63399PUPyrn3xgB3746gzHjxFZ6YMJHZz09jwRuzeDz6MZYtS+JSZxdXr/XQ29dP4HofVwPXCfT00dUdoMPfyR9//c2f/sv4L1+RfselToaGb6PEvhnPlElTeDomhmmTn5Jz7GtxtJ8+S//gLbp7eiMEwvr6ByK+IO3pvYEo7M1bw5LwP8+ESPRcLBm7AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Issue 5 - Kimmi Gan&quot;
+        title=&quot;Issue 5 - Kimmi Gan&quot;
+        src=&quot;/blog/static/93238f874fba8f187233d8bf8f379499/f058b/issue5.png&quot;
+        srcset=&quot;/blog/static/93238f874fba8f187233d8bf8f379499/c26ae/issue5.png 158w,
+/blog/static/93238f874fba8f187233d8bf8f379499/6bdcf/issue5.png 315w,
+/blog/static/93238f874fba8f187233d8bf8f379499/f058b/issue5.png 630w,
+/blog/static/93238f874fba8f187233d8bf8f379499/40601/issue5.png 945w,
+/blog/static/93238f874fba8f187233d8bf8f379499/302a4/issue5.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;One new thing to learn this week - CSS basics&lt;/h2&gt;
+&lt;p&gt;So you’ve built an app for a personal project or maybe it’s a static site to be your calling card on the web. But you want to add some styling so that it looks nice &amp;#x26; pretty instead of just black coloured text on a white background. What you need now is some CSS - Cascading Style Sheets. CSS is what we use to add styling to the HTML pages generated for web apps and sites. These days CSS can either be written with plain old CSS itself or using a preprocessor like Sass.&lt;/p&gt;
+&lt;p&gt;To start with, you’ll need to know how to apply CSS to a HTML file. This can be done in 3 ways: inline as a style attribute for each HTML element, internal as a style tag within the head element or external as a separate CSS file that you link to in the HTML file. From there, you’ll need to know about selectors where you add your CSS properties to an element or group of elements. CSS properties include fonts &amp;#x26; text styles, setting colour, border, padding and margin values at the most basic level. To learn more about these, have a read through the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics&quot;&gt;MDN’s CSS basics tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://flukeout.github.io/&quot;&gt;CSS Diner&lt;/a&gt; is a good place to go to practice CSS selectors. For some inspiration for what can be done with CSS, have a browse through &lt;a href=&quot;https://stylestage.dev/&quot;&gt;Style Stage&lt;/a&gt; and &lt;a href=&quot;http://www.csszengarden.com/&quot;&gt;CSS Zen Garden&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Three questions to ponder&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the pros &amp;#x26; cons of each of the 3 ways you can apply CSS?&lt;/li&gt;
+&lt;li&gt;What does the “Cascading” part of Cascading Style Sheets refer to?&lt;/li&gt;
+&lt;li&gt;What advantage(s) does using a preprocessor give to developers over vanilla CSS?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Kimmi Gan&lt;/h2&gt;
+&lt;p&gt;Kimmi Gan is a self confessed girl geek who enjoys learning about what’s new in the world of front end development to enable her to build web apps, sites and the occasional data visualisation or CSS art.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dev.to/kopijunkie&quot;&gt;https://dev.to/kopijunkie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kopijunkie.net&quot;&gt;http://kopijunkie.net&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Join our slack channel: &lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Find us on &lt;a href=&quot;https://beacons.ai/wwcodefrontend&quot;&gt;social media&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Feb 24 2022, Deploy to Azure]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/feb-24-deploy-to-azure/</guid><pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
