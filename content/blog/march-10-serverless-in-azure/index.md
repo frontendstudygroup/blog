@@ -1,7 +1,7 @@
 ---
 title: Mar 10 2022, Serverless in Azure
 date: "2022-03-10"
-time: "2022-03-10 14:00"
+time: "2022-03-10 15:00"
 description: "Part 3: Serverless in Azure!"
 contentType: "slides"
 author: "WWCodeFrontend and WWCodeCloud"

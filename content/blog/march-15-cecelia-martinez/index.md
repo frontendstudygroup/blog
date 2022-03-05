@@ -14,7 +14,7 @@ tags: ["2022", "march-2022", "webinar"]
 
 Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on "Debug your debugging process". Bring your own bugs and learn to debug web applications better.
 
-[Registration Link]()
+[Registration Link](https://us02web.zoom.us/meeting/register/tZIpf-qtqDIoHdNL6gTd7oV35LUlOxC6lItE)
 
 This event is BYOB (Bring Your Own Bugs!).
 
@@ -26,6 +26,6 @@ Find us on [social media](https://beacons.ai/wwcodefrontend)
 
 ## Cecelia Martinez
 
-Blurb will follow...
+Cecelia is dedicated to building developer communities that are inclusive, constructive, and make software development a better experience for all. Her role as Community Lead at Replay.io involves coding, writing, speaking, teaching, and most importantly listening. She is a lead volunteer with Women Who Code FrontEnd, chapter head of Out in Tech Atlanta, a mentor, and part of the GitHub Stars program.
 
 
