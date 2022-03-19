@@ -8,7 +8,7 @@ author: "WWCodeFrontend"
 tags: ["2022", "april-2022", "webinar"]
 ---
 
-<!-- ![Serverless in Azure](./part3.png) -->
+![Spreeha Dutta - The ABC of Automating Tests for Software Applications](./spreeha-dutta.png)
 
 ## The ABC of Automating Tests for Software Applications
 
@@ -18,4 +18,4 @@ In this session Spreeha Dutta will talk about how to identify which test scenari
 
 A software engineer, blogger and podcaster who is dedicated in the building of a technically sound society.
 
-[Registration Link](https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3)
+<!-- [Registration Link](https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3) -->
