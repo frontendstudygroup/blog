@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/april-2022/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…","fields":{"slug":"/april-7-serverless-on-aws/"},"frontmatter":{"date":"April 07, 2022","title":"April 7 2022, Serverless on AWS","description":"Part 5: Serverless on AWS!","tags":["2022","april-2022","webinar","cloud-frontend"]}}]}},"pageContext":{"tag":"april-2022"}},
+    "staticQueryHashes": ["2841359383"]}

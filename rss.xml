@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 05 Mar 2022 10:17:38 GMT</lastBuildDate><item><title><![CDATA[Mar 15 2022, Cecelia Martinez]]></title><description><![CDATA[Debug your debugging process Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on “Debug your debugging process…]]></description><link>https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</guid><pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Mar 2022 08:36:50 GMT</lastBuildDate><item><title><![CDATA[April 7 2022, Serverless on AWS]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/april-7-serverless-on-aws/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/april-7-serverless-on-aws/</guid><pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/cdeff5fd9daf6d6e614acc6be3cbab8a/302a4/part5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEbklEQVQ4y4WUaWwUZRjHB5BTsBioWHpIaVEE5XBZjgIppbblqC3Qg8JCW1oakBJ7bnd3dmZ39r4XGtpCS6GLUsqNNTFciYn4jSjGiPGKMTEa/SBIjCh80J+Z2cr6RfnwzzPvvJPf+3+Od4SZvgBLunvQdx8mIxBCMFkYJUoIFiuCGv9PZpGnHC7WDZxgy8lTvNLVg6A+nPjoFhdu38Zw5ixCaztjrPJjYaNGgMkeL23vXubNWx+z+eQgwmTFyXPBMKn+EFMcbgSTiGAZcfg4jWQy0aYwRXHGD1FPUdMcL4pMlqwk2WQmSBKTZVnTREliiiwzSZIYZ40/P3KpQk0WLSuhuRWhw4Sgboy1yqwLuyiJuMgLOljld7A64KC6043ep1AYcrIh7GShR2FdyEmK3aalq7pLcnkoGojRfvU6/hs340B14zmHjaU+hUynnWR73IXqaLQY15gRaa6skpbma74gH3z2OfeBn/54yJd3HySA89x2cvwOXvYopCqqg/+om1VmaquRHfuaaKt7HbfJyo93fub73+/zxd17CI+KqwLUhqjx3zAxHkePwGa2dmDYVsP20goqS8spziti+PxF/gR+uf9bHDjaKpPi8zPD40OdS1Wp/iAzvH6edrq1lNXvkk1mGgw1NJSVs624lBbDVozV5YQcDuAvHjx8GAeq7Z7m8jDd7dX0rNdPeiCkDa3m0iwyzuWmTbFiqSoj0lTPkZZaeo0NnHK9QXvNDr797gfu3Ps1kfI42c4YSdbcjpVsPDGiSTYFwWhmw+FD9JkbkeoMfHIqzM1+Bx/2K9w46qSuYC3HBk5y+vJ7iZTVa5cZijArFNYGXXU4W10HwwiijOd4J0PmGqpyc7k9FObTmJ+vh4Jc67ZRslhHf2eYQ729CeA/dUsPxBVfB5jq8pAk2xk6HmTYUkZtzlIONu7gm+Nevor5qF1fwJrMbE4fCTN4/lyihiogzZ8AqU3KCARJcvtY6FK4EAszJO6kermONXPm0ddSzVl7A7qULHYvXcT75wZ45/q1RA0nyDZN46VEfNJm165WSfchrl4aJtq4lxWpGejSMilbrqciR09R1hzqdS/R09RE2B9JDLZgtCB0iAgd1ng0qe9ErSErFTe7K2upmD0PffrzvJA2lwXZenSz5rM2K5vlmbPRpWdhKN4SdzjWKlHT6aY2orA9ZGNnWKEqILPnoJO8sBOdWaIst5Dy5DTyFy2hujAHh2E1psoV2MqXsbdwGYvnzqVi4yYVKGl/lwuDYc4eddJ7UGSgS6bngIUrMS9Sn488X4CqvALWJE3DsFZPtD6HoeZ8BhsrGd5fz1vriylJyaAiPwchyW5numLndMxPrEviTL+Lt0/4ONYlc6lPoaPHy+aok/0b81g89RksJfM5uquQoX37uGI0E9u1hwObi4huWUBQ3IuQ7XWR7nJQ1+lme1BmZ0ShOupga0CmIaqwMuii2G2k39FMacGrtKxawvm2di6KEheb99C4PodN+S9yLZJLNOLnbzIHc9nKWgJKAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Serverless on AWS&quot;
+        title=&quot;Serverless on AWS&quot;
+        src=&quot;/blog/static/cdeff5fd9daf6d6e614acc6be3cbab8a/f058b/part5.png&quot;
+        srcset=&quot;/blog/static/cdeff5fd9daf6d6e614acc6be3cbab8a/c26ae/part5.png 158w,
+/blog/static/cdeff5fd9daf6d6e614acc6be3cbab8a/6bdcf/part5.png 315w,
+/blog/static/cdeff5fd9daf6d6e614acc6be3cbab8a/f058b/part5.png 630w,
+/blog/static/cdeff5fd9daf6d6e614acc6be3cbab8a/40601/part5.png 945w,
+/blog/static/cdeff5fd9daf6d6e614acc6be3cbab8a/302a4/part5.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Let your code fly high&lt;/h2&gt;
+&lt;p&gt;You have built your awesome web application and now you want to share it with the world! Where do you start? How do you get code from your machine to the cloud?&lt;/p&gt;
+&lt;p&gt;In this biweekly workshop series, Feb 10 - Apr 21, 2022, we will teach you how to develop a web application locally and set it up for cloud deployment including AWS and Azure using principles of Infrastructure as Code, Continuous Integration, and Continuous Delivery.&lt;/p&gt;
+&lt;p&gt;Speaker &amp;#x26; Short Bio
+Sunitha Patel, Xiaoli Shen&lt;/p&gt;
+&lt;h2&gt;Part 5 - Serverless on AWS&lt;/h2&gt;
+&lt;p&gt;In the part 5 of this workshop series Xiaoli Shen will cover Serverless backend on AWS using API Gateway/Lambda.&lt;/p&gt;
+&lt;p&gt;Xiaoli will explain scalable, easy-to-maintain cloud architecture for front-end web apps and show you how to deploy your front-end web app on AWS. Follow along to gain hands-on experience!&lt;/p&gt;
+&lt;p&gt;If you’d like to follow along, it is best to create an AWS account and we’d generally stay within the free tier. However, we can also provide temporary AWS environment to use during the session. Please let us know in advance if you need one.&lt;/p&gt;
+&lt;h2&gt;Xiaoli Shen&lt;/h2&gt;
+&lt;p&gt;Solutions architect at AWS. Formerly a tech lead and senior full stack engineer building large-scale systems on the cloud.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mar 24 2022, Frontend web app on AWS]]></title><description><![CDATA[Let your code fly high You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/march-24-frontend-web-app-on-aws/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/march-24-frontend-web-app-on-aws/</guid><pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/953e61a9b8df936b1743f8c2d4134375/302a4/part4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEk0lEQVQ4y4WUWWwVZRTHB0pFoCwBi5Yu0AVZRaAtlIIppbYVqZTShcItLbRUkBK7t3eZuXfmLjN3L1sLhcItSlukWMTEgJCYiG9EMUaMW4yJ0eiDIDGi8KA/M/cWa3yQh5NzZvl+8/+f830jzNE8ZHT3kNl9jCSPD6HTxDiziGCyIOj5/8JoZpri4IXQGbaeHWTl0R4EvTjz0U3evHULwxvnEVraiLJIj4SNGwXGulRa37nMazc/puTsAEKMbGeu10+8x8dUxRl+STCNKnxUjDqZZJWZKtsjHwkDOk1MNJuZYrEwVZKIESUeF0UmiWL4+t958mitLx6nQztNYVdCUwtCRyeCrmayJLHWrVDkd7DGrVDos5Nit5Fqt4Xv53gUljhtFPntrHMrlAQcRJkjKqc7XBSG+ml79xru6zd0YORBkmJllSbzrEsmXray3CUz0yox32FjmUsOw6eIElG6LYsYtvmS6uWDzz7nHvDTHw/48s59hId9WOqMqHnGZWOe3cpKVSZRsbLIaSPbrZChysSIOkxiRks7hv2NtNa+grPTwo+3f+b73+/xxZ27owrDE9P7YY7k/9YPwyIxp6UDw/YadhSXU1FcRlFuIZcujPAn8Mu93yLA8RaJONXNbJdGvOYhTvOQ6PbylOpmpsMVsWmyENtppN5QQ31pGduLimk2bKO9ugyfogB/cf/BgwhQn5i+8AmnyiynGgYlerzhTftwAz/mcNIqWzBVlhJorON48y562+sZdLxKW00V3373A7fv/jpm+THJRpTedIvEBNFKtGRjomQjWrQitBl58dgReo0NiLUGPhn0c6NP4cM+mesn7dTmb+BU6CznLr83ZjnZFwgfvVR/8J86we1lgn5qOkxoocMMGqupzMnh1pCfT/vdfD3k5Wq3lc0r0uk75OdIb++YZR2gR7zbG46EcA81YhQHiU6VwVMeLplK2ZW9ioMNVXxzWuWrfo1dG/NZn5zGueN+Bi4MjynU+/akqoVzwuhA9MHEal6yNBfDIT9D5p1UZ6Wzfv5iTjRXc95WT3pcKntWLef94RBvX7s6pnCebtfnJ0HzsCAQJMXrZ67bwzS7k7LjPVy++BZdDftYE59EekIypVmZlGdnUpg6n7r0pfQ0NuJ3B8aGMkF2EW1XmejQGC+7mOzyIJisCO1G1iku9lTUUJ6ymMzEp1mQsJBlaZmkz1vChtQ0spJTSE9MxVC0NQKMtohUddmp8lmp9Ejs8Fkp0yy83KWQ67ez0ihSmlNAWWwCecszqC7IRjE8R2fFGqxlq9lXsJoVCxdSvmlL5Oeg/1lGBvwMn7TTe9BMf7eVY10mrvSriCc0cjUPlbn5rJ8+C8OGTIJ12Qw15THQUMGlA3W8vrGIzXFJlOdlI0y32YiVbQyGNE4ftjB8yslISOX0UYmLJ2Q6elRKgnYObMplxYzZmDYv4eTuAob27+dKu5H+3XvpKikkuHUZXvM+hDTVQaJDofaQE4PPys6AQnVAZptHoj4os9broMjZTp/SRHH+8zSvy+BCaxsjZpGRpr00bMxmS94irgZyCAbc/A1FbHep8ZZcbAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Frontend web app on AWS&quot;
+        title=&quot;Frontend web app on AWS&quot;
+        src=&quot;/blog/static/953e61a9b8df936b1743f8c2d4134375/f058b/part4.png&quot;
+        srcset=&quot;/blog/static/953e61a9b8df936b1743f8c2d4134375/c26ae/part4.png 158w,
+/blog/static/953e61a9b8df936b1743f8c2d4134375/6bdcf/part4.png 315w,
+/blog/static/953e61a9b8df936b1743f8c2d4134375/f058b/part4.png 630w,
+/blog/static/953e61a9b8df936b1743f8c2d4134375/40601/part4.png 945w,
+/blog/static/953e61a9b8df936b1743f8c2d4134375/302a4/part4.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Let your code fly high&lt;/h2&gt;
+&lt;p&gt;You have built your awesome web application and now you want to share it with the world! Where do you start? How do you get code from your machine to the cloud?&lt;/p&gt;
+&lt;p&gt;In this biweekly workshop series, Feb 10 - Apr 21, 2022, we will teach you how to develop a web application locally and set it up for cloud deployment including AWS and Azure using principles of Infrastructure as Code, Continuous Integration, and Continuous Delivery.&lt;/p&gt;
+&lt;p&gt;Speaker &amp;#x26; Short Bio
+Sunitha Patel, Xiaoli Shen&lt;/p&gt;
+&lt;h2&gt;Part 4 - Frontend web app on AWS&lt;/h2&gt;
+&lt;p&gt;In this session, Xiaoli will explain scalable, easy-to-maintain cloud architecture for front-end web apps and show you how to deploy your front-end web app on AWS. Follow along to gain hands-on experience!&lt;/p&gt;
+&lt;p&gt;This session covers Amplify / S3 + Cloudfront (two possibilities for front end deployment on AWS).&lt;/p&gt;
+&lt;p&gt;If you’d like to follow along, it is best to create an AWS account and we’d generally stay within the free tier. However, we can also provide temporary AWS environment to use during the session. Please let us know in advance if you need one.&lt;/p&gt;
+&lt;h2&gt;Xiaoli Shen&lt;/h2&gt;
+&lt;p&gt;Solutions architect at AWS. Formerly a tech lead and senior full stack engineer building large-scale systems on the cloud.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mar 15 2022, Cecelia Martinez]]></title><description><![CDATA[Debug your debugging process Join us on March 15, 2022 at 13:00 ET for a session from Cecelia Martinez on “Debug your debugging process…]]></description><link>https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/march-15-cecelia-martinez/</guid><pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -77,6 +163,8 @@
 Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 &lt;h2&gt;Part 3 - Serverless in Azure&lt;/h2&gt;
 &lt;p&gt;In the part 3 of this workshop series Sunitha Patel will explain how to deploy web applications to Azure using serverless. API will become an Azure Function and we will use Azure Static Web Apps to host it in Azure.&lt;/p&gt;
+&lt;h2&gt;Sunitha Patel&lt;/h2&gt;
+&lt;p&gt;Sunitha Patel is a software engineer with over 15 years of experience in full stack development with C#, Angular and Azure, currently working with Ruby on Rails at Shopify.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 5]]></title><description><![CDATA[One new thing to learn this week - CSS basics So you’ve built an app for a personal project or maybe it’s a static site to be your calling…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-5/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-5/</guid><pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -165,6 +253,8 @@ Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 &lt;h2&gt;Part 2 - Deploy to Azure&lt;/h2&gt;
 &lt;p&gt;In the part 2 of this workshop series Sunitha Patel will explain how to deploy a web app to Azure!&lt;/p&gt;
+&lt;h2&gt;Sunitha Patel&lt;/h2&gt;
+&lt;p&gt;Sunitha Patel is a software engineer with over 15 years of experience in full stack development with C#, Angular and Azure, currently working with Ruby on Rails at Shopify.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 4]]></title><description><![CDATA[How to Randomly Change Background Color in Javascript! In this article, you will learn how to change your background color randomly by using…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-4/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-4/</guid><pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -318,6 +408,8 @@ Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 Sunitha Patel, Xiaoli Shen&lt;/p&gt;
 &lt;h2&gt;Part 1 - It runs on my machine&lt;/h2&gt;
 &lt;p&gt;In the part 1 of this workshop series you will learn to setup a fullstack web application that runs locally on your machine.&lt;/p&gt;
+&lt;h2&gt;Sunitha Patel&lt;/h2&gt;
+&lt;p&gt;Sunitha Patel is a software engineer with over 15 years of experience in full stack development with C#, Angular and Azure, currently working with Ruby on Rails at Shopify.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_zPKlek8YQzGlCVVap8mUsw&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What to learn - Issue 3]]></title><description><![CDATA[In recognition of FOSS February, we will focus on opensource topics to learn for this month! We did a Hacktoberfest themed studygroup in…]]></description><link>https://frontendstudygroup.github.io/blog/newsletter-issue-3/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/newsletter-issue-3/</guid><pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In recognition of FOSS February, we will focus on opensource topics to learn for this month!&lt;/p&gt;
 &lt;p&gt;We did a &lt;a href=&quot;../tags/opensource&quot;&gt;Hacktoberfest themed studygroup in October 2021&lt;/a&gt; which was well received within our community.&lt;/p&gt;
 &lt;p&gt;In this “What to learn” issue, we will learn how to contribute to React core. This way you will get a rough idea how to contribute to any opensource project and also learn alongside architecture, design patterns concerning some of the popular opensource projects.&lt;/p&gt;
