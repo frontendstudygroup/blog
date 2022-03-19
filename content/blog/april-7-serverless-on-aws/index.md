@@ -1,6 +1,6 @@
 ---
 title: April 7 2022, Serverless on AWS
-date: "2022-04-07"
+date: "2022-04-08"
 time: "2022-04-08 2:00"
 description: "Part 5: Serverless on AWS!"
 contentType: "slides"
