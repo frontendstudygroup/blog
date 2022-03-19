@@ -23,4 +23,8 @@ Sunitha Patel, Xiaoli Shen
 
 In the part 2 of this workshop series Sunitha Patel will explain how to deploy a web app to Azure!
 
+## Sunitha Patel
+
+Sunitha Patel is a software engineer with over 15 years of experience in full stack development with C#, Angular and Azure, currently working with Ruby on Rails at Shopify.
+
 [Registration Link](https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3)

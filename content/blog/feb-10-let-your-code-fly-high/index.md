@@ -27,4 +27,8 @@ Sunitha Patel, Xiaoli Shen
 
 In the part 1 of this workshop series you will learn to setup a fullstack web application that runs locally on your machine.
 
+## Sunitha Patel
+
+Sunitha Patel is a software engineer with over 15 years of experience in full stack development with C#, Angular and Azure, currently working with Ruby on Rails at Shopify.
+
 [Registration Link](https://us02web.zoom.us/webinar/register/WN_zPKlek8YQzGlCVVap8mUsw)
