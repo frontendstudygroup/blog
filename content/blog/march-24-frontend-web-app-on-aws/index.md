@@ -1,7 +1,7 @@
 ---
 title: Mar 24 2022, Frontend web app on AWS
 date: "2022-03-25"
-time: "2022-03-25 2:00"
+time: "2022-03-25 02:00"
 description: "Part 4: Frontend web app on AWS!"
 contentType: "slides"
 author: "WWCodeFrontend and WWCodeCloud"
