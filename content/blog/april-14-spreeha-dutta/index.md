@@ -18,4 +18,4 @@ In this session Spreeha Dutta will talk about how to identify which test scenari
 
 A software engineer, blogger and podcaster who is dedicated in the building of a technically sound society.
 
-<!-- [Registration Link](https://us02web.zoom.us/meeting/register/tZIqfuyprjgtG9VyTTFZbcyPYvS01EXSsLm3) -->
+[Registration Link](https://us02web.zoom.us/webinar/register/WN_jrH7ApmGSrW6VxvTP9ZbNg)
