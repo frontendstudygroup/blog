@@ -2,15 +2,15 @@
 title: Apr 14 2022, Spreeha Dutta
 date: "2022-04-14"
 time: "2022-04-14 17:00"
-description: "The ABC of Automating Tests for Software Applications"
+description: "The ABCs of Automating Tests for Software Applications"
 contentType: "slides"
 author: "WWCodeFrontend"
 tags: ["2022", "april-2022", "webinar"]
 ---
 
-![Spreeha Dutta - The ABC of Automating Tests for Software Applications](./spreeha-dutta.png)
+![Spreeha Dutta - The ABCs of Automating Tests for Software Applications](./spreeha-dutta.png)
 
-## The ABC of Automating Tests for Software Applications
+## The ABCs of Automating Tests for Software Applications
 
 In this session Spreeha Dutta will talk about how to identify which test scenarios to automate in a software application, writing test scripts and automating test scenarios.
 
