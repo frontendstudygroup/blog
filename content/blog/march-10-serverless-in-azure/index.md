@@ -8,6 +8,8 @@ author: "WWCodeFrontend and WWCodeCloud"
 tags: ["2022", "march-2022", "webinar", "cloud-frontend"]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wKy1COljxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Serverless in Azure](./part3.png)
 
 ## Let your code fly high
