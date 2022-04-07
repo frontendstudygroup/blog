@@ -8,6 +8,8 @@ author: "Cecelia Martinez"
 tags: ["2022", "march-2022", "webinar"]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GxfTfMnwvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Debug your debugging process - Cecelia Martinez](./byob.png)
 
 ## Debug your debugging process
