@@ -10,6 +10,22 @@ tags: ["2022", "april-2022", "webinar", "review-series"]
 
 ![Salary Negotiation](./review.png)
 
+## Resources
+
+- [Salary negotiation by Princiya Sequeira](https://princiya.com/blog/tags/salary/)
+- [Videos from the WWCode community](https://www.youtube.com/c/WomenWhoCodeGlobal/search?query=salary%20&mc_cid=b7f770e744&mc_eid=d3895f688f)
+- [Annual Equal Pay Report](https://www.womenwhocode.com/blog/world-s-largest-women-in-tech-organization-releases-annual-equal-pay-report?mc_cid=b7f770e744&mc_eid=d3895f688f)
+- [Maximize your job offer as a remote engineer](https://leaddev.com/career-paths-progression-promotion/how-maximize-your-job-offer-remote-engineer)
+- [How to negotiate a raise and get paid what you're worth](https://twitter.com/dklineii/status/1513863527441784839)
+- [How to provide your desired salary](https://elpha.com/resources/desired-salary)
+
+## Salary data
+
+- Europe only (for now) [TechPays](https://techpays.com/europe/germany)
+- [Levels.fyi](https://www.levels.fyi/)
+
+## Event details
+
 Registration: [https://us02web.zoom.us/meeting/register/tZYodOGhqz8jEtQezwwS3SFcwPBn90Z68xCa)
 
 Hello everyone,
