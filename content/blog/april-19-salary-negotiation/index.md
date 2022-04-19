@@ -18,6 +18,7 @@ tags: ["2022", "april-2022", "webinar", "review-series"]
 - [Maximize your job offer as a remote engineer](https://leaddev.com/career-paths-progression-promotion/how-maximize-your-job-offer-remote-engineer)
 - [How to negotiate a raise and get paid what you're worth](https://twitter.com/dklineii/status/1513863527441784839)
 - [How to provide your desired salary](https://elpha.com/resources/desired-salary)
+- [Equity for software engineers](https://blog.pragmaticengineer.com/equity-for-software-engineers/)
 
 ## Salary data
 
