@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/may-2022/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Registration link:  https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6 Join our slack community:\nhttps://join…","fields":{"slug":"/may-16-beginner-frontend-study-group/"},"frontmatter":{"date":"May 16, 2022","title":"May 16 2022, Beginner's frontend study group","description":"12 weeks cohort based learning for beginner's level frontend skills","tags":["2022","may-2022","webinar"]}}]}},"pageContext":{"tag":"may-2022"}},
+    "staticQueryHashes": ["2841359383"]}

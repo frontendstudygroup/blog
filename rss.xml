@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 19 Apr 2022 10:37:55 GMT</lastBuildDate><item><title><![CDATA[April 19 2022, RE:View Series - Salary Negotiation]]></title><description><![CDATA[Resources Salary negotiation by Princiya Sequeira Videos from the WWCode community Annual Equal Pay Report Maximize your job offer as a…]]></description><link>https://frontendstudygroup.github.io/blog/april-19-salary-negotiation/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/april-19-salary-negotiation/</guid><pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 07 May 2022 13:29:08 GMT</lastBuildDate><item><title><![CDATA[May 16 2022, Beginner's frontend study group]]></title><description><![CDATA[Registration link:  https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6 Join our slack community:
+https://join…]]></description><link>https://frontendstudygroup.github.io/blog/may-16-beginner-frontend-study-group/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/may-16-beginner-frontend-study-group/</guid><pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/7419d21aee15a693b31573eda70beab4/302a4/studygroup.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEqUlEQVQ4y22Ue1BUZRjGD2Fl/1iZeEm5GQgiFy1AxBwvCJq3ZhwaR8dSnAydGgXksiwsirC77C4sFxkEcSnEQEnQNDXUBEQaNqmGcWDE0TJMQbxwkQVFl1/zHRyT7Jt5533OOe/3nOf73oskKRMZYfEJ/3qFcqSJdzFxvKvV0TUwgFiXm5sxm83U1V2k9epVpP8lUyh5TbWTyVodkzRp2KfpGa/WythRZ5DjlhUfoMdiob66hoK9BaQk76bhQt1/CJ+RjkpMwi5VIxPIymLihi0untFJu4Zx5A7cM7NRnP4Rk/kXCs1mIk78MJLQRvhYBW4Zmeirq1nzbSkzs/ew4XA5K78p5osjFShPnWbRvkJZvbQjBik6VhbwSoJq+PklhXHxvJWiRnnmLHML97P2cDn7LzWiqanF1NiI7sIFks79xDRjFlJULJJQLMgUSmzF/pcIxceoaEZv2crozeFIwsI2yd5W4A1hSJ+FMTl5FwFZBiZGbGNURCSSaidSYhKSUDTCxJ0JHxWNFLVDPpI4io3wEVGMUSgwHi/h5/NlRH0eiq+nC3P8vXEOXsjr2yOQJqi1jE1RMy5VI/s3k1PkDD9Xm6DCJlElJ+udlBRqfzvLUGcT2phNeDvYEeDhzFLf6cxzt8fn/RlIwaYiNldUEl55lFXFJawrO4SbMVNWKi7bNkHFKEEYp6Sg6jsGb/3O1aZzhH8SzCwXe/zdnQgKDGTl4mW4TrZDslNrcTZkMC0jEwe9AQedASd9Oq4ZmbikG2XyiVodS/bt5UZzDe3XGui81sC2jasJ9HJjnocToSEhxIV/RaCPG9LyIxUElR1ibvEB/ExFeOUX4JqTi6Mxiwk6A2PVGqT4RNaa8rhzpZa21noe/NVIXmoUy/w9WOHrwSo/T9YFzcbX0xVpc9UZtlRV8enxE6w9eoyPD5cTUnKQOYUm/PL3EZBfwJhULeuL8uhoqebPllo6/rhE2+UatLFbWOHnycrZPiyZ7c3G0KVIq499z6ojFQSXljGvuAT//UV47c3HNXsP9ulGJqXpkRJ3sijXyI2mKq5frqbjupnum020NJxiddAc/Kc5sGCWOzrll0ivJu3CRlS6qCGR1RcHQ3wCNgmiPlW8oUri5PkymuvLKTPpSIoMY93y+cyf6YafyxSCZrkR4jcdyUlnwDs7R256r6wcGYtE+OXmyVNFJo4WLaYgprKUX6srydAns3XjGhZ6TyXgvfEsnOFIiM9UFns7Ik3QaHHUG5iSpsdep5d7VGBnfbpcl6KoQ0vLaGpvZ4iRq+P233y9J531H31I6IIPOFiQgyQ2u6Yb8TBmMd2YJY8qodQjM5vxag3pdRflzQ8fP+ZGVxfdAwOcvHKF9t7e58S9Pd103b8nY7n1xqh387ZWjaR4of22R6KsOisHDTx5QsudTsxtN7nd28up1lbauroZslqxPn36nNhqtSKJGhuXpmGSQYdtomp4DMUo8M7JxTo0fMieR4+42d3DXYuFWz09skqhUJCLnz0aHGTwGfHwtIl7NhDiE+RWkyKjMV6slwOeWK1y8H2LhXsWCw/6+7nb1yfjrv5+Ovv6uPPwoXwlgvAfSwnagATg5LwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Frontend study group&quot;
+        title=&quot;Frontend study group&quot;
+        src=&quot;/blog/static/7419d21aee15a693b31573eda70beab4/f058b/studygroup.png&quot;
+        srcset=&quot;/blog/static/7419d21aee15a693b31573eda70beab4/c26ae/studygroup.png 158w,
+/blog/static/7419d21aee15a693b31573eda70beab4/6bdcf/studygroup.png 315w,
+/blog/static/7419d21aee15a693b31573eda70beab4/f058b/studygroup.png 630w,
+/blog/static/7419d21aee15a693b31573eda70beab4/40601/studygroup.png 945w,
+/blog/static/7419d21aee15a693b31573eda70beab4/302a4/studygroup.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Registration link:  &lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6&quot;&gt;https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join our slack community:
+&lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;
+and join the &lt;code class=&quot;language-text&quot;&gt;#js-studygroup&lt;/code&gt; slack channel!&lt;/p&gt;
+&lt;h2&gt;About Ophelia&lt;/h2&gt;
+&lt;p&gt;Ophelia is a frontend Blockchain &amp;#x26; NFT Engineer, who intends to leverage the power of these technologies to build solutions in Ghana, Africa while constantly striving to give back.&lt;/p&gt;
+&lt;h2&gt;What?&lt;/h2&gt;
+&lt;p&gt;Cohort based practical learning for beginner developers in WWCode Frontend Track.&lt;/p&gt;
+&lt;h2&gt;Why?&lt;/h2&gt;
+&lt;p&gt;For a while now, WWCode Frontend has targeted Women with at least a year’s
+programming experience. However, now more than ever we see women making a switch
+to web development and hence beginning the learning journey. This initiative seeks to
+help such women speed up their learning processes, while helping them to gain
+confidence through practice.&lt;/p&gt;
+&lt;h2&gt;Importance of this project:&lt;/h2&gt;
+&lt;p&gt;⁃ New developers build confidence
+⁃ Reduces the chances of Imposter Syndrome
+⁃ Equips new WWCode Frontend members with basic web development knowledge
+and practice before ushering them into the main group. This will enable them to relate
+better with content shared and confidently contribute.&lt;/p&gt;
+&lt;h2&gt;Who?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Beginner developers&lt;/li&gt;
+&lt;li&gt;Bootcamp learners/ graduates&lt;/li&gt;
+&lt;li&gt;Self-taught developers&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;How?&lt;/h2&gt;
+&lt;p&gt;12 weeks per cohort
+&amp;#x3C;= 10 learners per cohort&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/591fa2ce6ec61972a3e6edc10509113d/08c33/timeline.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.84810126582278%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC50lEQVQ4y3WTW2/bRhBG+f//RIskD0WBokWL5CmxgyR1oqZxa0eOLrYjiuZNvIlcLu8UTzArCwhQdIGD4eyCH2e+HVpn/zr88m7Nz2/XvPho8+vFPT++XPD0bGny3z7YPDlb8eTVgqfnK8Oz12t+n234Y7bh2fmaH14uDT+9WWMtNz5XK4dXF/9wdnHJ7HrN67/mPD+f8eenGz5c3/L53ufd1Zbn721ezI7x7bXH36uQ9zc+F/MjHxceFo9L5RmHsQcmsmSH59i4jk3f1uZcVy1R1pHkvaFqRqaJ/yxrGAb6fmAcR7NxOBx4eHjg5ssXojhGqZJh6In3GmdX4ScNblQfY1yTFh37sqOoBgrdHgWFtm2NoDx7nsfd3R1BEJBlGeM4EKWKTVBiBxo3qlC6Q9c9he4MXT9SNy3Wfr8njmPCMCSKItI0NbmIua5rolSYpDlepNilmiAuiTJtKHVDXTe0XUdd11h935vqmqYxbUuFIr5cLlmtViwWC3zPJUwUX/2KbVhx52q++powbSn0QK574+d0GLGmR2fFu1MsioI8z7+LuWl5GzU4UY29q4nyjnY4oNsDqhkNRdUdW5ZWd7udabWqKpRSBjkTwSxLCeOMW19xGxSGpVtwHyiifUWcV8RFTZKXWNKu9C5CXdeZlh3H4fLykvl8blgtF2yDlCtb8XlbcG0XLL2STHdmzI7AOPRY0qLw/djIzUrVZVmafJoOJHuNHdaGtavZhBVe0pjW/bSlag+0/YAlVXWPNyQvS8VS5WkdvZ3wE8XVVrGJKnZ5S7BvcNOah6TGiSuTp0WNJR4lSWLGRYTktsVLQfbFinEYiJIcT8Yl1ST7iqJsaNuOru2Yxp5pHGibBkvMF7GTqNbaRLkkQf6Uvu/Y54pc1eSqIc1rsqImLxuUbkyHXd8f51AqEhERlmokF/9kqG3bxvd9s3+0ZDRMj5xy8f9klyXGn+ZNXpQoyEcEOZePyUWdxun/EJ1v/+i2MLebnR8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Timeline&quot;
+        title=&quot;Timeline&quot;
+        src=&quot;/blog/static/591fa2ce6ec61972a3e6edc10509113d/f058b/timeline.png&quot;
+        srcset=&quot;/blog/static/591fa2ce6ec61972a3e6edc10509113d/c26ae/timeline.png 158w,
+/blog/static/591fa2ce6ec61972a3e6edc10509113d/6bdcf/timeline.png 315w,
+/blog/static/591fa2ce6ec61972a3e6edc10509113d/f058b/timeline.png 630w,
+/blog/static/591fa2ce6ec61972a3e6edc10509113d/40601/timeline.png 945w,
+/blog/static/591fa2ce6ec61972a3e6edc10509113d/78612/timeline.png 1260w,
+/blog/static/591fa2ce6ec61972a3e6edc10509113d/08c33/timeline.png 1570w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;HTML &amp;#x26; CSS - 4 weeks&lt;/h3&gt;
+&lt;p&gt;⁃ Web Intro, Sharing of resources &amp;#x26; GitHub setup
+⁃ Basics of HTML (2 exercises)
+⁃ Basics of CSS (2 exercises)
+⁃ Grid &amp;#x26; Flexbox (2 exercises)
+⁃ Responsiveness (1 big project)&lt;/p&gt;
+&lt;h3&gt;JavaScript - 5 weeks&lt;/h3&gt;
+&lt;p&gt;⁃ Intro &amp;#x26; Assign Study partners
+⁃ JavaScript Basics (2 exercises)
+⁃ DOM (2 exercises)&lt;/p&gt;
+&lt;p&gt;⁃ Fetching Data (1 big project)
+⁃ OOP&lt;/p&gt;
+&lt;h3&gt;ES6 - 2 weeks - New JS Features&lt;/h3&gt;
+&lt;h3&gt;Final Project - 1week&lt;/h3&gt;
+&lt;p&gt;Pair programming / Open source&lt;/p&gt;
+&lt;h2&gt;Execution Details&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Share timetable and resources&lt;/li&gt;
+&lt;li&gt;Give weekly reminders&lt;/li&gt;
+&lt;li&gt;Pair programming and study session every Saturday &amp;#x26; Sunday&lt;/li&gt;
+&lt;li&gt;Encourage writing of articles and sharing of work on social media.&lt;/li&gt;
+&lt;li&gt;Leader board &amp;#x26; Learner Motivation&lt;/li&gt;
+&lt;li&gt;Demo portfolio &amp;#x26; Graduation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;⁃ Exercises &amp;#x26; coding challenges
+⁃ 3 big projects (2 individual, 1 pair programming)
+⁃ Hackerrank (10days JS)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[April 19 2022, RE:View Series - Salary Negotiation]]></title><description><![CDATA[Resources Salary negotiation by Princiya Sequeira Videos from the WWCode community Annual Equal Pay Report Maximize your job offer as a…]]></description><link>https://frontendstudygroup.github.io/blog/april-19-salary-negotiation/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/april-19-salary-negotiation/</guid><pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
