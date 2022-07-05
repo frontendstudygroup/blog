@@ -4,7 +4,7 @@ date: "2022-05-16"
 time: "2022-05-16 18:00"
 description: "12 weeks cohort based learning for beginner's level frontend skills"
 contentType: "slides"
-author: "WWCodeFrontend"
+author: "Ophelia"
 tags: ["2022", "may-2022", "webinar"]
 ---
 ![Frontend study group](./studygroup.png)
