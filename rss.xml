@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 07 May 2022 18:38:30 GMT</lastBuildDate><item><title><![CDATA[May 16 2022, Beginner's frontend study group]]></title><description><![CDATA[Registration link:  https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6 Join our slack community:
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Jul 2022 11:40:05 GMT</lastBuildDate><item><title><![CDATA[July 29 2022, Web Security Basics]]></title><description><![CDATA[In this web security walkthrough, people will learn about cross-site scripting (XSS) and web security methods, such as HMTL entity encoding…]]></description><link>https://frontendstudygroup.github.io/blog/july-29-web-security-basics/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/july-29-web-security-basics/</guid><pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In this web security walkthrough, people will learn about cross-site scripting (XSS) and web security methods, such as HMTL entity encoding, using JavaScript to protect their websites from cyber-attacks.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/e626fd002d01b56c781e858e291e3edb/302a4/angela.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEj0lEQVQ4y3WVe1AVVRzHD4IPUAcQFXnoFWMyKxst+6eZMnVqJntMf2A1TTVNowNo0wgCu3fv7t3de+/eBw8BsXxQKKBQYYFImOCLl11NQFHHF07PqdHRf/v3U7sX0XGmP757fufsnM/vsXt+RwhFRbg9MT1suz1M+b93ikqcPS+Tef7zXeS3d1DQcdixhZA9LLcMXgibvBQxeTZo8GLEZHXEZIVlsCJo8FaVn3XlPlYGjUngFI+GKJVYU/8VgVOnqRka4s2m5hgw2/SS69d5IqCz1K+zLKCz2OclxauRrnsde4HhJdWrPYj0oXGqppOgeh05QDuS1yr8rK/083aVn5WWicvUEdJEivKEHk3/kRI5sh8pukJ2QGaeqZDuc7PAL5OsKwg5Vqv7ivdoxDkOFOLcCvGKSoJHc9aneNSYA+FWSTXd5IbLyAzIuIISi4MSGQGZdL9MvGciEllBFJciPF6Ez0J4TeejiOISRImEKHM/AM71uVloSSy0ZLItmaxAbEzUlElYsulnfWMjT5cWk/DqOhZ9+C55dbUUtrbyzt49rKqouJ+yyhzTTU5QcqBLQhKLLMmB2utCUpih6Zy5cZlqU2JpVjLqe2s5Uasw1rGfv6+Nceviz4yePsbrNZUxYJrpdlK104xFGgNmBmxgCc/t3sPI8S7SZ0/nlVUujm4vYritgdvDg9waiTJ6PspYfy87WxpiwPk+2ambDcnwy04tc0ISrqBMslbE2n0NHGiwf1rByytcNLnfp31HhL9GRhkf6udidICxgeO0t7fEvvIcQyYnWOZA032yk7I95oYk4t0lPFO3k8Hebp5yZbH6yUza9EJaIz5GD7dxraebG8NnuTTYS98PhxBC0Zjl08gIekjze5hrqcyzVFL9KvMtlRSfTFYwxNUrl9jnkyhdk0uLO5/rXZ2Mfb2fX3/s5O74TS4N9HDuWAdCFG1DbMxHbCpEbPkMsbEAsakAkb8ZUbDF0SzD5OxPg/Qf6aRa+ZQvNm/gyqFWbn7/HX8c7eb3Kxe4duYkURs4pVQiaWsR04uKmT5hJ24tImlbKUnFJUzbVsIMr0H38R6unzjJb7fv0WRt5eh2ndGmRu5ER/jl8ii3oqfo7foWEad6eay6hsdrdrCkqprc6lpnnlNVzbLaOuYEwySqXk719XG5r5/zXZ18KX3EoQoPV3t6uXdhnD8vXOf26Hk6jrQhZhs+XJEKMkMRssPlLIyUk1Ne6di2FkUqSNJNQgeb6W9qpEdTOeyTGPqmmTsD5/in7yJ3Tw5zMzrMJ80HEDN1k1RfAFd5pbM5p6LS0ZKKKsfJvECQaV7DaVVpbg/LdT+rw5WstSzyIlV8ULuLN6rqyAkEnUMgJpupfUYVDWH3OUUj7v5cUkhQVFyhCAusEBnhCAm6yUyvQYoNUTyOM6dh2Mc0zTBI0rxM9agkqbY0kjSNRNt2OoiHLMPHx3vrydu1m8KDLazcUceGup1s2t9ImhVyYE53t7UsFGCWbhCuDzN+MEB0n8lwo5+Bei83WizytvudvjjVbl32Bsk9eT3EPXpF/Kd/ATnVk/GiEU45AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Angela Saccone - Web security basics&quot;
+        title=&quot;Angela Saccone - Web security basics&quot;
+        src=&quot;/blog/static/e626fd002d01b56c781e858e291e3edb/f058b/angela.png&quot;
+        srcset=&quot;/blog/static/e626fd002d01b56c781e858e291e3edb/c26ae/angela.png 158w,
+/blog/static/e626fd002d01b56c781e858e291e3edb/6bdcf/angela.png 315w,
+/blog/static/e626fd002d01b56c781e858e291e3edb/f058b/angela.png 630w,
+/blog/static/e626fd002d01b56c781e858e291e3edb/40601/angela.png 945w,
+/blog/static/e626fd002d01b56c781e858e291e3edb/302a4/angela.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Registration link:  &lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_5hip_DofSjiFptWJNm5Bug&quot;&gt;https://us02web.zoom.us/webinar/register/WN_5hip_DofSjiFptWJNm5Bug&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Join our slack community:
+&lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;About Angela Saccone&lt;/h2&gt;
+&lt;p&gt;Angela is a Community Manager at MetaCTF. She is also an active volunteer for Women Who Code. She also enjoys learning different languages (both oral and computer)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[May 16 2022, Beginner's frontend study group]]></title><description><![CDATA[Registration link:  https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6 Join our slack community:
 https://join…]]></description><link>https://frontendstudygroup.github.io/blog/may-16-beginner-frontend-study-group/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/may-16-beginner-frontend-study-group/</guid><pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/july-2022/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"In this web security walkthrough, people will learn about cross-site scripting (XSS) and web security methods, such as HMTL entity encoding…","fields":{"slug":"/july-29-web-security-basics/"},"frontmatter":{"date":"July 30, 2022","title":"July 29 2022, Web Security Basics","description":"Learn about cross-site scripting (XSS) and web security methods","tags":["2022","july-2022","webinar"]}}]}},"pageContext":{"tag":"july-2022"}},
+    "staticQueryHashes": ["2841359383"]}
