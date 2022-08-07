@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tag-template-js",
     "path": "/tags/report/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"WWCode Frontend Track Report Q1 2022 in tabular format WWCode Frontend Track Report Q1 2022 in columnar format WWCode Frontend Track digital…","fields":{"slug":"/report-q1-2022/"},"frontmatter":{"date":"March 31, 2022","title":"WWCode Frontend Track Report Q4 2021 - Q1 2022","description":"Community metrics for Q4 2021 and Q1 2022.","tags":["2022","march-2022","report"]}}]}},"pageContext":{"tag":"report"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"WWCode Frontend Track Report 2021 - 22 (Heatmap) WWCode Frontend Track Report 2021 - 22 (Columnar view) WWCode Frontend Track digital events…","fields":{"slug":"/report-q1-2022/"},"frontmatter":{"date":"August 07, 2022","title":"WWCode Frontend Track Report 2021 - 2022","description":"Community metrics from Q4 2021 to Q2 2022.","tags":["2022","august-2022","report"]}}]}},"pageContext":{"tag":"report"}},
     "staticQueryHashes": ["2841359383"]}
