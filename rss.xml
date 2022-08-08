@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Aug 2022 12:27:42 GMT</lastBuildDate><item><title><![CDATA[WWCode Frontend Track Report 2021 - 2022]]></title><description><![CDATA[WWCode Frontend Track Report 2021 - 22 (Heatmap) WWCode Frontend Track Report 2021 - 22 (Columnar view) WWCode Frontend Track digital events…]]></description><link>https://frontendstudygroup.github.io/blog/report-q1-2022/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/report-q1-2022/</guid><pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;WWCode Frontend Track Report 2021 - 22 (Heatmap)&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 08 Aug 2022 11:59:31 GMT</lastBuildDate><item><title><![CDATA[August 26 2022, Frontend to Serverless]]></title><description><![CDATA[Frontend to Serverless You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/august-26-frontend-to-serverless/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/august-26-frontend-to-serverless/</guid><pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/d110dd68416df3dda42802705c483c6d/302a4/banner.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADoElEQVQ4y42SW0xcVRSGN9BiSaVQJIZiG020VCTpQ9MYX/RFTZvapIlVY4JVoAUbjQh0Luc6tzMzh+EyDFCwjYEZHLEhqW2jEfpgNA3iFROtPhGpRnyoMWpNTLSNyWf2nqEM0qoPK2vts9f69///64ifvzrMpY+a+GG+haX5Zq5eOsK1xeepD5oIzaLIMBGGhdAthKxNE+Gxef/8y3D5CL8vtPLnYivXvm3l6mIrYvqNRvrDT5CwD2J2Pc7lL5r59esXqfLlAIoliG6s1BKw0+a9mU7+WGgmM/g0Y8mnGHGfZPbsM4hfvmziwkwTZ8+1cGHmOfiuBfekH3HMpkgOazalVhjhDyD8NsXy2zGb9pQOCy2Mjx9idPQQff2NzE43IT6fa4elo/D9UfjmBYbHfJR4bMWoRLfYFfNw2n2HEXeChngH63RbsSzqCnDqlCc3+2Mb/NQGS20IOfxg1OBgQudev6XkKFm6SaUZYJ/byelkmMlBhwOJDqrMoLpTPV02jb0a6TOdpM918OwJL0IZLYGkZ7pJsZX3ysidZX737ROMT00ifEZ+OfmQoF4L0RHIEZHKls0uWTY9D77etBBeP/tSo1yZO89vH3/CA719CJ9Oka4jNE2Blpim8lWGrMUKkxxYraPz6LCmFrDeCmJnp7gy/wF/XbxI8s1phMfP9t5udvTEEH6DIqOAsWS/fFD/m8/m/qRBYMrLtpiXhugwmbFpZrMf8unkZ7yVnWOLHaU+NURd/zDCr+XBzBXQQq9U9hoIzaQq5FMsa7ribG1PUPtSgtoul1ItgPB5cuE3Vs8aBQzlh1vsINsSPZSHHTaGomyKRNgUc9jghKhOxCmPOpSFwlRGYlTHXDY7UYpNewVsFaBmcGsowiNjaR4eG2dvOsP+iSx70xM8dPJV9oxn2J/JsnvkFfakMzw28RoHsq9TFgip2ZtL9uv5MHKNPl1tW3h8ubx8J7NP+3fJueUUnDWDjcEwW9wEd3T3UON2s84K5B7SzdW9ayQXvFRi2kqKHK4IO9zTn+Su3j7u7Omj1A4qr2VeA7YKsMDLiohDQ2qInUPD3N2XpNZNUBPvpn5gkB3JFLuOj6r7smD4PwAL/dCM69KuR6HPy/b8b0DDUlvfEAgp+ZWRqLKgyolxWzS+8thNPfwHsFzGzqHj7B4ZpS45wPb+AaqjceqSKe5LDVERia5ld0PAfJPc6tZED5udmKrLwxHFTNa3x1zl5Y0k/w0cdWeUDY8KaQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Frontend to Serverless&quot;
+        title=&quot;Frontend to Serverless&quot;
+        src=&quot;/blog/static/d110dd68416df3dda42802705c483c6d/f058b/banner.png&quot;
+        srcset=&quot;/blog/static/d110dd68416df3dda42802705c483c6d/c26ae/banner.png 158w,
+/blog/static/d110dd68416df3dda42802705c483c6d/6bdcf/banner.png 315w,
+/blog/static/d110dd68416df3dda42802705c483c6d/f058b/banner.png 630w,
+/blog/static/d110dd68416df3dda42802705c483c6d/40601/banner.png 945w,
+/blog/static/d110dd68416df3dda42802705c483c6d/302a4/banner.png 1080w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Frontend to Serverless&lt;/h2&gt;
+&lt;p&gt;You have built your awesome web application and now you want to share it with the world! Where do you start? How do you get code from your machine to the cloud? In this webinar, you will learn how to develop a web application locally and set it up for cloud deployment. You will also learn about Serverless functions and how you can amplify your web development skills!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_zc_otnBRRCut0A7lUYZP9Q&quot;&gt;Registration Link&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Princiya Sequeira&lt;/h2&gt;
+&lt;p&gt;Princiya Sequeira has a dozen years of experience building full-stack web &amp;#x26; mobile apps, implementing CI/CD solutions, supporting infrastructures, and leading technical teams. Princiya is a WWCode Leadership Fellow and an Engineering Manager at Anaconda.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WWCode Frontend Track Report 2021 - 2022]]></title><description><![CDATA[WWCode Frontend Track Report 2021 - 22 (Heatmap) WWCode Frontend Track Report 2021 - 22 (Columnar view) WWCode Frontend Track digital events…]]></description><link>https://frontendstudygroup.github.io/blog/report-q1-2022/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/report-q1-2022/</guid><pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;WWCode Frontend Track Report 2021 - 22 (Heatmap)&lt;/h2&gt;
 &lt;iframe title=&quot;WWCode Frontend 2021 - 2022&quot; aria-label=&quot;Table&quot; id=&quot;datawrapper-chart-dVVi9&quot; src=&quot;https://datawrapper.dwcdn.net/dVVi9/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
 &lt;/script&gt;
 &lt;h2&gt;WWCode Frontend Track Report 2021 - 22 (Columnar view)&lt;/h2&gt;
