@@ -7,6 +7,9 @@ contentType: "slides"
 author: "Angela Saccone"
 tags: ["2022", "july-2022", "webinar"]
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNxy56vet8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In this web security walkthrough, people will learn about cross-site scripting (XSS) and web security methods, such as HMTL entity encoding, using JavaScript to protect their websites from cyber-attacks.
 
 ![Angela Saccone - Web security basics](./angela.png)

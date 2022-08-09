@@ -8,6 +8,8 @@ author: "WWCodeFrontend and WWCodeCloud"
 tags: ["2022", "april-2022", "webinar", "cloud-frontend"]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fF8ZOMJ4IRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Serverless on AWS](./part5.png)
 
 ## Let your code fly high

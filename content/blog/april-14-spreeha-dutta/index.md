@@ -8,6 +8,8 @@ author: "WWCodeFrontend"
 tags: ["2022", "april-2022", "webinar"]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3e9EjdlsGZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Spreeha Dutta - The ABCs of Automating Tests for Software Applications](./spreeha-dutta.png)
 
 ## The ABCs of Automating Tests for Software Applications
