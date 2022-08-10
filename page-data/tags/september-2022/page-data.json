@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-template-js",
+    "path": "/tags/september-2022/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Frontend blog"}},"allMarkdownRemark":{"totalCount":1,"nodes":[{"excerpt":"Registration link - https://us02web.zoom.us/webinar/register/WN_h3O0AccwSI-Jz1_xF5-x0A About Ophelia Ophelia is a frontend Blockchain & NFT…","fields":{"slug":"/sep-7-frontend-interview-tips/"},"frontmatter":{"date":"September 07, 2022","title":"September 07 2022, Frontend interview preparation tips","description":"Wrap up - 12 weeks cohort based learning for beginner's level frontend skills","tags":["2022","september-2022","webinar"]}}]}},"pageContext":{"tag":"september-2022"}},
+    "staticQueryHashes": ["2841359383"]}
