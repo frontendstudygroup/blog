@@ -1,66 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 12:19:50 GMT</lastBuildDate><item><title><![CDATA[September 07 2022, Frontend interview preparation tips]]></title><description><![CDATA[Registration link - https://us02web.zoom.us/webinar/register/WN_h3O0AccwSI-Jz1_xF5-x0A About Ophelia Ophelia is a frontend Blockchain & NFT…]]></description><link>https://frontendstudygroup.github.io/blog/sep-7-frontend-interview-tips/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/sep-7-frontend-interview-tips/</guid><pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Registration link - &lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_h3O0AccwSI-Jz1_xF5-x0A&quot;&gt;https://us02web.zoom.us/webinar/register/WN_h3O0AccwSI-Jz1_xF5-x0A&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Frontend blog]]></title><description><![CDATA[Frontend blog of the community, for the community and by the community]]></description><link>https://frontendstudygroup.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 12:25:56 GMT</lastBuildDate><item><title><![CDATA[September 07 2022, Frontend interview preparation tips]]></title><description><![CDATA[Registration link - https://us02web.zoom.us/webinar/register/WN_h3O0AccwSI-Jz1_xF5-x0A About Ophelia Ophelia is a frontend Blockchain & NFT…]]></description><link>https://frontendstudygroup.github.io/blog/sep-7-frontend-interview-tips/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/sep-7-frontend-interview-tips/</guid><pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Registration link - &lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_h3O0AccwSI-Jz1_xF5-x0A&quot;&gt;https://us02web.zoom.us/webinar/register/WN_h3O0AccwSI-Jz1_xF5-x0A&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;About Ophelia&lt;/h2&gt;
 &lt;p&gt;Ophelia is a frontend Blockchain &amp;#x26; NFT Engineer, who intends to leverage the power of these technologies to build solutions in Ghana, Africa while constantly striving to give back.&lt;/p&gt;
 &lt;h2&gt;Studygroup kick off&lt;/h2&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/5CL8PFE6t30&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;./studygroup.png&quot; alt=&quot;Frontend study group&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Registration link:  &lt;a href=&quot;https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6&quot;&gt;https://us02web.zoom.us/meeting/register/tZErcOyoqjkuHdBklWLNkJL4P4xelLmvJWY6&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Join our slack community:
-&lt;a href=&quot;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&quot;&gt;https://join.slack.com/t/womenwhocodefrontend/shared_invite/zt-gaic5y90-pDJK4H_NbObZ_MU_rcYc0A&lt;/a&gt;
-and join the &lt;code class=&quot;language-text&quot;&gt;#js-studygroup&lt;/code&gt; slack channel!&lt;/p&gt;
-&lt;h2&gt;About Ophelia&lt;/h2&gt;
-&lt;p&gt;Ophelia is a frontend Blockchain &amp;#x26; NFT Engineer, who intends to leverage the power of these technologies to build solutions in Ghana, Africa while constantly striving to give back.&lt;/p&gt;
-&lt;h2&gt;What?&lt;/h2&gt;
-&lt;p&gt;Cohort based practical learning for beginner developers in WWCode Frontend Track.&lt;/p&gt;
-&lt;h2&gt;Why?&lt;/h2&gt;
-&lt;p&gt;For a while now, WWCode Frontend has targeted Women with at least a year’s
-programming experience. However, now more than ever we see women making a switch
-to web development and hence beginning the learning journey. This initiative seeks to
-help such women speed up their learning processes, while helping them to gain
-confidence through practice.&lt;/p&gt;
-&lt;h2&gt;Importance of this project:&lt;/h2&gt;
-&lt;p&gt;⁃ New developers build confidence
-⁃ Reduces the chances of Imposter Syndrome
-⁃ Equips new WWCode Frontend members with basic web development knowledge
-and practice before ushering them into the main group. This will enable them to relate
-better with content shared and confidently contribute.&lt;/p&gt;
-&lt;h2&gt;Who?&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Beginner developers&lt;/li&gt;
-&lt;li&gt;Bootcamp learners/ graduates&lt;/li&gt;
-&lt;li&gt;Self-taught developers&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;How?&lt;/h2&gt;
-&lt;p&gt;12 weeks per cohort
-&amp;#x3C;= 10 learners per cohort&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./timeline.png&quot; alt=&quot;Timeline&quot;&gt;&lt;/p&gt;
-&lt;h3&gt;HTML &amp;#x26; CSS - 4 weeks&lt;/h3&gt;
-&lt;p&gt;⁃ Web Intro, Sharing of resources &amp;#x26; GitHub setup
-⁃ Basics of HTML (2 exercises)
-⁃ Basics of CSS (2 exercises)
-⁃ Grid &amp;#x26; Flexbox (2 exercises)
-⁃ Responsiveness (1 big project)&lt;/p&gt;
-&lt;h3&gt;JavaScript - 5 weeks&lt;/h3&gt;
-&lt;p&gt;⁃ Intro &amp;#x26; Assign Study partners
-⁃ JavaScript Basics (2 exercises)
-⁃ DOM (2 exercises)&lt;/p&gt;
-&lt;p&gt;⁃ Fetching Data (1 big project)
-⁃ OOP&lt;/p&gt;
-&lt;h3&gt;ES6 - 2 weeks - New JS Features&lt;/h3&gt;
-&lt;h3&gt;Final Project - 1week&lt;/h3&gt;
-&lt;p&gt;Pair programming / Open source&lt;/p&gt;
-&lt;h2&gt;Execution Details&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Share timetable and resources&lt;/li&gt;
-&lt;li&gt;Give weekly reminders&lt;/li&gt;
-&lt;li&gt;Pair programming and study session every Saturday &amp;#x26; Sunday&lt;/li&gt;
-&lt;li&gt;Encourage writing of articles and sharing of work on social media.&lt;/li&gt;
-&lt;li&gt;Leader board &amp;#x26; Learner Motivation&lt;/li&gt;
-&lt;li&gt;Demo portfolio &amp;#x26; Graduation&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;⁃ Exercises &amp;#x26; coding challenges
-⁃ 3 big projects (2 individual, 1 pair programming)
-⁃ Hackerrank (10days JS)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[August 26 2022, Frontend to Serverless]]></title><description><![CDATA[Frontend to Serverless You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/august-26-frontend-to-serverless/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/august-26-frontend-to-serverless/</guid><pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;/blog/ffd3fef0efae7c5ec91bb7c8754ce924/index.md&quot;&gt;Kickoff&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/5CL8PFE6t30&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[August 26 2022, Frontend to Serverless]]></title><description><![CDATA[Frontend to Serverless You have built your awesome web application and now you want to share it with the world! Where do you start? How do…]]></description><link>https://frontendstudygroup.github.io/blog/august-26-frontend-to-serverless/</link><guid isPermaLink="false">https://frontendstudygroup.github.io/blog/august-26-frontend-to-serverless/</guid><pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
